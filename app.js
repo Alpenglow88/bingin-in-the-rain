@@ -1,6 +1,9 @@
 const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
+const films = require('./films.json');
+
+const numberOfFilms = films.length
 
 app.use(express.static('public'));
 app.set('view engine', 'ejs');
@@ -12,7 +15,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/films', function (req, res) {
-  res.render('films');
+  res.render('films', {filmList: films, filmCount: numberOfFilms});
 });
 
 

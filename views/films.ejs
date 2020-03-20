@@ -3,23 +3,24 @@
 
 <head>
     <meta charset="utf-8">
-    <title>oTTo Test Site</title>
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <title>Bingin' Film List</title>
+    <link rel="stylesheet" type="text/css" href="/css/film_list_style.css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+
+    <div class="heading" data_test_automation_id="main_heading">
+        <h1>Bingin' Film List</h1>
+    </div>
 </head>
 
 <body>
-
-    <div class="container">
-        <fieldset>
-            <div data_test_automation_id="waiting-placeholder"
-                    <p>Nothing to see here, just move along</p>
-                    </div>
-
-        </fieldset>
+    <div class="body-wide" data_test_automation_id="film_count" <p>Total number of films <%= filmCount %></p>
     </div>
 
+    <div class="body-wide" data_test_automation_id="film_list" <p><%= filmList %></p>
+    </div>
 
+    <div class="body-wide" data_test_automation_id="extra_text" <p>some extra text</p>
+    </div>
 </body>
 
 </html>

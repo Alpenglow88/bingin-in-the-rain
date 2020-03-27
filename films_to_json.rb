@@ -11,7 +11,8 @@ File.delete('./films.json') if File.exist?('./films.json')
 # scans selected folder for file names and formats them correctly
 File.write('./filelist.json', Dir.entries('home movies/.').drop(2))
 list = File.read('filelist.json').tr('_', '-').gsub!('.mp4', '').gsub!('.', ' ')
-films = JSON.parse(list)
+films_data = JSON.parse(list)
+films = films_data.sort
 last_film = films[films.length - 1].capitalize()
 
 File.open('./films.json', 'a') do |f|

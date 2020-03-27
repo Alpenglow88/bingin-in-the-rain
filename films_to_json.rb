@@ -34,6 +34,16 @@ films.each do |film|
   vote_average = rb[0]['vote_average']
   film_id = rb[0]['id']
 
+  genre_api = "https://api.themoviedb.org/3/movie/#{film_id}?api_key=#{TMDBAPIKEY}&language=en-US"
+  genre_response = RestClient.get(genre_api)
+  grb = JSON.parse(genre_response.body)
+  number_of_tags = (grb["genres"].length)
+  number_of_tags_json = (grb["genres"].length - 1)
+  genres_hash = {}
+  (0..number_of_tags_json).each do |i|
+    genres_hash[:"#{i}"] = grb["genres"][i]["name"]
+  end
+
   image_url = "https://image.tmdb.org/t/p/w600_and_h900_bestv2\'#{poster_path_filmname}\'".delete "'"
   # Launchy.open(image_url)
 
@@ -61,7 +71,9 @@ films.each do |film|
       'overview' => filmoverview,
       'imageUrl' => image_url,
       'imdbScore' => vote_average.to_s,
-      'trailerLink' => film_trailer
+      'trailerLink' => film_trailer,
+      'numberOfGenres' => number_of_tags,
+      'genres' => genres_hash
     }
   }
 

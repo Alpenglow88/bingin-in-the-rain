@@ -6,6 +6,8 @@ require 'launchy'
 
 require './constants.rb'
 
+File.delete('./films.json') if File.exist?('./films.json')
+
 # scans selected folder for file names and formats them correctly
 File.write('./filelist.json', Dir.entries('home movies/.').drop(2))
 list = File.read('filelist.json').tr('_', '-').gsub!('.mp4', '').gsub!('.', ' ')

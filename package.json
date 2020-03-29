@@ -10,7 +10,7 @@
     "film-json": "ruby films_to_json.rb",
     "construct-film-list-ejs": "node scripts/film_list_top.js && node scripts/film_list_divs.js && node scripts/film_list_bottom.js",
     "prep-deploy": "npm run film-json && npm run construct-film-list-ejs",
-    "git-pushing": "git add -A && git commit -m '' "
+    "commit-code": "git add -A && git commit -m 'commit for deployment' && git push"
   },
   "author": "Ian Goddard",
   "license": "ISC",

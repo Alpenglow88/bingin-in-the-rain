@@ -22,9 +22,7 @@ const topChunkText =`<!DOCTYPE html>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
 
     <div class="heading" data_test_automation_id="main_heading">
-        <h1>Bingin' Film List</h1>
-        <h2 class="centre" data_test_automation_id="film_count">Total number of films <%= filmCount %>
-        </h2>
+        <h1>Available Screenings</h1>
     </div>
 </head>
 

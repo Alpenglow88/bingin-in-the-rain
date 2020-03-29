@@ -1,0 +1,148 @@
+[
+{
+  "film": {
+    "title": "1917",
+    "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+    "imdbScore": "7.9",
+    "trailerLink": "https://www.youtube.com/watch?v=UcmZN0Mbl04",
+    "numberOfGenres": 4,
+    "genres": {
+      "0": "War",
+      "1": "Drama",
+      "2": "Action",
+      "3": "Thriller"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "It Chapter Two",
+    "overview": "27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+    "imdbScore": "6.8",
+    "trailerLink": "https://www.youtube.com/watch?v=zqUopiAYdRg",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Horror",
+      "1": "Drama",
+      "2": "Fantasy"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Kingdom of Heaven",
+    "overview": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aB4urkgTxBURJMUkd0kceDD7FUM.jpg",
+    "imdbScore": "6.7",
+    "trailerLink": "https://www.youtube.com/watch?v=-oO6pCRe3pM",
+    "numberOfGenres": 5,
+    "genres": {
+      "0": "Drama",
+      "1": "Action",
+      "2": "Adventure",
+      "3": "History",
+      "4": "War"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Onward",
+    "overview": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rQx8kJNfIZnlbILHUbRzK2HOng.jpg",
+    "imdbScore": "7.8",
+    "trailerLink": "https://www.youtube.com/watch?v=gn5QmllRCn4",
+    "numberOfGenres": 5,
+    "genres": {
+      "0": "Animation",
+      "1": "Adventure",
+      "2": "Comedy",
+      "3": "Family",
+      "4": "Fantasy"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Star Wars",
+    "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/btTdmkgIvOi0FFip1sPuZI2oQG6.jpg",
+    "imdbScore": "8.2",
+    "trailerLink": "https://www.youtube.com/watch?v=vZ734NWnAHA",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Action",
+      "2": "Science Fiction"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Assassination of Jesse James by the Coward Robert Ford",
+    "overview": "Outlaw Jesse James is rumored to be the 'fastest gun in the West'. An eager recruit into James' notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSFYLoaL4eW7Q5VQ7SZQP4EHRCt.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=nk0JaEwhf00",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Action",
+      "1": "Drama",
+      "2": "Western"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Darjeeling Limited",
+    "overview": "Three American brothers who have not spoken to each other in a year set off on a train voyage across India with a plan to find themselves and bond with each other -- to become brothers again like they used to be. Their \"spiritual quest\", however, veers rapidly off-course (due to events involving over-the-counter pain killers, Indian cough syrup, and pepper spray).",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/47AGp0EKNMjqBBPaxRYDW0Sc5If.jpg",
+    "imdbScore": "7.2",
+    "trailerLink": "https://www.youtube.com/watch?v=B2R7O2IlndM",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Drama",
+      "2": "Comedy"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Greatest Showman",
+    "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+    "imdbScore": "8",
+    "trailerLink": "https://www.youtube.com/watch?v=AXCTMGYUg9A",
+    "numberOfGenres": 1,
+    "genres": {
+      "0": "Drama"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Hobbit: An Unexpected Journey",
+    "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1XjBJoWdOh8aegBoVYKgABQZSL.jpg",
+    "imdbScore": "7.2",
+    "trailerLink": "https://www.youtube.com/watch?v=9PSXjr1gbjc",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Fantasy",
+      "2": "Action"
+    }
+  }
+}
+]

@@ -2,17 +2,20 @@
 
 require 'rest-client'
 require 'json'
-require 'launchy'
+# require 'launchy'
 
 require './constants.rb'
 
 File.delete('./films.json') if File.exist?('./films.json')
+File.delete('./views/films.ejs') if File.exist?('./views/films.ejs')
 
 # scans selected folder for file names and formats them correctly
-File.write('./filelist.json', Dir.entries('home movies/.').drop(2))
+File.write('./filelist.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
 list = File.read('filelist.json').tr('_', '-')
            .gsub!('.mp4', '')
+           .gsub('.1.1.2', '')
            .gsub('.1080p', '')
+           .gsub('.1080', '')
            .gsub('1080p', '')
            .gsub('.720p', '')
            .gsub('720p', '')
@@ -20,13 +23,24 @@ list = File.read('filelist.json').tr('_', '-')
            .gsub('WEBRip', '')
            .gsub('.BrRip', '')
            .gsub('BrRip', '')
+           .gsub('.Brrip', '')
+           .gsub('Brrip', '')
            .gsub('.BRrip', '')
            .gsub('BRrip', '')
+           .gsub('.BRRip', '')
+           .gsub('BRRip', '')
+           .gsub(' HDRip ', '')
            .gsub('.x264', '')
            .gsub('x264', '')
+           .gsub('.X264', '')
+           .gsub('X264', '')
+           .gsub('.H264', '')
+           .gsub('H264', '')
+           .gsub('264', '')
            .gsub('.H265', '')
            .gsub('H265', '')
            .gsub('-RARBG', '')
+           .gsub('RARBG - ', '')
            .gsub('.RARBG', '')
            .gsub('RARBG', '')
            .gsub('.AAC5.1', '')
@@ -45,6 +59,7 @@ list = File.read('filelist.json').tr('_', '-')
            .gsub('.Bluray', '')
            .gsub('Bluray', '')
            .gsub('.YIFY', '')
+           .gsub('-YIFY', '')
            .gsub('YIFY', '')
            .gsub('.Deceit', '')
            .gsub('Deceit', '')
@@ -73,8 +88,10 @@ list = File.read('filelist.json').tr('_', '-')
            .gsub('.GAZ', '')
            .gsub('GAZ', '')
            .gsub('.ETRG', '')
+           .gsub('-ETRG', '')
            .gsub('ETRG', '')
            .gsub('.KiNGDOM', '')
+           .gsub('-KiNGDOM', '')
            .gsub('KiNGDOM', '')
            .gsub('.HDTV', '')
            .gsub('HDTV', '')
@@ -89,7 +106,9 @@ list = File.read('filelist.json').tr('_', '-')
            .gsub('PlutO', '')
            .gsub('~', '')
            .gsub('.MgB', '')
+           .gsub('-MgB', '')
            .gsub('MgB', '')
+           .gsub('.REMASTERED', '')
            .gsub(' Directors Cut', '')
            .gsub(' Directors Cut ', '')
            .gsub(" Director's Cut", '')
@@ -99,9 +118,14 @@ list = File.read('filelist.json').tr('_', '-')
            .gsub("Director's.Cut", '')
            .gsub('Directors Cut', '')
            .gsub('Directors.Cut', '')
+           .gsub('.DC', '')
            .gsub('.', ' ')
+           .gsub('  Part 1', 'Part 1')
            .gsub(' [', ' ')
+           .gsub(' - ', '')
            .gsub('7]', '7')
+           .gsub(' 10th Anniversary Edition', '')
+           .gsub(' DVDRip', '')
            .gsub(' 1920', '')
            .gsub(' 1921', '')
            .gsub(' 1922', '')
@@ -225,12 +249,35 @@ films.each do |film|
   response = RestClient.get(apicall)
   rb = JSON.parse(response.body)['results']
   # File.write('./response.json', JSON.pretty_generate(rb))
-
+begin
   filmname = rb[0]['title']
+rescue NoMethodError
+  filmname = film
+end
+
+begin
   filmoverview = rb[0]['overview']
+rescue NoMethodError
+  filmoverview = 'No Overview to display'
+end
+
+begin
   poster_path_filmname = rb[0]['poster_path']
+rescue NoMethodError
+  poster_path_filmname = 'rykV5sHTso6Sr6DCmmC7agCbYvn'
+end
+
+begin
   vote_average = rb[0]['vote_average']
+rescue NoMethodError
+  vote_average = '-'
+end
+
+begin
   film_id = rb[0]['id']
+rescue NoMethodError
+  film_id = '15379'
+end
 
   genre_api = "https://api.themoviedb.org/3/movie/#{film_id}?api_key=#{TMDBAPIKEY}&language=en-US"
   genre_response = RestClient.get(genre_api)

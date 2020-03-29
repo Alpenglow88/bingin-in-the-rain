@@ -1,7 +1,10 @@
 test.js
 test.rb
-# Gemfile.lock
-# Gemfile
-# constants.rb
-# films_to_json.rb
+
+Gemfile.lock
+Gemfile
+constants.rb
+films_to_json.rb
+.ruby-version
+
 node_modules

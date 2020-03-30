@@ -1,0 +1,15 @@
+{
+  "film": {
+    "title": "Midnight Special",
+    "overview": "A father and son go on the run after the dad learns his child possesses special powers.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqIjExm1RJEkbGPtMBXnP20MmHm.jpg",
+    "imdbScore": "6.3",
+    "trailerLink": "https://www.youtube.com/watch?v=oVgxxdu-gJc",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Drama",
+      "2": "Science Fiction"
+    }
+  }
+}

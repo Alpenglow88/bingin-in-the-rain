@@ -1,0 +1,16 @@
+{
+  "film": {
+    "title": "Onward",
+    "overview": "In a suburban fantasy world, two teenage step brothers embark on an extraordinary sexual odyssey to discover if there is still a little magic left out there.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rQx8kJNfIZnlbILHUbRzK2HOng.jpg",
+    "imdbScore": "7.8",
+    "trailerLink": "https://www.youtube.com/watch?v=gn5QmllRCn4",
+    "numberOfGenres": 4,
+    "genres": {
+      "0": "Animation",
+      "1": "Family",
+      "2": "Drama",
+      "3": "Romance"
+    }
+  }
+}

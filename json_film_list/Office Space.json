@@ -1,0 +1,13 @@
+{
+  "film": {
+    "title": "Office Space",
+    "overview": "Three office workers strike back at their evil employers by hatching a hapless attempt to embezzle money.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iO9aZzrfmMvm3IqkFiQyuuUMLh2.jpg",
+    "imdbScore": "7.4",
+    "trailerLink": "https://www.youtube.com/watch?v=G_wiXgRWrIU",
+    "numberOfGenres": 1,
+    "genres": {
+      "0": "Comedy"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "film": {
+    "title": "Anthropoid",
+    "overview": "In December 1941, Czech soldier Jozef Gabčík and Jan Kubiš parachute into their occupied homeland to assassinate Nazi officer Reinhard Heydrich",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hUghRVVkBYufftfNQkGevY5AmE.jpg",
+    "imdbScore": "7",
+    "trailerLink": "https://www.youtube.com/watch?v=fgR1jhEt37Y",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "History",
+      "1": "Thriller",
+      "2": "War"
+    }
+  }
+}

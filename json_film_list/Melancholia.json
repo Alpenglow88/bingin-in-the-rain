@@ -1,0 +1,14 @@
+{
+  "film": {
+    "title": "Melancholia",
+    "overview": "Two sisters find their already strained relationship challenged as a mysterious new planet threatens to collide with Earth.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCjATHunhgLl9ARKUFtmKguaWDJ.jpg",
+    "imdbScore": "7.2",
+    "trailerLink": "https://www.youtube.com/watch?v=22072654",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Drama",
+      "1": "Science Fiction"
+    }
+  }
+}

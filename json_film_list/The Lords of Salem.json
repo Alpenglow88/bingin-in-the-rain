@@ -1,0 +1,14 @@
+{
+  "film": {
+    "title": "The Lords of Salem",
+    "overview": "The City of Salem, Massachusetts is visited by a coven of ancient witches.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1McyfXZO1F0zfrpbqqz3DvvlZ73.jpg",
+    "imdbScore": "5.3",
+    "trailerLink": "https://www.youtube.com/watch?v=Y606RoSur8o",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Horror",
+      "1": "Thriller"
+    }
+  }
+}

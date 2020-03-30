@@ -1,0 +1,17 @@
+{
+  "film": {
+    "title": "Inherent Vice",
+    "overview": "In Los Angeles at the turn of the 1970s, drug-fueled detective Larry \"Doc\" Sportello investigates the disappearance of an ex-girlfriend.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uc5sYJg8wH0RmkIMv5iqHNsP3a6.jpg",
+    "imdbScore": "6.6",
+    "trailerLink": "https://www.youtube.com/watch?v=wZfs22E7JmI",
+    "numberOfGenres": 5,
+    "genres": {
+      "0": "Comedy",
+      "1": "Romance",
+      "2": "Crime",
+      "3": "Drama",
+      "4": "Mystery"
+    }
+  }
+}

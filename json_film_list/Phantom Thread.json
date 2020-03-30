@@ -1,0 +1,14 @@
+{
+  "film": {
+    "title": "Phantom Thread",
+    "overview": "Renowned British dressmaker Reynolds Woodcock comes across Alma, a young, strong-willed woman, who soon becomes a fixture in his life as his muse and lover.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WluIY7Omf1hjHnaFW39pGugNmg.jpg",
+    "imdbScore": "7.3",
+    "trailerLink": "https://www.youtube.com/watch?v=xNsiQMeSvMk",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Drama",
+      "1": "Romance"
+    }
+  }
+}

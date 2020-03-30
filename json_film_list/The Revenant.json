@@ -1,0 +1,15 @@
+{
+  "film": {
+    "title": "The Revenant",
+    "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXUWEc5i3wYyFnL1Ycu8ppxxPvs.jpg",
+    "imdbScore": "7.5",
+    "trailerLink": "https://www.youtube.com/watch?v=LoebZZ8K5N0",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Western",
+      "1": "Drama",
+      "2": "Adventure"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "film": {
+    "title": "Kuso",
+    "overview": "Broadcasting through a makeshift network of discarded televisions, this story is tangled up in the aftermath of Los Angeles's worst earthquake nightmare. Travel between screens and aftershocks into the twisted lives of the survived.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Pl3Vptkzaum6FZ5K6iDqybuhp4.jpg",
+    "imdbScore": "6.3",
+    "trailerLink": "https://www.youtube.com/watch?v=SLxKJHBhZP0",
+    "numberOfGenres": 5,
+    "genres": {
+      "0": "Horror",
+      "1": "Comedy",
+      "2": "Drama",
+      "3": "Fantasy",
+      "4": "Animation"
+    }
+  }
+}

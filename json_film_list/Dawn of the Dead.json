@@ -1,0 +1,16 @@
+{
+  "film": {
+    "title": "Dawn of the Dead",
+    "overview": "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfqsgzW6AQYmBjIEIq0y9EB1Rgl.jpg",
+    "imdbScore": "6.9",
+    "trailerLink": "https://www.youtube.com/watch?v=DV8mJcuYVaA",
+    "numberOfGenres": 4,
+    "genres": {
+      "0": "Fantasy",
+      "1": "Horror",
+      "2": "Action",
+      "3": "Drama"
+    }
+  }
+}

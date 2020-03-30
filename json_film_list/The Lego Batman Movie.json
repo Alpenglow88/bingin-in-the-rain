@@ -1,0 +1,17 @@
+{
+  "film": {
+    "title": "The Lego Batman Movie",
+    "overview": "In the irreverent spirit of fun that made \"The Lego Movie\" a worldwide phenomenon, the self-described leading man of that ensemble—Lego Batman—stars in his own big-screen adventure. But there are big changes brewing in Gotham, and if he wants to save the city from The Joker’s hostile takeover, Batman may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pHOqpdCYNmtRVJs6pGKQKttrPm.jpg",
+    "imdbScore": "7.2",
+    "trailerLink": "https://www.youtube.com/watch?v=aBJyp2LFHgk",
+    "numberOfGenres": 5,
+    "genres": {
+      "0": "Action",
+      "1": "Animation",
+      "2": "Comedy",
+      "3": "Family",
+      "4": "Fantasy"
+    }
+  }
+}

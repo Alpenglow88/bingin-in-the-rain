@@ -1,0 +1,18 @@
+{
+  "film": {
+    "title": "The Predator",
+    "overview": "When a kid accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled female scientist can prevent the end of the human race.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg",
+    "imdbScore": "5.3",
+    "trailerLink": "https://www.youtube.com/watch?v=WaG1KZqrLvM",
+    "numberOfGenres": 6,
+    "genres": {
+      "0": "Science Fiction",
+      "1": "Action",
+      "2": "Thriller",
+      "3": "Adventure",
+      "4": "Horror",
+      "5": "Comedy"
+    }
+  }
+}

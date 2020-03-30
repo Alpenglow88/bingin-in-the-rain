@@ -1,0 +1,15 @@
+{
+  "film": {
+    "title": "The Zero Theorem",
+    "overview": "A computer hacker's goal to discover the reason for human existence continually finds his work interrupted thanks to the Management; this time, they send a teenager and lusty love interest to distract him.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsaRDf5Syw0dueU0mSXh4r1yzs0.jpg",
+    "imdbScore": "6.1",
+    "trailerLink": "https://www.youtube.com/watch?v=RyMSRRNHRos",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Drama",
+      "1": "Fantasy",
+      "2": "Science Fiction"
+    }
+  }
+}

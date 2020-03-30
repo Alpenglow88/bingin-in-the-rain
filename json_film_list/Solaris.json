@@ -1,0 +1,16 @@
+{
+  "film": {
+    "title": "Solaris",
+    "overview": "A troubled psychologist is sent to investigate the crew of an isolated research station orbiting a bizarre planet.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TTniVKEjUWs3DnAMEWMXP6V1ct.jpg",
+    "imdbScore": "6",
+    "trailerLink": "https://www.youtube.com/watch?v=n4sJA-E51bQ",
+    "numberOfGenres": 4,
+    "genres": {
+      "0": "Drama",
+      "1": "Science Fiction",
+      "2": "Mystery",
+      "3": "Romance"
+    }
+  }
+}

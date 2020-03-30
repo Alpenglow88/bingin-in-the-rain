@@ -1,0 +1,14 @@
+{
+  "film": {
+    "title": "Escape from Pretoria",
+    "overview": "Two white South Africans, imprisoned for working on behalf of the ANC, are determined to escape from Pretoria's notorious white man's 'Robben Island' Prison.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sI4StUppzQHzSU9QPiRUxOvQRvp.jpg",
+    "imdbScore": "6.7",
+    "trailerLink": "https://www.youtube.com/watch?v=WZgYO7-9Nq8",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Thriller",
+      "1": "Mystery"
+    }
+  }
+}

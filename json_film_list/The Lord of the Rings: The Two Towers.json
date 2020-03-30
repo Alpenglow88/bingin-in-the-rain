@@ -1,0 +1,15 @@
+{
+  "film": {
+    "title": "The Lord of the Rings: The Two Towers",
+    "overview": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+    "imdbScore": "8.3",
+    "trailerLink": "https://www.youtube.com/watch?v=cvCktPUwkW0",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Fantasy",
+      "2": "Action"
+    }
+  }
+}

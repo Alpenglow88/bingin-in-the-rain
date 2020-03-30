@@ -1,0 +1,15 @@
+{
+  "film": {
+    "title": "Jurassic World: Fallen Kingdom",
+    "overview": "Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg",
+    "imdbScore": "6.5",
+    "trailerLink": "https://www.youtube.com/watch?v=",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Science Fiction"
+    }
+  }
+}

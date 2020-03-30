@@ -1,0 +1,15 @@
+{
+  "film": {
+    "title": "Knives Out",
+    "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+    "imdbScore": "7.8",
+    "trailerLink": "https://www.youtube.com/watch?v=qGqiHJTsRkQ",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Mystery",
+      "1": "Thriller",
+      "2": "Comedy"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "film": {
+    "title": "Alien: Covenant",
+    "overview": "Bound for a remote planet on the far side of the galaxy, the crew of the colony ship 'Covenant' discovers what is thought to be an uncharted paradise, but is actually a dark, dangerous world—which has a sole inhabitant: the 'synthetic', David, survivor of the doomed Prometheus expedition.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
+    "imdbScore": "5.9",
+    "trailerLink": "https://www.youtube.com/watch?v=svnAD0TApb8",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Horror",
+      "1": "Science Fiction",
+      "2": "Thriller"
+    }
+  }
+}

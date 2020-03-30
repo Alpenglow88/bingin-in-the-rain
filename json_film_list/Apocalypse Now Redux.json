@@ -1,0 +1,12 @@
+{
+  "film": {
+    "title": "Apocalypse Now Redux",
+    "overview": "",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqHZimfKrQaCA6RmEDr7iOnTzaF.jpg",
+    "imdbScore": "8",
+    "trailerLink": "https://www.youtube.com/watch?v=4YKpBYo61Cs",
+    "numberOfGenres": 0,
+    "genres": {
+    }
+  }
+}

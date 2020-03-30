@@ -1,0 +1,14 @@
+{
+  "film": {
+    "title": "Reservoir Dogs",
+    "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7spS2Y4SZoQoC6Hn7zoqEqdYqR.jpg",
+    "imdbScore": "8.2",
+    "trailerLink": "https://www.youtube.com/watch?v=GLPJSmUHZvU",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Crime",
+      "1": "Thriller"
+    }
+  }
+}

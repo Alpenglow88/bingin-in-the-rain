@@ -1,0 +1,15 @@
+{
+  "film": {
+    "title": "Black Hawk Down",
+    "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUzQ4r3q1Dy0bUAkMvUIwf0rPpR.jpg",
+    "imdbScore": "7.3",
+    "trailerLink": "https://www.youtube.com/watch?v=2GfBkC3qs78",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Action",
+      "1": "History",
+      "2": "War"
+    }
+  }
+}

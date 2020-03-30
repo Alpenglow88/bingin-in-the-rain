@@ -1,0 +1,13 @@
+{
+  "film": {
+    "title": "Mud",
+    "overview": "Two boys find a fugitive hiding out on an island in the Mississippi River and form a pact to help him reunite with his lover and escape.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKElR1ssiqRSYb9tylSt46UXOFx.jpg",
+    "imdbScore": "7",
+    "trailerLink": "https://www.youtube.com/watch?v=DTEDfEhKwLo",
+    "numberOfGenres": 1,
+    "genres": {
+      "0": "Drama"
+    }
+  }
+}

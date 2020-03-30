@@ -1,0 +1,13 @@
+{
+  "film": {
+    "title": "The Greatest Showman",
+    "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+    "imdbScore": "8",
+    "trailerLink": "https://www.youtube.com/watch?v=AXCTMGYUg9A",
+    "numberOfGenres": 1,
+    "genres": {
+      "0": "Drama"
+    }
+  }
+}

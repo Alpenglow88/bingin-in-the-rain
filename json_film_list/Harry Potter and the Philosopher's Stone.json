@@ -1,0 +1,15 @@
+{
+  "film": {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard -- with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths -- and about the villain who's to blame.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHPtCmMeDqjaGqnMrWGDmD3nKd2.jpg",
+    "imdbScore": "7.8",
+    "trailerLink": "https://www.youtube.com/watch?v=PbdM1db3JbY",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Fantasy",
+      "2": "Family"
+    }
+  }
+}

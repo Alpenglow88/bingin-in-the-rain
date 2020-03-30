@@ -1,0 +1,16 @@
+{
+  "film": {
+    "title": "Safety Not Guaranteed",
+    "overview": "Three magazine employees head out on an assignment to interview a guy who placed a classified ad seeking a companion for time travel.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/18jsp9dpGnpIluiCLwrFv75pIZR.jpg",
+    "imdbScore": "6.9",
+    "trailerLink": "https://www.youtube.com/watch?v=73jSnAs7mq8",
+    "numberOfGenres": 4,
+    "genres": {
+      "0": "Comedy",
+      "1": "Romance",
+      "2": "Science Fiction",
+      "3": "Drama"
+    }
+  }
+}

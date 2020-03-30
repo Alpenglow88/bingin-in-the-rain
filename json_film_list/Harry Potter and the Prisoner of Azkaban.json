@@ -1,0 +1,14 @@
+{
+  "film": {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "overview": "Harry, Ron and Hermione return to Hogwarts for another magic-filled year. Harry comes face to face with danger yet again, this time in the form of escaped convict, Sirius Black—and turns to sympathetic Professor Lupin for help.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUFjMoLh8T2CWzHUSjKCojI5SHu.jpg",
+    "imdbScore": "8",
+    "trailerLink": "https://www.youtube.com/watch?v=R69laoH02xg",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Adventure",
+      "1": "Fantasy"
+    }
+  }
+}

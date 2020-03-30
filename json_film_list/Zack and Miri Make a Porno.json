@@ -1,0 +1,13 @@
+{
+  "film": {
+    "title": "Zack and Miri Make a Porno",
+    "overview": "Lifelong platonic friends Zack and Miri look to solve their respective cash-flow problems by making an adult film together. As the cameras roll, however, the duo begin to sense that they may have more feelings for each other than they previously thought.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxwEJBhSSu5AuKTTd4ugWaCqmg.jpg",
+    "imdbScore": "6.2",
+    "trailerLink": "https://www.youtube.com/watch?v=u2Y3cCOkz8o",
+    "numberOfGenres": 1,
+    "genres": {
+      "0": "Comedy"
+    }
+  }
+}

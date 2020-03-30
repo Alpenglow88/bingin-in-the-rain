@@ -1,0 +1,16 @@
+{
+  "film": {
+    "title": "The Matrix Revolutions",
+    "overview": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKogjhfs5q3azmpW7DFKKAeLEG8.jpg",
+    "imdbScore": "6.6",
+    "trailerLink": "https://www.youtube.com/watch?v=",
+    "numberOfGenres": 4,
+    "genres": {
+      "0": "Adventure",
+      "1": "Action",
+      "2": "Thriller",
+      "3": "Science Fiction"
+    }
+  }
+}

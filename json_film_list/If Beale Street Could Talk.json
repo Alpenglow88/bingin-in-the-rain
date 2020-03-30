@@ -1,0 +1,14 @@
+{
+  "film": {
+    "title": "If Beale Street Could Talk",
+    "overview": "After her fiance is falsely imprisoned, a pregnant African-American woman sets out to clear his name and prove his innocence.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tZx0OX7kxv6F2VNWZoPr2bWDgE.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=N4m3t3G3Zqc",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Drama",
+      "1": "Romance"
+    }
+  }
+}

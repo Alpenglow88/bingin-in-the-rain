@@ -1,0 +1,14 @@
+{
+  "film": {
+    "title": "Barton Fink",
+    "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/846d8FclibtOIoUW7PxpT0nCG4C.jpg",
+    "imdbScore": "7.5",
+    "trailerLink": "https://www.youtube.com/watch?v=WK0WjWlVO9w",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Comedy",
+      "1": "Drama"
+    }
+  }
+}

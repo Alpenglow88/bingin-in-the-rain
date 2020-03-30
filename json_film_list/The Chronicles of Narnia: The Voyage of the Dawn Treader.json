@@ -1,0 +1,15 @@
+{
+  "film": {
+    "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "overview": "This time around Edmund and Lucy Pevensie, along with their pesky cousin Eustace Scrubb find themselves swallowed into a painting and on to a fantastic Narnian ship headed for the very edges of the world.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRzEyrMSyvpHf92EhsVSg9Yr81t.jpg",
+    "imdbScore": "6.4",
+    "trailerLink": "https://www.youtube.com/watch?v=hrJQDPpIK6I",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Family",
+      "2": "Fantasy"
+    }
+  }
+}

@@ -231,7 +231,6 @@ list = File.read('filelist.json').tr('_', '-')
 films_data = JSON.parse(list)
 films = films_data.sort
 last_film_raw = films[films.length - 1]
-
 File.open('./films.json', 'a') do |f|
   f.puts '['
 end

@@ -1,6 +1,406 @@
 [
 {
   "film": {
+    "title": "Brahms: The Boy II",
+    "overview": "After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuuI1UVwnoyDoN691Z0bYZrOezx.jpg",
+    "imdbScore": "6.2",
+    "trailerLink": "https://www.youtube.com/watch?v=ECPfXUW0zt8",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Horror",
+      "1": "Mystery",
+      "2": "Thriller"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": " -Dead Alive AKA Brainded",
+    "overview": "No Overview to display",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2rykV5sHTso6Sr6DCmmC7agCbYvn",
+    "imdbScore": "-",
+    "trailerLink": "https://www.youtube.com/watch?v=CgmADv4tkLQ",
+    "numberOfGenres": 4,
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Thriller",
+      "3": "War"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": " -Disney Presents Enchanted",
+    "overview": "No Overview to display",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2rykV5sHTso6Sr6DCmmC7agCbYvn",
+    "imdbScore": "-",
+    "trailerLink": "https://www.youtube.com/watch?v=CgmADv4tkLQ",
+    "numberOfGenres": 4,
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Thriller",
+      "3": "War"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Quigley Down Under",
+    "overview": "American Matt Quigley answers Australian land baron Elliott Marston's ad for a sharpshooter to kill the dingoes on his property. But when Quigley finds out that Marston's real target is the aborigines, Quigley hits the road. Now, even American expatriate Crazy Cora can't keep Quigley safe in his cat-and-mouse game with the homicidal Marston.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaWZMk9t12lvb23hRrDmlmWgFKF.jpg",
+    "imdbScore": "6.5",
+    "trailerLink": "https://www.youtube.com/watch?v=xebFl_liB1E",
+    "numberOfGenres": 1,
+    "genres": {
+      "0": "Western"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Home Alone 4",
+    "overview": "Kevin McCallister's parents have split up. Now living with his mom, he decides to spend Christmas with his dad at the mansion of his father's rich girlfriend, Natalie. Meanwhile robber Marv Merchants, one of the villains from the first two movies, partners up with a new criminal named Vera to hit Natalie's mansion.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/359bHILkiD6ZVCq6WoHSD0UuJQV.jpg",
+    "imdbScore": "4.3",
+    "trailerLink": "https://www.youtube.com/watch?v=Pviq6Tw5sNA",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Crime",
+      "1": "Comedy",
+      "2": "Family"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": " -Its A Wonderful Life Colorized Version",
+    "overview": "No Overview to display",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2rykV5sHTso6Sr6DCmmC7agCbYvn",
+    "imdbScore": "-",
+    "trailerLink": "https://www.youtube.com/watch?v=CgmADv4tkLQ",
+    "numberOfGenres": 4,
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Thriller",
+      "3": "War"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Bad Boys for Life",
+    "overview": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+    "imdbScore": "6.6",
+    "trailerLink": "https://www.youtube.com/watch?v=jKCj3XuPG8M",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Thriller",
+      "1": "Action",
+      "2": "Crime"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Die Science Fiction Propheten - Mary Shelleys Frankenstein",
+    "overview": "",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/954mdlR4103pFxhuODhxraVp4tT.jpg",
+    "imdbScore": "0",
+    "trailerLink": "https://www.youtube.com/watch?v=4YKpBYo61Cs",
+    "numberOfGenres": 0,
+    "genres": {
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Sid & Nancy",
+    "overview": "In January 1978, after their success in England, the punk rock band Sex Pistols venture out on their tour of the southern United States. Temperamental bassist Sid Vicious is forced by his band mates and their manager to travel without his troubled girlfriend, Nancy Spungen, who will meet him in New York only after a traumatic event. When the band breaks up and Sid begins his solo career in a hostile city, the turbulent couple definitely falls into the depths of drug addiction and co-dependency, a last journey with no return.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHzCbMCfipDJ38GW5IyBTWDflMz.jpg",
+    "imdbScore": "6.9",
+    "trailerLink": "https://www.youtube.com/watch?v=hZp3meyWVm0",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Drama",
+      "1": "Music",
+      "2": "Romance"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Serenity",
+    "overview": "The quiet life of Baker Dill, a fishing boat captain who lives on the isolated Plymouth Island, where he spends his days obsessed with capturing an elusive tuna while fighting his personal demons, is interrupted when someone from his past comes to him searching for help.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg",
+    "imdbScore": "5.3",
+    "trailerLink": "https://www.youtube.com/watch?v=k3zMlsEK8xA",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Thriller",
+      "1": "Mystery",
+      "2": "Drama"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "overview": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8V09dDc02KsSN6Q4hC2BX6hN8X.jpg",
+    "imdbScore": "6.4",
+    "trailerLink": "https://www.youtube.com/watch?v=bD7bpG-zDJQ",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Action",
+      "2": "Science Fiction"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "overview": "Following an assassination attempt on Senator Padmé Amidala, Jedi Knights Anakin Skywalker and Obi-Wan Kenobi investigate a mysterious plot that could change the galaxy forever.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vcNFtrZXNwIcBgH5e2xXCmVR8t.jpg",
+    "imdbScore": "6.5",
+    "trailerLink": "https://www.youtube.com/watch?v=gYbW1F_c9eM",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Action",
+      "2": "Science Fiction"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "overview": "The evil Darth Sidious enacts his final plan for unlimited power -- and the heroic Jedi Anakin Skywalker must choose a side.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgr5Pdy7ehZYBqBkN2K7Q02xgOb.jpg",
+    "imdbScore": "7.3",
+    "trailerLink": "https://www.youtube.com/watch?v=5UnjrG_N8hU",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Science Fiction",
+      "1": "Adventure",
+      "2": "Action"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": " -Star Wars Episode 4 A New Hope",
+    "overview": "No Overview to display",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2rykV5sHTso6Sr6DCmmC7agCbYvn",
+    "imdbScore": "-",
+    "trailerLink": "https://www.youtube.com/watch?v=CgmADv4tkLQ",
+    "numberOfGenres": 4,
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Thriller",
+      "3": "War"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Empire Strikes Back",
+    "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SKDSFbaM6LuGqG1aPWN3wYGEyD.jpg",
+    "imdbScore": "8.4",
+    "trailerLink": "https://www.youtube.com/watch?v=RtqDPxErX8Q",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Action",
+      "2": "Science Fiction"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Return of the Jedi",
+    "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lrJWyjOVjPhghl4KyAMtOepAxs.jpg",
+    "imdbScore": "8",
+    "trailerLink": "https://www.youtube.com/watch?v=XgB4gaY2dWE",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Action",
+      "2": "Science Fiction"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Star Wars: The Rise of Skywalker",
+    "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+    "imdbScore": "6.5",
+    "trailerLink": "https://www.youtube.com/watch?v=",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Science Fiction"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Star Wars: The Force Awakens",
+    "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/weUSwMdQIa3NaXVzwUoIIcAi85d.jpg",
+    "imdbScore": "7.4",
+    "trailerLink": "https://www.youtube.com/watch?v=sGbxmsDFVnE",
+    "numberOfGenres": 4,
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Science Fiction",
+      "3": "Fantasy"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Star Wars: The Last Jedi",
+    "overview": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+    "imdbScore": "7",
+    "trailerLink": "https://www.youtube.com/watch?v=",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Science Fiction",
+      "1": "Action",
+      "2": "Adventure"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Chronicles of Narnia: Prince Caspian",
+    "overview": "One year after their incredible adventures in the Lion, the Witch and the Wardrobe, Peter, Edmund, Lucy and Susan Pevensie return to Narnia to aid a young prince whose life has been threatened by the evil King Miraz. Now, with the help of a colorful cast of new characters, including Trufflehunter the badger and Nikabrik the dwarf, the Pevensie clan embarks on an incredible quest to ensure that Narnia is returned to its rightful heir.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSSyzqw9C4wUggicG4D81XmptR1.jpg",
+    "imdbScore": "6.5",
+    "trailerLink": "https://www.youtube.com/watch?v=dSJqhmjYw-o",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Family",
+      "2": "Fantasy"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, the they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8RKDgjl9co0IgFZblxhtIOi5Uj.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=ruGHxmjQ180",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Family",
+      "2": "Fantasy"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Hunger Games: Mockingjay - Part 1",
+    "overview": "Katniss Everdeen reluctantly becomes the symbol of a mass rebellion against the autocratic Capitol.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gj282Pniaa78ZJfbaixyLXnXEDI.jpg",
+    "imdbScore": "6.8",
+    "trailerLink": "https://www.youtube.com/watch?v=JzcYyzCZdiM",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Science Fiction",
+      "1": "Adventure",
+      "2": "Thriller"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Hunger Games: Catching Fire",
+    "overview": "Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a \"Victor's Tour\" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Hn0KgefVEp0GkdTexS6gfKTMfi.jpg",
+    "imdbScore": "7.4",
+    "trailerLink": "https://www.youtube.com/watch?v=jyPnQw_Lqds",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Action",
+      "2": "Science Fiction"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Hunger Games: Mockingjay - Part 1",
+    "overview": "Katniss Everdeen reluctantly becomes the symbol of a mass rebellion against the autocratic Capitol.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gj282Pniaa78ZJfbaixyLXnXEDI.jpg",
+    "imdbScore": "6.8",
+    "trailerLink": "https://www.youtube.com/watch?v=JzcYyzCZdiM",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Science Fiction",
+      "1": "Adventure",
+      "2": "Thriller"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Hunger Games: Mockingjay - Part 2",
+    "overview": "With the nation of Panem in a full scale war, Katniss confronts President Snow in the final showdown. Teamed with a group of her closest friends – including Gale, Finnick, and Peeta – Katniss goes off on a mission with the unit from District 13 as they risk their lives to stage an assassination attempt on President Snow who has become increasingly obsessed with destroying her. The mortal traps, enemies, and moral choices that await Katniss will challenge her more than any arena she faced in The Hunger Games.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w93GAiq860UjmgR6tU9h2T24vaV.jpg",
+    "imdbScore": "6.9",
+    "trailerLink": "https://www.youtube.com/watch?v=n-7K_OjsDCQ",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Science Fiction"
+    }
+  }
+}
+,
+{
+  "film": {
     "title": "1917",
     "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
@@ -266,7 +666,7 @@
     "title": "Ant-Man and the Wasp",
     "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg",
-    "imdbScore": "7",
+    "imdbScore": "6.9",
     "trailerLink": "https://www.youtube.com/watch?v=8_rTIAOohas",
     "numberOfGenres": 4,
     "genres": {
@@ -610,22 +1010,6 @@
 ,
 {
   "film": {
-    "title": "Brahms: The Boy II",
-    "overview": "After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuuI1UVwnoyDoN691Z0bYZrOezx.jpg",
-    "imdbScore": "6.1",
-    "trailerLink": "https://www.youtube.com/watch?v=ECPfXUW0zt8",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Horror",
-      "1": "Mystery",
-      "2": "Thriller"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Boyhood",
     "overview": "The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi4e5zXhQKs0De4xu5AAMvu376.jpg",
@@ -945,23 +1329,6 @@
 ,
 {
   "film": {
-    "title": "Dead Alive AKA Brainded",
-    "overview": "No Overview to display",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2rykV5sHTso6Sr6DCmmC7agCbYvn",
-    "imdbScore": "-",
-    "trailerLink": "https://www.youtube.com/watch?v=CgmADv4tkLQ",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Thriller",
-      "3": "War"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Dead Man's Shoes",
     "overview": "A soldier returns home to his small town and exacts a deadly revenge on the thugs who tormented his dimwitted brother while he was away.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lI7dsNWL8Ue5n5dB5dAdQhTktPe.jpg",
@@ -1074,23 +1441,6 @@
 ,
 {
   "film": {
-    "title": "Disney Presents Enchanted",
-    "overview": "No Overview to display",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2rykV5sHTso6Sr6DCmmC7agCbYvn",
-    "imdbScore": "-",
-    "trailerLink": "https://www.youtube.com/watch?v=CgmADv4tkLQ",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Thriller",
-      "3": "War"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Doctor Strange",
     "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PiiNGXj1KENTmCBHeN6Mskj2Fq.jpg",
@@ -1117,20 +1467,6 @@
     "genres": {
       "0": "Comedy",
       "1": "Drama"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Quigley Down Under",
-    "overview": "American Matt Quigley answers Australian land baron Elliott Marston's ad for a sharpshooter to kill the dingoes on his property. But when Quigley finds out that Marston's real target is the aborigines, Quigley hits the road. Now, even American expatriate Crazy Cora can't keep Quigley safe in his cat-and-mouse game with the homicidal Marston.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaWZMk9t12lvb23hRrDmlmWgFKF.jpg",
-    "imdbScore": "6.5",
-    "trailerLink": "https://www.youtube.com/watch?v=xebFl_liB1E",
-    "numberOfGenres": 1,
-    "genres": {
-      "0": "Western"
     }
   }
 }
@@ -1172,7 +1508,7 @@
     "title": "Escape from Pretoria",
     "overview": "Two white South Africans, imprisoned for working on behalf of the ANC, are determined to escape from Pretoria's notorious white man's 'Robben Island' Prison.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sI4StUppzQHzSU9QPiRUxOvQRvp.jpg",
-    "imdbScore": "6.6",
+    "imdbScore": "6.7",
     "trailerLink": "https://www.youtube.com/watch?v=WZgYO7-9Nq8",
     "numberOfGenres": 2,
     "genres": {
@@ -1718,7 +2054,7 @@
     "title": "Harry Potter and the Order of the Phoenix",
     "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students – dubbed 'Dumbledore's Army' – to defend themselves against the dark arts.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YnLxYLHhT4UQ8i9jxAXWy46Xuw.jpg",
-    "imdbScore": "7.6",
+    "imdbScore": "7.7",
     "trailerLink": "https://www.youtube.com/watch?v=y6ZW7KXaXYk",
     "numberOfGenres": 3,
     "genres": {
@@ -1867,22 +2203,6 @@
       "1": "Drama",
       "2": "Mystery",
       "3": "Thriller"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Home Alone 4",
-    "overview": "Kevin McCallister's parents have split up. Now living with his mom, he decides to spend Christmas with his dad at the mansion of his father's rich girlfriend, Natalie. Meanwhile robber Marv Merchants, one of the villains from the first two movies, partners up with a new criminal named Vera to hit Natalie's mansion.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/359bHILkiD6ZVCq6WoHSD0UuJQV.jpg",
-    "imdbScore": "4.3",
-    "trailerLink": "https://www.youtube.com/watch?v=4YKpBYo61Cs",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Crime",
-      "1": "Comedy",
-      "2": "Family"
     }
   }
 }
@@ -2330,23 +2650,6 @@
 ,
 {
   "film": {
-    "title": "Its A Wonderful Life Colorized Version",
-    "overview": "No Overview to display",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2rykV5sHTso6Sr6DCmmC7agCbYvn",
-    "imdbScore": "-",
-    "trailerLink": "https://www.youtube.com/watch?v=CgmADv4tkLQ",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Thriller",
-      "3": "War"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Jackie Brown",
     "overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan — with help from a bail bondsman — to keep the money for herself. Based on Elmore Leonard's novel “Rum Punch”.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XVPYOdMAizdNMSwS0SK3fPJcvR.jpg",
@@ -2480,12 +2783,11 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bB42KDdfWkOvmzmYkmK58ZlCa9P.jpg",
     "imdbScore": "6.8",
     "trailerLink": "https://www.youtube.com/watch?v=rBxcF-r9Ibs",
-    "numberOfGenres": 4,
+    "numberOfGenres": 3,
     "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Comedy",
-      "3": "Fantasy"
+      "0": "Adventure",
+      "1": "Comedy",
+      "2": "Fantasy"
     }
   }
 }
@@ -2610,10 +2912,11 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
     "imdbScore": "7.8",
     "trailerLink": "https://www.youtube.com/watch?v=qGqiHJTsRkQ",
-    "numberOfGenres": 2,
+    "numberOfGenres": 3,
     "genres": {
       "0": "Mystery",
-      "1": "Comedy"
+      "1": "Thriller",
+      "2": "Comedy"
     }
   }
 }
@@ -2725,22 +3028,6 @@
       "0": "Crime",
       "1": "Drama",
       "2": "Action"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Bad Boys for Life",
-    "overview": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
-    "imdbScore": "6.5",
-    "trailerLink": "https://www.youtube.com/watch?v=jKCj3XuPG8M",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Thriller",
-      "1": "Action",
-      "2": "Crime"
     }
   }
 }
@@ -2862,19 +3149,6 @@
     "genres": {
       "0": "Drama",
       "1": "History"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Die Science Fiction Propheten - Mary Shelleys Frankenstein",
-    "overview": "",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/954mdlR4103pFxhuODhxraVp4tT.jpg",
-    "imdbScore": "0",
-    "trailerLink": "https://www.youtube.com/watch?v=4YKpBYo61Cs",
-    "numberOfGenres": 0,
-    "genres": {
     }
   }
 }
@@ -3111,22 +3385,6 @@
 ,
 {
   "film": {
-    "title": "Sid & Nancy",
-    "overview": "In January 1978, after their success in England, the punk rock band Sex Pistols venture out on their tour of the southern United States. Temperamental bassist Sid Vicious is forced by his band mates and their manager to travel without his troubled girlfriend, Nancy Spungen, who will meet him in New York only after a traumatic event. When the band breaks up and Sid begins his solo career in a hostile city, the turbulent couple definitely falls into the depths of drug addiction and co-dependency, a last journey with no return.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHzCbMCfipDJ38GW5IyBTWDflMz.jpg",
-    "imdbScore": "6.9",
-    "trailerLink": "https://www.youtube.com/watch?v=hZp3meyWVm0",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Drama",
-      "1": "Music",
-      "2": "Romance"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Nebraska",
     "overview": "An aging, booze-addled father takes a trip from Montana to Nebraska with his estranged son in order to claim what he believes to be a million-dollar sweepstakes prize.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyG3vYWK7SwWT4bvrWeFef0J7fp.jpg",
@@ -3246,17 +3504,16 @@
 {
   "film": {
     "title": "Onward",
-    "overview": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
+    "overview": "In a suburban fantasy world, two teenage step brothers embark on an extraordinary sexual odyssey to discover if there is still a little magic left out there.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rQx8kJNfIZnlbILHUbRzK2HOng.jpg",
     "imdbScore": "7.8",
     "trailerLink": "https://www.youtube.com/watch?v=gn5QmllRCn4",
-    "numberOfGenres": 5,
+    "numberOfGenres": 4,
     "genres": {
       "0": "Animation",
-      "1": "Adventure",
-      "2": "Comedy",
-      "3": "Family",
-      "4": "Fantasy"
+      "1": "Family",
+      "2": "Drama",
+      "3": "Romance"
     }
   }
 }
@@ -3329,7 +3586,7 @@
   "film": {
     "title": "Life of Pi",
     "overview": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLYdcz7easaS7CmJGwQcVVYZqiF.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QNFcnU2m8shimA0x16p9d3GaUt.jpg",
     "imdbScore": "7.3",
     "trailerLink": "https://www.youtube.com/watch?v=j9Hjrs6WQ8M",
     "numberOfGenres": 3,
@@ -3430,7 +3687,7 @@
     "title": "Queen & Slim",
     "overview": "While on a forgettable first date together in Ohio, a black man and a black woman are pulled over for a minor traffic infraction. The situation escalates, with sudden and tragic results, when the man kills the police officer in self-defense. Terrified and in fear for their lives, the man, a retail employee, and the woman, a criminal defense lawyer, are forced to go on the run. But the incident is captured on video and goes viral, and the couple unwittingly become a symbol of trauma, terror, grief and pain for people across the country.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/coANk5hxXAAAygxIj69YRoyWMvz.jpg",
-    "imdbScore": "7.3",
+    "imdbScore": "7.2",
     "trailerLink": "https://www.youtube.com/watch?v=JW4RgX08xXw",
     "numberOfGenres": 3,
     "genres": {
@@ -3595,22 +3852,6 @@
     "genres": {
       "0": "History",
       "1": "Drama"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Serenity",
-    "overview": "The quiet life of Baker Dill, a fishing boat captain who lives on the isolated Plymouth Island, where he spends his days obsessed with capturing an elusive tuna while fighting his personal demons, is interrupted when someone from his past comes to him searching for help.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg",
-    "imdbScore": "5.3",
-    "trailerLink": "https://www.youtube.com/watch?v=k3zMlsEK8xA",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Thriller",
-      "1": "Mystery",
-      "2": "Drama"
     }
   }
 }
@@ -3889,152 +4130,6 @@
 ,
 {
   "film": {
-    "title": "Star Wars: Episode I - The Phantom Menace",
-    "overview": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8V09dDc02KsSN6Q4hC2BX6hN8X.jpg",
-    "imdbScore": "6.4",
-    "trailerLink": "https://www.youtube.com/watch?v=bD7bpG-zDJQ",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Adventure",
-      "1": "Action",
-      "2": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Star Wars: Episode II - Attack of the Clones",
-    "overview": "Following an assassination attempt on Senator Padmé Amidala, Jedi Knights Anakin Skywalker and Obi-Wan Kenobi investigate a mysterious plot that could change the galaxy forever.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vcNFtrZXNwIcBgH5e2xXCmVR8t.jpg",
-    "imdbScore": "6.5",
-    "trailerLink": "https://www.youtube.com/watch?v=gYbW1F_c9eM",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Adventure",
-      "1": "Action",
-      "2": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Star Wars: Episode III - Revenge of the Sith",
-    "overview": "The evil Darth Sidious enacts his final plan for unlimited power -- and the heroic Jedi Anakin Skywalker must choose a side.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgr5Pdy7ehZYBqBkN2K7Q02xgOb.jpg",
-    "imdbScore": "7.3",
-    "trailerLink": "https://www.youtube.com/watch?v=5UnjrG_N8hU",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Science Fiction",
-      "1": "Adventure",
-      "2": "Action"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Star Wars",
-    "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/btTdmkgIvOi0FFip1sPuZI2oQG6.jpg",
-    "imdbScore": "8.2",
-    "trailerLink": "https://www.youtube.com/watch?v=vZ734NWnAHA",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Adventure",
-      "1": "Action",
-      "2": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "The Empire Strikes Back",
-    "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SKDSFbaM6LuGqG1aPWN3wYGEyD.jpg",
-    "imdbScore": "8.4",
-    "trailerLink": "https://www.youtube.com/watch?v=RtqDPxErX8Q",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Adventure",
-      "1": "Action",
-      "2": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Return of the Jedi",
-    "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lrJWyjOVjPhghl4KyAMtOepAxs.jpg",
-    "imdbScore": "8",
-    "trailerLink": "https://www.youtube.com/watch?v=XgB4gaY2dWE",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Adventure",
-      "1": "Action",
-      "2": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Star Wars: The Rise of Skywalker",
-    "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
-    "imdbScore": "6.5",
-    "trailerLink": "https://www.youtube.com/watch?v=",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Star Wars: The Force Awakens",
-    "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/weUSwMdQIa3NaXVzwUoIIcAi85d.jpg",
-    "imdbScore": "7.4",
-    "trailerLink": "https://www.youtube.com/watch?v=sGbxmsDFVnE",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Science Fiction",
-      "3": "Fantasy"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Star Wars: The Last Jedi",
-    "overview": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
-    "imdbScore": "7",
-    "trailerLink": "https://www.youtube.com/watch?v=",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Science Fiction",
-      "1": "Fantasy",
-      "2": "Action",
-      "3": "Adventure"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Still Alice",
     "overview": "Alice Howland, happily married with three grown children, is a renowned linguistics professor who starts to forget words. When she receives a devastating diagnosis, Alice and her family find their bonds tested.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4n7T0G6kNLszUyfqKAboesNTm55.jpg",
@@ -4193,49 +4288,16 @@
 ,
 {
   "film": {
-    "title": "The Chronicles of Narnia: Prince Caspian",
-    "overview": "One year after their incredible adventures in the Lion, the Witch and the Wardrobe, Peter, Edmund, Lucy and Susan Pevensie return to Narnia to aid a young prince whose life has been threatened by the evil King Miraz. Now, with the help of a colorful cast of new characters, including Trufflehunter the badger and Nikabrik the dwarf, the Pevensie clan embarks on an incredible quest to ensure that Narnia is returned to its rightful heir.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSSyzqw9C4wUggicG4D81XmptR1.jpg",
-    "imdbScore": "6.5",
-    "trailerLink": "https://www.youtube.com/watch?v=dSJqhmjYw-o",
+    "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "overview": "This time around Edmund and Lucy Pevensie, along with their pesky cousin Eustace Scrubb find themselves swallowed into a painting and on to a fantastic Narnian ship headed for the very edges of the world.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRzEyrMSyvpHf92EhsVSg9Yr81t.jpg",
+    "imdbScore": "6.4",
+    "trailerLink": "https://www.youtube.com/watch?v=hrJQDPpIK6I",
     "numberOfGenres": 3,
     "genres": {
       "0": "Adventure",
       "1": "Family",
       "2": "Fantasy"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-    "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, the they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8RKDgjl9co0IgFZblxhtIOi5Uj.jpg",
-    "imdbScore": "7.1",
-    "trailerLink": "https://www.youtube.com/watch?v=ruGHxmjQ180",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Adventure",
-      "1": "Family",
-      "2": "Fantasy"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "The Chronicles of Narnia The Voyage of the Dawn Tredder",
-    "overview": "No Overview to display",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2rykV5sHTso6Sr6DCmmC7agCbYvn",
-    "imdbScore": "-",
-    "trailerLink": "https://www.youtube.com/watch?v=CgmADv4tkLQ",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Thriller",
-      "3": "War"
     }
   }
 }
@@ -4574,70 +4636,6 @@
       "0": "Adventure",
       "1": "Fantasy",
       "2": "Action"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "The Hunger Games: Mockingjay - Part 1",
-    "overview": "Katniss Everdeen reluctantly becomes the symbol of a mass rebellion against the autocratic Capitol.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gj282Pniaa78ZJfbaixyLXnXEDI.jpg",
-    "imdbScore": "6.8",
-    "trailerLink": "https://www.youtube.com/watch?v=JzcYyzCZdiM",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Science Fiction",
-      "1": "Adventure",
-      "2": "Thriller"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "The Hunger Games: Catching Fire",
-    "overview": "Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a \"Victor's Tour\" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Hn0KgefVEp0GkdTexS6gfKTMfi.jpg",
-    "imdbScore": "7.4",
-    "trailerLink": "https://www.youtube.com/watch?v=jyPnQw_Lqds",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Adventure",
-      "1": "Action",
-      "2": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "The Hunger Games: Mockingjay - Part 1",
-    "overview": "Katniss Everdeen reluctantly becomes the symbol of a mass rebellion against the autocratic Capitol.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gj282Pniaa78ZJfbaixyLXnXEDI.jpg",
-    "imdbScore": "6.8",
-    "trailerLink": "https://www.youtube.com/watch?v=JzcYyzCZdiM",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Science Fiction",
-      "1": "Adventure",
-      "2": "Thriller"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "The Hunger Games: Mockingjay - Part 2",
-    "overview": "With the nation of Panem in a full scale war, Katniss confronts President Snow in the final showdown. Teamed with a group of her closest friends – including Gale, Finnick, and Peeta – Katniss goes off on a mission with the unit from District 13 as they risk their lives to stage an assassination attempt on President Snow who has become increasingly obsessed with destroying her. The mortal traps, enemies, and moral choices that await Katniss will challenge her more than any arena she faced in The Hunger Games.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w93GAiq860UjmgR6tU9h2T24vaV.jpg",
-    "imdbScore": "6.9",
-    "trailerLink": "https://www.youtube.com/watch?v=n-7K_OjsDCQ",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Science Fiction"
     }
   }
 }
@@ -5591,14 +5589,12 @@
     "title": "The Call of the Wild",
     "overview": "Buck is a big-hearted dog whose blissful domestic life is turned upside down when he is suddenly uprooted from his California home and transplanted to the exotic wilds of the Yukon during the Gold Rush of the 1890s. As the newest rookie on a mail delivery dog sled team—and later its leader—Buck experiences the adventure of a lifetime, ultimately finding his true place in the world and becoming his own master.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/33VdppGbeNxICrFUtW2WpGHvfYc.jpg",
-    "imdbScore": "6.3",
+    "imdbScore": "6.4",
     "trailerLink": "https://www.youtube.com/watch?v=5P8R2zAhEwg",
-    "numberOfGenres": 4,
+    "numberOfGenres": 2,
     "genres": {
-      "0": "Family",
-      "1": "Drama",
-      "2": "Adventure",
-      "3": "Animation"
+      "0": "Drama",
+      "1": "Adventure"
     }
   }
 }

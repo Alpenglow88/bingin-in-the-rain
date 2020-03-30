@@ -10,10 +10,10 @@ File.delete('./films.json') if File.exist?('./films.json')
 File.delete('./views/films.ejs') if File.exist?('./views/films.ejs')
 
 class String
-    def initial
-      self[0,2]
-    end
+  def initial
+    self[0, 2]
   end
+end
 
 # scans selected folder for file names and formats them correctly
 File.write('./filelist.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
@@ -253,41 +253,41 @@ last_film = last_film_rb[0]['title']
 films.each do |film|
   film.delete "'"
 
-  next if film.initial == " -"
+  next if film.initial == ' -'
 
   apicall = "https://api.themoviedb.org/3/search/movie?api_key=\'#{TMDBAPIKEY}\'&query=\'#{film}\'".delete "'"
   response = RestClient.get(apicall)
   rb = JSON.parse(response.body)['results']
   # File.write('./response.json', JSON.pretty_generate(rb))
-begin
-  filmname = rb[0]['title']
-rescue NoMethodError
-  filmname = film
-end
+  begin
+    filmname = rb[0]['title']
+  rescue NoMethodError
+    filmname = film
+  end
 
-begin
-  filmoverview = rb[0]['overview']
-rescue NoMethodError
-  filmoverview = 'No Overview to display'
-end
+  begin
+    filmoverview = rb[0]['overview']
+  rescue NoMethodError
+    filmoverview = 'No Overview to display'
+  end
 
-begin
-  poster_path_filmname = rb[0]['poster_path']
-rescue NoMethodError
-  poster_path_filmname = 'rykV5sHTso6Sr6DCmmC7agCbYvn'
-end
+  begin
+    poster_path_filmname = rb[0]['poster_path']
+  rescue NoMethodError
+    poster_path_filmname = 'rykV5sHTso6Sr6DCmmC7agCbYvn'
+  end
 
-begin
-  vote_average = rb[0]['vote_average']
-rescue NoMethodError
-  vote_average = '-'
-end
+  begin
+    vote_average = rb[0]['vote_average']
+  rescue NoMethodError
+    vote_average = '-'
+  end
 
-begin
-  film_id = rb[0]['id']
-rescue NoMethodError
-  film_id = '15379'
-end
+  begin
+    film_id = rb[0]['id']
+  rescue NoMethodError
+    film_id = '15379'
+  end
 
   genre_api = "https://api.themoviedb.org/3/movie/#{film_id}?api_key=#{TMDBAPIKEY}&language=en-US"
   genre_response = RestClient.get(genre_api)
@@ -331,7 +331,8 @@ end
       'genres' => genres_hash
     }
   }
-
+  File.write("./json_film_list/#{filmname}.json", JSON.pretty_generate(hash))
+  
   if filmname.include? last_film
     File.open('./films.json', 'a') do |f|
       f.puts JSON.pretty_generate(hash)

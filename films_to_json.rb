@@ -9,6 +9,9 @@ require './constants.rb'
 File.delete('./films.json') if File.exist?('./films.json')
 File.delete('./views/films.ejs') if File.exist?('./views/films.ejs')
 
+FileUtils.rm_rf('./json_film_list')
+Dir.mkdir("./json_film_list")
+
 class String
   def initial
     self[0, 2]

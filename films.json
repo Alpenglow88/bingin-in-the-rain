@@ -548,6 +548,22 @@
 ,
 {
   "film": {
+    "title": "Blade Runner",
+    "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfzE3pjE5G7G7kcZWrA3fnbZo7V.jpg",
+    "imdbScore": "7.9",
+    "trailerLink": "https://www.youtube.com/watch?v=",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Science Fiction",
+      "1": "Drama",
+      "2": "Thriller"
+    }
+  }
+}
+,
+{
+  "film": {
     "title": "Blade Runner 2049",
     "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
@@ -557,23 +573,6 @@
     "genres": {
       "0": "Science Fiction",
       "1": "Drama"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Blade Runner Final",
-    "overview": "No Overview to display",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2rykV5sHTso6Sr6DCmmC7agCbYvn",
-    "imdbScore": "-",
-    "trailerLink": "https://www.youtube.com/watch?v=CgmADv4tkLQ",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Thriller",
-      "3": "War"
     }
   }
 }
@@ -2695,15 +2694,17 @@
 ,
 {
   "film": {
-    "title": "Lords of Dogtown",
-    "overview": "\"Lords of Dogtown\" tells the radical true story behind three teenage surfers from Venice Beach, California, who took skateboarding to the extreme and changed the world of sports forever. Stacy Peralta (John Robinson, Elephant), Tony Alva (Victor Rasuk, Raising Victor Vargas) and Jay Adams (Emile Hirsch, The Girl Next Door) are the Z-Boys, a bunch of nobodies until they create a new style of skateboarding that becomes a worldwide phenomenon. But when their hobby becomes a business, the success shreds their friendship. Directed by Catherine Hardwicke (Thirteen) and written by Stacy Peralta, Lords of Dogtown is \"...a dazzling daredevil ride.\" (Peter Travers, Rollng Stone)",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1WjRObfqZV7EfmhsnUmhx88EAa.jpg",
-    "imdbScore": "7.1",
-    "trailerLink": "https://www.youtube.com/watch?v=KHwimJTfvxE",
-    "numberOfGenres": 2,
+    "title": "Lords of Dogtown Cut",
+    "overview": "No Overview to display",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2rykV5sHTso6Sr6DCmmC7agCbYvn",
+    "imdbScore": "-",
+    "trailerLink": "https://www.youtube.com/watch?v=CgmADv4tkLQ",
+    "numberOfGenres": 4,
     "genres": {
-      "0": "Drama",
-      "1": "Action"
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Thriller",
+      "3": "War"
     }
   }
 }

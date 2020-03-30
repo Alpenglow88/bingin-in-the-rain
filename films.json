@@ -66,23 +66,6 @@
 ,
 {
   "film": {
-    "title": "A Bug's Life",
-    "overview": "On behalf of \"oppressed bugs everywhere,\" an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9qGMRwcPwP0WETxulS5hKUsEum.jpg",
-    "imdbScore": "6.9",
-    "trailerLink": "https://www.youtube.com/watch?v=Ljk2YJ53_WI",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Adventure",
-      "1": "Animation",
-      "2": "Comedy",
-      "3": "Family"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "A Cure for Wellness",
     "overview": "An ambitious young executive is sent to retrieve his company's CEO from an idyllic but mysterious \"wellness center\" at a remote location in the Swiss Alps but soon suspects that the spa's miraculous treatments are not what they seem.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4fXuJS3zZcAZfz2HYDtnwqtnwn.jpg",
@@ -354,54 +337,6 @@
 ,
 {
   "film": {
-    "title": "Avengers: Age of Ultron",
-    "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg",
-    "imdbScore": "7.3",
-    "trailerLink": "https://www.youtube.com/watch?v=tmeOjFno6Do",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Avengers: Endgame",
-    "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
-    "imdbScore": "8.3",
-    "trailerLink": "https://www.youtube.com/watch?v=hA6hldpSTF8",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Adventure",
-      "1": "Science Fiction",
-      "2": "Action"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Avengers: Infinity War",
-    "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
-    "imdbScore": "8.3",
-    "trailerLink": "https://www.youtube.com/watch?v=6ZfuNTqbHE8",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Adventure",
-      "1": "Action",
-      "2": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Barton Fink",
     "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/846d8FclibtOIoUW7PxpT0nCG4C.jpg",
@@ -411,23 +346,6 @@
     "genres": {
       "0": "Comedy",
       "1": "Drama"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Beauty and the Beast",
-    "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9QJr2oblOu1grgOMUZF1xkUJdh.jpg",
-    "imdbScore": "7.7",
-    "trailerLink": "https://www.youtube.com/watch?v=tRlzmyveDHE",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Romance",
-      "1": "Family",
-      "2": "Animation",
-      "3": "Fantasy"
     }
   }
 }
@@ -509,23 +427,6 @@
       "0": "Action",
       "1": "History",
       "2": "War"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Black Panther",
-    "overview": "King T'Challa returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantel to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
-    "imdbScore": "7.4",
-    "trailerLink": "https://www.youtube.com/watch?v=dxWvtMOGAhw",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Fantasy",
-      "3": "Science Fiction"
     }
   }
 }
@@ -671,54 +572,6 @@
 ,
 {
   "film": {
-    "title": "Captain America: Civil War",
-    "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSBXou5Ac7vEqKd97wotJumyJvU.jpg",
-    "imdbScore": "7.4",
-    "trailerLink": "https://www.youtube.com/watch?v=43NWzay3W4s",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Adventure",
-      "1": "Action",
-      "2": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Captain America: The First Avenger",
-    "overview": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
-    "imdbScore": "6.9",
-    "trailerLink": "https://www.youtube.com/watch?v=JerVrbLldXw",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Captain America: The Winter Soldier",
-    "overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TQ6YDmymBpnF005OyoB7ohZps9.jpg",
-    "imdbScore": "7.7",
-    "trailerLink": "https://www.youtube.com/watch?v=tbayiPxkUMM",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Captain Fantastic",
     "overview": "A father living in the forests of the Pacific Northwest with his six young kids tries to assimilate back into society.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnaGmGCWgGOQjCpM0TqKPZJ5x85.jpg",
@@ -729,22 +582,6 @@
       "0": "Adventure",
       "1": "Comedy",
       "2": "Drama"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Captain Marvel",
-    "overview": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
-    "imdbScore": "7",
-    "trailerLink": "https://www.youtube.com/watch?v=Z1BCujX3pw8",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Science Fiction"
     }
   }
 }
@@ -808,24 +645,6 @@
       "0": "Animation",
       "1": "Family",
       "2": "Comedy"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Coco",
-    "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg",
-    "imdbScore": "8.2",
-    "trailerLink": "https://www.youtube.com/watch?v=xlnPHQ3TLX8",
-    "numberOfGenres": 5,
-    "genres": {
-      "0": "Animation",
-      "1": "Family",
-      "2": "Comedy",
-      "3": "Adventure",
-      "4": "Fantasy"
     }
   }
 }
@@ -1040,23 +859,6 @@
 ,
 {
   "film": {
-    "title": "Doctor Strange",
-    "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PiiNGXj1KENTmCBHeN6Mskj2Fq.jpg",
-    "imdbScore": "7.4",
-    "trailerLink": "https://www.youtube.com/watch?v=HSzx-zryEgM",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Fantasy",
-      "3": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Don't Worry, He Won't Get Far on Foot",
     "overview": "On the rocky path to sobriety after a life-changing accident, John Callahan discovers the healing power of art, willing his injured hands into drawing hilarious, often controversial cartoons, which bring him a new lease on life.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKsiN37qMt8jad5GikZzSeevyI9.jpg",
@@ -1241,38 +1043,6 @@
 ,
 {
   "film": {
-    "title": "Finding Dory",
-    "overview": "Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z09QAf8WbZncbitewNk6lKYMZsh.jpg",
-    "imdbScore": "7",
-    "trailerLink": "https://www.youtube.com/watch?v=iG0P6bjyUNI",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Adventure",
-      "1": "Animation",
-      "2": "Comedy",
-      "3": "Family"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Finding Nemo",
-    "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/syPWyeeqzTQIxjIUaIFI7d0TyEY.jpg",
-    "imdbScore": "7.8",
-    "trailerLink": "https://www.youtube.com/watch?v=SPHfeNgogVs",
-    "numberOfGenres": 2,
-    "genres": {
-      "0": "Animation",
-      "1": "Family"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "First Man",
     "overview": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
@@ -1313,22 +1083,6 @@
       "1": "Drama",
       "2": "History",
       "3": "War"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Frozen II",
-    "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6Wi81XNXCjTAcdstiCLRykN3Pa.jpg",
-    "imdbScore": "7.1",
-    "trailerLink": "https://www.youtube.com/watch?v=Zi4LMpSDccc",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Animation",
-      "1": "Family",
-      "2": "Adventure"
     }
   }
 }
@@ -1488,39 +1242,6 @@
       "0": "Fantasy",
       "1": "Horror",
       "2": "Comedy"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Guardians of the Galaxy",
-    "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y31QB9kn3XSudA15tV7UWQ9XLuW.jpg",
-    "imdbScore": "7.9",
-    "trailerLink": "https://www.youtube.com/watch?v=b7yOuhI1dzU",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Action",
-      "1": "Science Fiction",
-      "2": "Adventure"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Guardians of the Galaxy Vol. 2",
-    "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
-    "imdbScore": "7.6",
-    "trailerLink": "https://www.youtube.com/watch?v=",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Comedy",
-      "3": "Science Fiction"
     }
   }
 }
@@ -1757,25 +1478,6 @@
 ,
 {
   "film": {
-    "title": "Hercules",
-    "overview": "Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFlBFMAifj436QctX3akDkUnhlk.jpg",
-    "imdbScore": "7.5",
-    "trailerLink": "https://www.youtube.com/watch?v=UT5mRId7qUQ",
-    "numberOfGenres": 6,
-    "genres": {
-      "0": "Animation",
-      "1": "Family",
-      "2": "Fantasy",
-      "3": "Adventure",
-      "4": "Comedy",
-      "5": "Romance"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Hidden Figures",
     "overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history – the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cbIDZLfwUTmttXTmNi8Mp3Rnmg.jpg",
@@ -1963,23 +1665,6 @@
 ,
 {
   "film": {
-    "title": "Ice Age",
-    "overview": "With the impending ice age almost upon them, a mismatched trio of prehistoric critters – Manny the woolly mammoth, Diego the saber-toothed tiger and Sid the giant sloth – find an orphaned infant and decide to return it to its human parents. Along the way, the unlikely allies become friends but, when enemies attack, their quest takes on far nobler aims.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpaQwR0YViPd83bx1e559QyZ35i.jpg",
-    "imdbScore": "7.3",
-    "trailerLink": "https://www.youtube.com/watch?v=CZShn0PZiYU",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Animation",
-      "1": "Comedy",
-      "2": "Family",
-      "3": "Adventure"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "If Beale Street Could Talk",
     "overview": "After her fiance is falsely imprisoned, a pregnant African-American woman sets out to clear his name and prove his innocence.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tZx0OX7kxv6F2VNWZoPr2bWDgE.jpg",
@@ -2028,23 +1713,6 @@
 ,
 {
   "film": {
-    "title": "Incredibles 2",
-    "overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
-    "imdbScore": "7.5",
-    "trailerLink": "https://www.youtube.com/watch?v=i5qOzqD9Rms",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Animation",
-      "3": "Family"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Inherent Vice",
     "overview": "In Los Angeles at the turn of the 1970s, drug-fueled detective Larry \"Doc\" Sportello investigates the disappearance of an ex-girlfriend.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uc5sYJg8wH0RmkIMv5iqHNsP3a6.jpg",
@@ -2071,23 +1739,6 @@
     "numberOfGenres": 1,
     "genres": {
       "0": "Drama"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Inside Out",
-    "overview": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Riley's guiding emotions— Joy, Fear, Anger, Disgust and Sadness—live in Headquarters, the control centre inside Riley's mind, where they help advise her through everyday life and tries to keep things positive, but the emotions conflict on how best to navigate a new city, house and school.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAmfIX3TT40zUHGcCKrlOZRKC7u.jpg",
-    "imdbScore": "7.9",
-    "trailerLink": "https://www.youtube.com/watch?v=_MC3XuMvsDI",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Drama",
-      "1": "Comedy",
-      "2": "Animation",
-      "3": "Family"
     }
   }
 }
@@ -2134,54 +1785,6 @@
     "genres": {
       "0": "Drama",
       "1": "History"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Iron Man",
-    "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/848chlIWVT41VtAAgyh9bWymAYb.jpg",
-    "imdbScore": "7.6",
-    "trailerLink": "https://www.youtube.com/watch?v=8hYlB38asDY",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Action",
-      "1": "Science Fiction",
-      "2": "Adventure"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Iron Man 2",
-    "overview": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
-    "imdbScore": "6.8",
-    "trailerLink": "https://www.youtube.com/watch?v=BoohRoVA9WQ",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Adventure",
-      "1": "Action",
-      "2": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Iron Man 3",
-    "overview": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6vjph1USM56MncpruT9jQP7xy2.jpg",
-    "imdbScore": "6.9",
-    "trailerLink": "https://www.youtube.com/watch?v=f_h95mEd4TI",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Science Fiction"
     }
   }
 }
@@ -2243,22 +1846,6 @@
     "genres": {
       "0": "Horror",
       "1": "Thriller"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Jackie Brown",
-    "overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan — with help from a bail bondsman — to keep the money for herself. Based on Elmore Leonard's novel “Rum Punch”.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XVPYOdMAizdNMSwS0SK3fPJcvR.jpg",
-    "imdbScore": "7.3",
-    "trailerLink": "https://www.youtube.com/watch?v=G7HkBDNZV7s",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Crime",
-      "1": "Thriller",
-      "2": "Drama"
     }
   }
 }
@@ -2633,21 +2220,6 @@
 ,
 {
   "film": {
-    "title": "Lilo & Stitch",
-    "overview": "As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien \"puppy\" of an independent little girl named Lilo and learns about loyalty, friendship, and 'ohana, the Hawaiian tradition of family.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVaEulzowKhMhDvHNNYb9rNEZPB.jpg",
-    "imdbScore": "7.4",
-    "trailerLink": "https://www.youtube.com/watch?v=wAtaSKQ4-T0",
-    "numberOfGenres": 2,
-    "genres": {
-      "0": "Animation",
-      "1": "Family"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Lincoln",
     "overview": "The revealing story of the 16th US President's tumultuous final months in office. In a nation divided by war and the strong winds of change, Lincoln pursues a course of action designed to end the war, unite the country and abolish slavery. With the moral courage and fierce determination to succeed, his choices during this critical moment will change the fate of generations to come.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkkiDu9srCCbCMxGKwNwKCxK7KF.jpg",
@@ -2694,17 +2266,15 @@
 ,
 {
   "film": {
-    "title": "Lords of Dogtown Cut",
-    "overview": "No Overview to display",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2rykV5sHTso6Sr6DCmmC7agCbYvn",
-    "imdbScore": "-",
-    "trailerLink": "https://www.youtube.com/watch?v=CgmADv4tkLQ",
-    "numberOfGenres": 4,
+    "title": "Lords of Dogtown",
+    "overview": "\"Lords of Dogtown\" tells the radical true story behind three teenage surfers from Venice Beach, California, who took skateboarding to the extreme and changed the world of sports forever. Stacy Peralta (John Robinson, Elephant), Tony Alva (Victor Rasuk, Raising Victor Vargas) and Jay Adams (Emile Hirsch, The Girl Next Door) are the Z-Boys, a bunch of nobodies until they create a new style of skateboarding that becomes a worldwide phenomenon. But when their hobby becomes a business, the success shreds their friendship. Directed by Catherine Hardwicke (Thirteen) and written by Stacy Peralta, Lords of Dogtown is \"...a dazzling daredevil ride.\" (Peter Travers, Rollng Stone)",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1WjRObfqZV7EfmhsnUmhx88EAa.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=KHwimJTfvxE",
+    "numberOfGenres": 2,
     "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Thriller",
-      "3": "War"
+      "0": "Drama",
+      "1": "Action"
     }
   }
 }
@@ -2829,23 +2399,6 @@
 ,
 {
   "film": {
-    "title": "Moana",
-    "overview": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4x0Bp48ar3Mda8KiPD1vwSY3D8.jpg",
-    "imdbScore": "7.6",
-    "trailerLink": "https://www.youtube.com/watch?v=C6PbWhWGUrY",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Adventure",
-      "1": "Comedy",
-      "2": "Family",
-      "3": "Animation"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Monos",
     "overview": "On a faraway mountaintop, eight kids with guns watch over a hostage and a conscripted milk cow.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FC3X8BbGncooWeHGBxEl4eBfiV.jpg",
@@ -2855,37 +2408,6 @@
     "genres": {
       "0": "Drama",
       "1": "Thriller"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Monsters, Inc.",
-    "overview": "James Sullivan and Mike Wazowski are monsters, they earn their living scaring children and are the best in the business... even though they're more afraid of the children than they are of them. When a child accidentally enters their world, James and Mike suddenly find that kids are not to be afraid of and they uncover a conspiracy that could threaten all children across the world.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/93Y9BGx8blzmZOPSoivkFfaifqU.jpg",
-    "imdbScore": "7.8",
-    "trailerLink": "https://www.youtube.com/watch?v=8IBNZ6O2kMk",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Animation",
-      "1": "Comedy",
-      "2": "Family"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Monsters University",
-    "overview": "A look at the relationship between Mike and Sulley during their days at Monsters University — when they weren't necessarily the best of friends.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a05xQU9huY3P5uurLcGGHmsf2Vh.jpg",
-    "imdbScore": "7",
-    "trailerLink": "https://www.youtube.com/watch?v=JbeFIfS8uno",
-    "numberOfGenres": 2,
-    "genres": {
-      "0": "Animation",
-      "1": "Family"
     }
   }
 }
@@ -3215,23 +2737,6 @@
 ,
 {
   "film": {
-    "title": "Pocahontas",
-    "overview": "Pocahontas, daughter of a Native American tribe chief, falls in love with an English soldier as colonists invade 17th century Virginia.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
-    "imdbScore": "6.9",
-    "trailerLink": "https://www.youtube.com/watch?v=DSf_pVG8QZM",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Adventure",
-      "1": "Animation",
-      "2": "Family",
-      "3": "Romance"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "The Predator",
     "overview": "When a kid accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled female scientist can prevent the end of the human race.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg",
@@ -3313,40 +2818,6 @@
 ,
 {
   "film": {
-    "title": "Ralph Breaks the Internet",
-    "overview": "Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope's video game, \"Sugar Rush.\" In way over their heads, Ralph and Vanellope rely on the citizens of the internet -- the netizens -- to help navigate their way, including an entrepreneur named Yesss, who is the head algorithm and the heart and soul of trend-making site BuzzzTube.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEnH5meR381iMpmCumAIMswcQw2.jpg",
-    "imdbScore": "7.1",
-    "trailerLink": "https://www.youtube.com/watch?v=_BcYBFC6zfY",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Family",
-      "1": "Animation",
-      "2": "Comedy",
-      "3": "Adventure"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Ratatouille",
-    "overview": "A rat named Remy dreams of becoming a great French chef despite his family's wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the sewers of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau. Despite the apparent dangers of being an unlikely - and certainly unwanted - visitor in the kitchen of a fine French restaurant, Remy's passion for cooking soon sets into motion a hilarious and exciting rat race that turns the culinary world of Paris upside down.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVxxSYHAfrEbllyWFQG5df5nwH4.jpg",
-    "imdbScore": "7.7",
-    "trailerLink": "https://www.youtube.com/watch?v=jOGDozdW9Yo",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Animation",
-      "1": "Comedy",
-      "2": "Family",
-      "3": "Fantasy"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Ready Player One",
     "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
@@ -3403,22 +2874,6 @@
       "1": "War",
       "2": "Romance",
       "3": "Western"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Rogue One: A Star Wars Story",
-    "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjiskwlV1qQzRCjpV0cL9pEMF9a.jpg",
-    "imdbScore": "7.5",
-    "trailerLink": "https://www.youtube.com/watch?v=",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Science Fiction"
     }
   }
 }
@@ -3698,22 +3153,6 @@
 ,
 {
   "film": {
-    "title": "Spirited Away",
-    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRvMaJOmapypFUcQqpgHMZA6qL9.jpg",
-    "imdbScore": "8.5",
-    "trailerLink": "https://www.youtube.com/watch?v=ByXuk9QqQkk",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Animation",
-      "1": "Family",
-      "2": "Fantasy"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Split",
     "overview": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him — as well as everyone around him — as the walls between his compartments shatter apart.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXMWOZiCt6eMX22jWuTOSdQ98bY.jpg",
@@ -3777,21 +3216,6 @@
 ,
 {
   "film": {
-    "title": "Tangled",
-    "overview": "When the kingdom's most wanted-and most charming-bandit Flynn Rider hides out in a mysterious tower, he's taken hostage by Rapunzel, a beautiful and feisty tower-bound teen with 70 feet of magical, golden hair. Flynn's curious captor, who's looking for her ticket out of the tower where she's been locked away for years, strikes a deal with the handsome thief and the unlikely duo sets off on an action-packed escapade, complete with a super-cop horse, an over-protective chameleon and a gruff gang of pub thugs.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/re6AOJbhBk9FIK3knwU6rYlbPDx.jpg",
-    "imdbScore": "7.6",
-    "trailerLink": "https://www.youtube.com/watch?v=gsYKF8ecC8g",
-    "numberOfGenres": 2,
-    "genres": {
-      "0": "Animation",
-      "1": "Family"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "The 13th Warrior",
     "overview": "A Muslim ambassador exiled from his homeland, Ahmad ibn Fadlan finds himself in the company of Vikings. While the behavior of the Norsemen initially offends ibn Fadlan, the more cultured outsider grows to respect the tough, if uncouth, warriors. During their travels together, ibn Fadlan and the Vikings get word of an evil presence closing in, and they must fight the frightening and formidable force, which was previously thought to exist only in legend.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooR8S0O0ZgxK2OBnT1GWHrr9w92.jpg",
@@ -3818,22 +3242,6 @@
       "0": "Action",
       "1": "Drama",
       "2": "Western"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "The Avengers",
-    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cezWGskPY5x7GaglTTRN4Fugfb8.jpg",
-    "imdbScore": "7.7",
-    "trailerLink": "https://www.youtube.com/watch?v=eOrNdBpGMv8",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Science Fiction",
-      "1": "Action",
-      "2": "Adventure"
     }
   }
 }
@@ -4102,22 +3510,6 @@
 ,
 {
   "film": {
-    "title": "The Good Dinosaur",
-    "overview": "An epic journey into the world of dinosaurs where an Apatosaurus named Arlo makes an unlikely human friend.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZckiMTfSkCep2JTtZbr73tnQbN.jpg",
-    "imdbScore": "6.7",
-    "trailerLink": "https://www.youtube.com/watch?v=8lsIrASLD-Q",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Adventure",
-      "1": "Animation",
-      "2": "Family"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "The Grand Budapest Hotel",
     "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nX5XotM9yprCKarRH4fzOq1VM1J.jpg",
@@ -4258,39 +3650,6 @@
 ,
 {
   "film": {
-    "title": "The Incredible Hulk",
-    "overview": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BKfsChYrKVojCeQq9ynYQ6Tit5.jpg",
-    "imdbScore": "6.2",
-    "trailerLink": "https://www.youtube.com/watch?v=NWWzve8Z90s",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Science Fiction",
-      "1": "Action",
-      "2": "Adventure"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "The Incredibles",
-    "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
-    "imdbScore": "7.7",
-    "trailerLink": "https://www.youtube.com/watch?v=sZwWCrFNfzQ",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Animation",
-      "3": "Family"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "The Lego Batman Movie",
     "overview": "In the irreverent spirit of fun that made \"The Lego Movie\" a worldwide phenomenon, the self-described leading man of that ensemble—Lego Batman—stars in his own big-screen adventure. But there are big changes brewing in Gotham, and if he wants to save the city from The Joker’s hostile takeover, Batman may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pHOqpdCYNmtRVJs6pGKQKttrPm.jpg",
@@ -4360,21 +3719,6 @@
       "4": "Family",
       "5": "Science Fiction",
       "6": "Fantasy"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "The Lion King",
-    "overview": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg",
-    "imdbScore": "7.1",
-    "trailerLink": "https://www.youtube.com/watch?v=7TavVZMewpY",
-    "numberOfGenres": 2,
-    "genres": {
-      "0": "Adventure",
-      "1": "Family"
     }
   }
 }
@@ -4697,22 +4041,6 @@
 ,
 {
   "film": {
-    "title": "The Princess and the Frog",
-    "overview": "A waitress, desperate to fulfill her dreams as a restaurant owner, is set on a journey to turn a frog prince back into a human being, but she has to face the same problem after she kisses him.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVRHirC6uIZL9VtRqYRxdedYnOG.jpg",
-    "imdbScore": "7",
-    "trailerLink": "https://www.youtube.com/watch?v=uQBy6jqbmlU",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Romance",
-      "1": "Family",
-      "2": "Animation"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "The Revenant",
     "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXUWEc5i3wYyFnL1Ycu8ppxxPvs.jpg",
@@ -4723,23 +4051,6 @@
       "0": "Western",
       "1": "Drama",
       "2": "Adventure"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "The Secret Life of Pets 2",
-    "overview": "Max the terrier must cope with some major life changes when his owner gets married and has a baby. When the family takes a trip to the countryside, nervous Max has numerous run-ins with canine-intolerant cows, hostile foxes and a scary turkey. Luckily for Max, he soon catches a break when he meets Rooster, a gruff farm dog who tries to cure the lovable pooch of his neuroses.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYcaCNkB4EgVyvrXxxbklefDrGL.jpg",
-    "imdbScore": "6.7",
-    "trailerLink": "https://www.youtube.com/watch?v=pKLGUuJftl0",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Adventure",
-      "1": "Animation",
-      "2": "Comedy",
-      "3": "Family"
     }
   }
 }
@@ -4883,23 +4194,6 @@
 ,
 {
   "film": {
-    "title": "The Wolverine",
-    "overview": "Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTST6DcLhfufWYUKCOskkusaYUq.jpg",
-    "imdbScore": "6.3",
-    "trailerLink": "https://www.youtube.com/watch?v=u1VCP3O8wG0",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Action",
-      "1": "Science Fiction",
-      "2": "Adventure",
-      "3": "Fantasy"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "The Zero Theorem",
     "overview": "A computer hacker's goal to discover the reason for human existence continually finds his work interrupted thanks to the Management; this time, they send a teenager and lusty love interest to distract him.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsaRDf5Syw0dueU0mSXh4r1yzs0.jpg",
@@ -4910,55 +4204,6 @@
       "0": "Drama",
       "1": "Fantasy",
       "2": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Thor",
-    "overview": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zDwvsISU8bR15R2yN3kh1lfqve.jpg",
-    "imdbScore": "6.7",
-    "trailerLink": "https://www.youtube.com/watch?v=JOddp-nlNvQ",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Adventure",
-      "1": "Fantasy",
-      "2": "Action"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Thor: Ragnarok",
-    "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
-    "imdbScore": "7.5",
-    "trailerLink": "https://www.youtube.com/watch?v=ue80QwXMRHg",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Comedy",
-      "3": "Fantasy"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Thor: The Dark World",
-    "overview": "Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnX5PqAdQZRXSw3aX3DutDcdso5.jpg",
-    "imdbScore": "6.6",
-    "trailerLink": "https://www.youtube.com/watch?v=npvJ9FTgZbM",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Fantasy"
     }
   }
 }
@@ -5005,23 +4250,6 @@
       "0": "Thriller",
       "1": "Science Fiction",
       "2": "Drama"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Up",
-    "overview": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nk11pvocdb5zbFhX5oq5YiLPYMo.jpg",
-    "imdbScore": "7.9",
-    "trailerLink": "https://www.youtube.com/watch?v=ORFWdXl_zJ4",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Animation",
-      "1": "Comedy",
-      "2": "Family",
-      "3": "Adventure"
     }
   }
 }
@@ -5106,22 +4334,6 @@
 ,
 {
   "film": {
-    "title": "WALL·E",
-    "overview": "WALL·E is the last robot left on an Earth that has been overrun with garbage and all humans have fled to outer space. For 700 years he has continued to try and clean up the mess, but has developed some rather interesting human-like qualities. When a ship arrives with a sleek new type of robot, WALL·E thinks he's finally found a friend and stows away on the ship when it leaves.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cJETuLMc6R0bTWRA5i7ctY9bxk.jpg",
-    "imdbScore": "8",
-    "trailerLink": "https://www.youtube.com/watch?v=8-_9n5DtKOc",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Animation",
-      "1": "Family",
-      "2": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Walk the Line",
     "overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdxL3Zyh3O5MIbmsSiZEevJAjtQ.jpg",
@@ -5161,24 +4373,6 @@
     "genres": {
       "0": "Drama",
       "1": "Family"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Who Framed Roger Rabbit",
-    "overview": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
-    "imdbScore": "7.4",
-    "trailerLink": "https://www.youtube.com/watch?v=kYNqYC_jNAg",
-    "numberOfGenres": 5,
-    "genres": {
-      "0": "Fantasy",
-      "1": "Animation",
-      "2": "Comedy",
-      "3": "Crime",
-      "4": "Family"
     }
   }
 }
@@ -5264,56 +4458,6 @@
 ,
 {
   "film": {
-    "title": "Wreck-It Ralph",
-    "overview": "Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game named Fix-It Felix Jr., in which the game's titular hero fixes buildings that Ralph destroys. Wanting to prove he can be a good guy and not just a villain, Ralph escapes his game and lands in Hero's Duty, a first-person shooter where he helps the game's hero battle against alien invaders. He later enters Sugar Rush, a kart racing game set on tracks made of candies, cookies and other sweets. There, Ralph meets Vanellope von Schweetz who has learned that her game is faced with a dire threat that could affect the entire arcade, and one that Ralph may have inadvertently started.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8M1kHBAXa6KFNzGnWtdsVsLUro.jpg",
-    "imdbScore": "7.3",
-    "trailerLink": "https://www.youtube.com/watch?v=JPSQOomMWro",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Family",
-      "1": "Animation",
-      "2": "Comedy",
-      "3": "Adventure"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "X-Men: Apocalypse",
-    "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSouWWrySXshPCT4t3UKCQGayyo.jpg",
-    "imdbScore": "6.5",
-    "trailerLink": "https://www.youtube.com/watch?v=COvnHv42T-A",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Science Fiction",
-      "3": "Fantasy"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Dark Phoenix",
-    "overview": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
-    "imdbScore": "6",
-    "trailerLink": "https://www.youtube.com/watch?v=QWbMckU3AOQ",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Science Fiction",
-      "1": "Action",
-      "2": "Adventure"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "X-Men: Apocalypse",
     "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSouWWrySXshPCT4t3UKCQGayyo.jpg",
@@ -5341,39 +4485,6 @@
       "0": "Action",
       "1": "Adventure",
       "2": "Fantasy",
-      "3": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "X-Men: First Class",
-    "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SSm7BfzFoVzmd6fCDccj7qRxc8.jpg",
-    "imdbScore": "7.3",
-    "trailerLink": "https://www.youtube.com/watch?v=UrbHykKUfTM",
-    "numberOfGenres": 3,
-    "genres": {
-      "0": "Action",
-      "1": "Science Fiction",
-      "2": "Adventure"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "X-Men Origins: Wolverine",
-    "overview": "After seeking to live a normal life, Logan sets out to avenge the death of his girlfriend by undergoing the mutant Weapon X program and becoming Wolverine.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqO36IYvWbRKMPiUeiVZUFH06Rc.jpg",
-    "imdbScore": "6.2",
-    "trailerLink": "https://www.youtube.com/watch?v=kd6zYnHwQWA",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Adventure",
-      "1": "Action",
-      "2": "Thriller",
       "3": "Science Fiction"
     }
   }

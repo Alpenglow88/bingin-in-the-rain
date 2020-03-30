@@ -9,6 +9,12 @@ require './constants.rb'
 File.delete('./films.json') if File.exist?('./films.json')
 File.delete('./views/films.ejs') if File.exist?('./views/films.ejs')
 
+class String
+    def initial
+      self[0,2]
+    end
+  end
+
 # scans selected folder for file names and formats them correctly
 File.write('./filelist.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
 list = File.read('filelist.json').tr('_', '-')
@@ -244,6 +250,8 @@ last_film = last_film_rb[0]['title']
 films.each do |film|
   film.delete "'"
 
+  next if film.initial == " -"
+  
   apicall = "https://api.themoviedb.org/3/search/movie?api_key=\'#{TMDBAPIKEY}\'&query=\'#{film}\'".delete "'"
   response = RestClient.get(apicall)
   rb = JSON.parse(response.body)['results']

@@ -132,6 +132,8 @@ list = File.read('filelist.json').tr('_', '-')
            .gsub('7]', '7')
            .gsub(' 10th Anniversary Edition', '')
            .gsub(' DVDRip', '')
+           .gsub('.Final.Cut', '')
+           .gsub(' Cut', '')
            .gsub(' 1920', '')
            .gsub(' 1921', '')
            .gsub(' 1922', '')
@@ -251,7 +253,7 @@ films.each do |film|
   film.delete "'"
 
   next if film.initial == " -"
-  
+
   apicall = "https://api.themoviedb.org/3/search/movie?api_key=\'#{TMDBAPIKEY}\'&query=\'#{film}\'".delete "'"
   response = RestClient.get(apicall)
   rb = JSON.parse(response.body)['results']

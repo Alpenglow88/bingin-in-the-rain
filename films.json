@@ -246,23 +246,6 @@
 ,
 {
   "film": {
-    "title": "Ant-Man and the Wasp",
-    "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg",
-    "imdbScore": "6.9",
-    "trailerLink": "https://www.youtube.com/watch?v=8_rTIAOohas",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Science Fiction",
-      "3": "Comedy"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Anthropoid",
     "overview": "In December 1941, Czech soldier Jozef Gabčík and Jan Kubiš parachute into their occupied homeland to assassinate Nazi officer Reinhard Heydrich",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hUghRVVkBYufftfNQkGevY5AmE.jpg",
@@ -518,25 +501,6 @@
     "numberOfGenres": 1,
     "genres": {
       "0": "Drama"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Brave",
-    "overview": "Brave is set in the mystical Scottish Highlands, where Mérida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Mérida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Mérida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Mérida’s quest — and serving as comic relief — are the kingdom’s three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhABv2d4NZLhsOOA4iBFM4rfuJC.jpg",
-    "imdbScore": "6.9",
-    "trailerLink": "https://www.youtube.com/watch?v=TEHWDA_6e3M",
-    "numberOfGenres": 6,
-    "genres": {
-      "0": "Animation",
-      "1": "Adventure",
-      "2": "Comedy",
-      "3": "Family",
-      "4": "Action",
-      "5": "Fantasy"
     }
   }
 }
@@ -4486,23 +4450,6 @@
       "1": "Adventure",
       "2": "Fantasy",
       "3": "Science Fiction"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "X-Men: The Last Stand",
-    "overview": "When a cure is found to treat mutations, lines are drawn amongst the X-Men—led by Professor Charles Xavier—and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jsW4RurucTwCEtA5iWV2PmIv11.jpg",
-    "imdbScore": "6.4",
-    "trailerLink": "https://www.youtube.com/watch?v=AyAg2gu6z0I",
-    "numberOfGenres": 4,
-    "genres": {
-      "0": "Adventure",
-      "1": "Action",
-      "2": "Science Fiction",
-      "3": "Thriller"
     }
   }
 }

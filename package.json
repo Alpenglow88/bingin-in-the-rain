@@ -8,8 +8,9 @@
     "start": "node app.js",
     "start-dev": "nodemon app.js",
     "film-json": "ruby films_to_json.rb",
+    "film-html": "node films_to_html.rb",
     "construct-film-list-ejs": "node scripts/film_list_top.js && node scripts/film_list_divs.js && node scripts/film_list_bottom.js",
-    "prep-deploy": "npm run film-json && npm run construct-film-list-ejs",
+    "prep-deploy": "npm run film-json && npm run film-html&& npm run construct-film-list-ejs",
     "commit-code": "git add -A && git commit -m 'Auto commit' && git push",
     "deploy-to-heroku": "git push heroku master",
     "full-deploy": "npm run prep-deploy && npm run commit-code && npm run deploy-to-heroku"

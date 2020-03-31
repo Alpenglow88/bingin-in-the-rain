@@ -32,7 +32,7 @@ for (var i = 0; i < numberOfFilms; i++) {
     <div class="container">
         <ul style="text-align:center;">
             <a target="_blank" href="${trailerLink}" <div style="text-align:center;"
-                data_test_automation_id="film_one_image"> <img alt="Image 1" width="300" height="500" src="${imageUrl}"
+                data_test_automation_id="film_one_image" Title="Click to view trailer"> <img alt="Image 1" width="300" height="500" src="${imageUrl}"
                     </div>
             </a>
         </ul>

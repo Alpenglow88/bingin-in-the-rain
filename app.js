@@ -19,11 +19,8 @@ app.get('/films', function (req, res) {
 })
 
 app.get('/random-film', function (req, res) {
-  res.render(`html_film_views/${randomFilmTitle}`)
-})
-
-app.get('/random-film', function (req, res) {
-  res.render(`html_film_views/${randomFilmTitle}`)
+  res.render('waiting')
+  // res.render(`html_film_views/${randomFilmTitle}`)
 })
 
 const PORT = process.env.PORT || 3000

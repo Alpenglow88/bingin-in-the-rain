@@ -3,7 +3,8 @@ const fs = require('fs');
 const numberOfFilms = films.length
 
 
-const bottomChunkText =`</body>
+const bottomChunkText =`</main>
+</body>
 
 </html>
 `

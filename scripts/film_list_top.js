@@ -24,9 +24,65 @@ const topChunkText =`<!DOCTYPE html>
     <div class="heading" data_test_automation_id="main_heading">
         <h1>Available Screenings</h1>
     </div>
+    <div class="container">
+        <a>#</a>
+        <a> - </a>
+        <a>A</a>
+        <a> - </a>
+        <a>B</a>
+        <a> - </a>
+        <a>C</a>
+        <a> - </a>
+        <a>D</a>
+        <a> - </a>
+        <a>E</a>
+        <a> - </a>
+        <a>F</a>
+        <a> - </a>
+        <a>G</a>
+        <a> - </a>
+        <a>H</a>
+        <a> - </a>
+        <a>I</a>
+        <a> - </a>
+        <a>J</a>
+        <a> - </a>
+        <a>K</a>
+        <a> - </a>
+        <a>L</a>
+        <a> - </a>
+        <a>M</a>
+        <a> - </a>
+        <a>N</a>
+        <a> - </a>
+        <a>O</a>
+        <a> - </a>
+        <a>P</a>
+        <a> - </a>
+        <a>Q</a>
+        <a> - </a>
+        <a>R</a>
+        <a> - </a>
+        <a>S</a>
+        <a> - </a>
+        <a>T</a>
+        <a> - </a>
+        <a>U</a>
+        <a> - </a>
+        <a>V</a>
+        <a> - </a>
+        <a>W</a>
+        <a> - </a>
+        <a>X</a>
+        <a> - </a>
+        <a>Y</a>
+        <a> - </a>
+        <a>Z</a>
+    </div>
 </head>
 
 <body>
+<main>
 `
 
 fs.appendFile('views/films.ejs', topChunkText, function (err) {

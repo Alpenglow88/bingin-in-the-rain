@@ -27,7 +27,7 @@ for (var i = 0; i < numberOfFilms; i++) {
 
   const genreList = generateFilmGenres(i)
 
-  let divText = `
+  let divText = `<main>
    <div data_test_automation_id="film_container">
     <div class="container">
         <ul style="text-align:center;">

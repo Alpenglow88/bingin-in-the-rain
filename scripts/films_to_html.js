@@ -1,4 +1,4 @@
-const films = require('./films.json')
+const films = require('../films.json')
 const fs = require('fs')
 const numberOfFilms = films.length
 
@@ -108,7 +108,7 @@ for (var i = 0; i < numberOfFilms; i++) {
 
 const htmlTitle = filmTitle.replace(/\s/g, '')
 
-fs.writeFile(`views/html_film_views/${htmlTitle}.ejs`, generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle), function (err) {
+fs.writeFile(`./views/html_film_views/${htmlTitle}.ejs`, generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle), function (err) {
   if (err) throw err;
 });
 

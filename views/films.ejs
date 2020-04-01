@@ -1,18 +1,4 @@
-const films = require('../films.json')
-const fs = require('fs');
-const numberOfFilms = films.length
-
-const path = './views/films.ejs'
-
-try {
-  if (fs.existsSync(path)) {
-    fs.unlinkSync(path)
-  }
-} catch(err) {
-  console.error(err)
-}
-
-const topChunkText =`<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -96,9 +82,11 @@ const topChunkText =`<!DOCTYPE html>
         <a> - </a>
         <a action="/films-Z" href="/films-Z">Z</a>
     </div>
-`
 
-fs.appendFile('views/films.ejs', topChunkText, function (err) {
-  if (err) throw err;
-  console.log('Top chunk text added');
-});
+    
+
+  </main>
+
+</body>
+
+</html>

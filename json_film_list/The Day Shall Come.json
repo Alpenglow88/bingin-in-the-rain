@@ -1,0 +1,17 @@
+{
+  "film": {
+    "title": "The Day Shall Come",
+    "director": "Chris Morris",
+    "release_date": "2019-10-11",
+    "film_id": 492190,
+    "original_language": "en",
+    "overview": "An impoverished leader of a small religious commune in Miami, is offered cash to save his family from eviction. He has no idea his sponsor works for an FBI agent, who plans to turn him into a criminal by fueling his madcap revolutionary dreams.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNUHlL3w31dF1Iyp9knGOUkBkWa.jpg",
+    "imdbScore": "5.5",
+    "trailerLink": "https://www.youtube.com/watch?v=oqJyhh2PFBw",
+    "numberOfGenres": 1,
+    "genres": {
+      "0": "Comedy"
+    }
+  }
+}

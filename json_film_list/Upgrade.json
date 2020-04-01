@@ -1,0 +1,20 @@
+{
+  "film": {
+    "title": "Upgrade",
+    "director": "Leigh Whannell",
+    "release_date": "2018-06-01",
+    "film_id": 500664,
+    "original_language": "en",
+    "overview": "A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fDtXi6gVw8WUMWGT9XFz7YwkuE.jpg",
+    "imdbScore": "7.4",
+    "trailerLink": "https://www.youtube.com/watch?v=1hTLGlgZ4Z8",
+    "numberOfGenres": 4,
+    "genres": {
+      "0": "Action",
+      "1": "Thriller",
+      "2": "Science Fiction",
+      "3": "Horror"
+    }
+  }
+}

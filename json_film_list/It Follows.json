@@ -1,0 +1,18 @@
+{
+  "film": {
+    "title": "It Follows",
+    "director": "David Robert Mitchell",
+    "release_date": "2015-02-04",
+    "film_id": 270303,
+    "original_language": "en",
+    "overview": "After carefree teenager Jay  sleeps with her new boyfriend, Hugh, for the first time, she learns that she is the latest recipient of a fatal curse that is passed from victim to victim via sexual intercourse. Death, Jay learns, will creep inexorably toward her as either a friend or a stranger. Jay's friends don't believe her seemingly paranoid ravings, until they too begin to see the phantom assassins and band together to help her flee or defend herself.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MrwJZr0R9LbyOgZqwLNmtzzxbu.jpg",
+    "imdbScore": "6.5",
+    "trailerLink": "https://www.youtube.com/watch?v=9tyMi1Hn32I",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Horror",
+      "1": "Thriller"
+    }
+  }
+}

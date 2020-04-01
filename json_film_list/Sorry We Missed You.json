@@ -1,0 +1,17 @@
+{
+  "film": {
+    "title": "Sorry We Missed You",
+    "director": "Ken Loach",
+    "release_date": "2019-10-04",
+    "film_id": 522369,
+    "original_language": "en",
+    "overview": "From the Director of I Daniel Blake (Ken Loach) comes another hard hitting dose of reality. Ricky and his family have been fighting an uphill struggle against debt since the 2008 financial crash. An opportunity to wrestle back some independence appears with a shiny new van and the chance to run a franchise as a self-employed delivery driver. It's hard work, and his wife's job as a carer is no easier. The family unit is strong but when both are pulled in different directions everything comes to breaking point.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNvlqNDnXH8aqBeiBxNNP0wWWO3.jpg",
+    "imdbScore": "7.6",
+    "trailerLink": "https://www.youtube.com/watch?v=ysjwg-MnZao",
+    "numberOfGenres": 1,
+    "genres": {
+      "0": "Drama"
+    }
+  }
+}

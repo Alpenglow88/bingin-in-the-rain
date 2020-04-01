@@ -18,58 +18,78 @@ function generateFilmGenres (indexValue) {
   return genreList
 }
 
-function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList ) {
+function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle ) {
   let filmHtml = `<!DOCTYPE html>
 <html>
 
 <head>
     <meta charset="utf-8">
-    <title>Bingin' Film List</title>
-    <link rel="stylesheet" type="text/css" href="/css/film_list_style.css">
+    <title>Screenings</title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
-
-    <div class="heading" data_test_automation_id="main_heading">
-        <h1>Why not check out...?</h1>
-    </div>
 </head>
 
 <body>
-   <div data_test_automation_id="film_container">
-    <div class="container">
-        <ul style="text-align:center;">
-            <a target="_blank" href="${trailerLink}" <div style="text-align:center;"
-                data_test_automation_id="film_one_image"> <img alt="Image 1" width="300" height="500" src="${imageUrl}"
-                    </div>
-            </a>
-        </ul>
-    </div>
+    <header class="header sticky sticky--top js-header">
+        <div class="grid">
 
-    <div class="container">
-        <ul>
-            <h2 style="text-align:center;" data_test_automation_id="film_title_one">${filmTitle}
-            </h2>
-            <p> </p>
-            <h3 style="text-align:center;" data_test_automation_id="film_title_one">IMdB score ${imdbScore}
-            </h3>
-            <p> </p>
-        </ul>
-    </div>
+            <nav class="navigation">
+                <ul class="navigation__list navigation__list--inline">
+                    <li class="navigation__item"><a href="/" data_test_automation_id="header_home_button">Home</a></li>
+                    <li class="navigation__item"><a href="/films"
+                            data_test_automation_id="header_screenings_button">Screenings</a></li>
+                    <li class="navigation__item"><a href="/waiting"
+                            data_test_automation_id="header_random_button">Random Film</a></li>
+                </ul>
+            </nav>
 
-    <div class="container">
+        </div>
+    </header>
 
-        ${genreList}
-        <p> </p>
-    </div>
+    <main>
+        <div class="heading" data_test_automation_id="main_heading">
+            <h1>${filmTitle}</h1>
+        </div>
 
-    <div class="body-wide" data_test_automation_id="film_overview_one" <p>${filmOverview}</p>
-    </div>
-</div>
-<div=class="container">
-    <h1 class="body-wide" data_test_automation_id="film_overview_one" <p>
-        ------------------------------------------------------</p>
-    </h1>
-    </div>
-    </body>
+        <div data_test_automation_id="film_container">
+            <div class="container">
+                <ul style="text-align:center;">
+                    <a target="_blank" href="${trailerLink}" <div style="text-align:center;"
+                        data_test_automation_id="film_one_image"> <img alt="Image 1" width="300" height="500"
+                            src="${imageUrl}" </div>
+                    </a>
+                </ul>
+            </div>
+
+            <div class="container">
+                <ul>
+                    <h3 style="text-align:center;" data_test_automation_id="film_title_one">IMdB score ${imdbScore}
+                    </h3>
+                    <p> </p>
+                </ul>
+            </div>
+
+            <div class="container">
+
+                ${genreList}
+                <p> </p>
+            </div>
+
+            <div class="body-wide" data_test_automation_id="film_overview_one" <p>${filmOverview}</p>
+            </div>
+        </div>
+        <div=class="container">
+            <div class="body-wide" data_test_automation_id="film_overview_one" <p>Release Year</p>
+            </div>
+            <div class="body-wide" data_test_automation_id="film_overview_one" <p>Language</p>
+            </div>
+            <div class="body-wide" data_test_automation_id="film_overview_one" <p>Director</p>
+            </div>
+            <div class="body-wide" data_test_automation_id="film_overview_one" <p>Main Actors</p>
+            </div>
+            </div>
+    </main>
+</body>
 
 </html>
   `
@@ -86,7 +106,26 @@ for (var i = 0; i < numberOfFilms; i++) {
 
   const genreList = generateFilmGenres(i)
 
-fs.writeFile(`views/html_film_views/${filmTitle}.ejs`, generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList), function (err) {
+const htmlTitle = filmTitle.replace(/\s/g, '')
+
+fs.writeFile(`views/html_film_views/${htmlTitle}.ejs`, generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle), function (err) {
   if (err) throw err;
 });
+
+const filmRoute = `app.get("/${htmlTitle}", function (req, res) {res.render("html_film_views/${htmlTitle}")})
+`
+
+fs.appendFile('./app.js', "\n", function (err) {
+  if (err) throw err;
+});
+
+fs.appendFile('./app.js', filmRoute, function (err) {
+  if (err) throw err;
+});
+
+fs.appendFile('./app.js', "\n", function (err) {
+  if (err) throw err;
+});
+
 }
+

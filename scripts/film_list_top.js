@@ -33,68 +33,67 @@ const topChunkText =`<!DOCTYPE html>
                 <li class="navigation__item"><a href="/waiting" data_test_automation_id="header_random_button">Random Film</a></li>
             </ul>
         </nav>
-    
-    </div>  </header>
+    </div>  
+    <div> <font color="white">-</font></div>
+    <div class="grid">
+      <a action="/films-number" href="/films-number">#</a>
+      <a> - </a>
+      <a action="/films-A" href="/films-A">A</a>
+      <a> - </a>
+      <a action="/films-B" href="/films-B">B</a>
+      <a> - </a>
+      <a action="/films-C" href="/films-C">C</a>
+      <a> - </a>
+      <a action="/films-D" href="/films-D">D</a>
+      <a> - </a>
+      <a action="/films-E" href="/films-E">E</a>
+      <a> - </a>
+      <a action="/films-F" href="/films-F">F</a>
+      <a> - </a>
+      <a action="/films-G" href="/films-G">G</a>
+      <a> - </a>
+      <a action="/films-H" href="/films-H">H</a>
+      <a> - </a>
+      <a action="/films-I" href="/films-I">I</a>
+      <a> - </a>
+      <a action="/films-J" href="/films-J">J</a>
+      <a> - </a>
+      <a action="/films-K" href="/films-K">K</a>
+      <a> - </a>
+      <a action="/films-L" href="/films-L">L</a>
+      <a> - </a>
+      <a action="/films-M" href="/films-M">M</a>
+      <a> - </a>
+      <a action="/films-N" href="/films-N">N</a>
+      <a> - </a>
+      <a action="/films-O" href="/films-O">O</a>
+      <a> - </a>
+      <a action="/films-P" href="/films-P">P</a>
+      <a> - </a>
+      <a action="/films-Q" href="/films-Q">Q</a>
+      <a> - </a>
+      <a action="/films-R" href="/films-R">R</a>
+      <a> - </a>
+      <a action="/films-S" href="/films-S">S</a>
+      <a> - </a>
+      <a action="/films-T" href="/films-T">T</a>
+      <a> - </a>
+      <a action="/films-U" href="/films-U">U</a>
+      <a> - </a>
+      <a action="/films-V" href="/films-V">V</a>
+      <a> - </a>
+      <a action="/films-W" href="/films-W">W</a>
+      <a> - </a>
+      <a action="/films-X" href="/films-X">X</a>
+      <a> - </a>
+      <a action="/films-Y" href="/films-Y">Y</a>
+      <a> - </a>
+      <a action="/films-Z" href="/films-Z">Z</a>
+  </div> </header>
 
   <main>
     <div class="heading" data_test_automation_id="main_heading">
         <h1>Available Screenings</h1>
-    </div>
-
-    <div class="container">
-        <a action="/films-number" href="/films-number">#</a>
-        <a> - </a>
-        <a action="/films-A" href="/films-A">A</a>
-        <a> - </a>
-        <a action="/films-B" href="/films-B">B</a>
-        <a> - </a>
-        <a action="/films-C" href="/films-C">C</a>
-        <a> - </a>
-        <a action="/films-D" href="/films-D">D</a>
-        <a> - </a>
-        <a action="/films-E" href="/films-E">E</a>
-        <a> - </a>
-        <a action="/films-F" href="/films-F">F</a>
-        <a> - </a>
-        <a action="/films-G" href="/films-G">G</a>
-        <a> - </a>
-        <a action="/films-H" href="/films-H">H</a>
-        <a> - </a>
-        <a action="/films-I" href="/films-I">I</a>
-        <a> - </a>
-        <a action="/films-J" href="/films-J">J</a>
-        <a> - </a>
-        <a action="/films-K" href="/films-K">K</a>
-        <a> - </a>
-        <a action="/films-L" href="/films-L">L</a>
-        <a> - </a>
-        <a action="/films-M" href="/films-M">M</a>
-        <a> - </a>
-        <a action="/films-N" href="/films-N">N</a>
-        <a> - </a>
-        <a action="/films-O" href="/films-O">O</a>
-        <a> - </a>
-        <a action="/films-P" href="/films-P">P</a>
-        <a> - </a>
-        <a action="/films-Q" href="/films-Q">Q</a>
-        <a> - </a>
-        <a action="/films-R" href="/films-R">R</a>
-        <a> - </a>
-        <a action="/films-S" href="/films-S">S</a>
-        <a> - </a>
-        <a action="/films-T" href="/films-T">T</a>
-        <a> - </a>
-        <a action="/films-U" href="/films-U">U</a>
-        <a> - </a>
-        <a action="/films-V" href="/films-V">V</a>
-        <a> - </a>
-        <a action="/films-W" href="/films-W">W</a>
-        <a> - </a>
-        <a action="/films-X" href="/films-X">X</a>
-        <a> - </a>
-        <a action="/films-Y" href="/films-Y">Y</a>
-        <a> - </a>
-        <a action="/films-Z" href="/films-Z">Z</a>
     </div>
 `
 

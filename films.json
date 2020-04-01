@@ -34,16 +34,15 @@
 ,
 {
   "film": {
-    "title": "303",
-    "overview": "Two university students gain insight into life and love as they get to know each other during a road trip across Europe.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gUNQ8Xlk00J4W4OROgwR7xzUOz.jpg",
-    "imdbScore": "7.4",
-    "trailerLink": "https://www.youtube.com/watch?v=PIEBOrjSMBk",
-    "numberOfGenres": 3,
+    "title": "303 Squadron",
+    "overview": "After the fall of the September Campaign of 1939, two Polish pilots are forced to fight for their nation in foreign battlefronts.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3O1zY9INsubcJp1od8ccQULfhm.jpg",
+    "imdbScore": "6.3",
+    "trailerLink": "https://www.youtube.com/watch?v=vSHeKwLnp8o",
+    "numberOfGenres": 2,
     "genres": {
-      "0": "Drama",
-      "1": "Romance",
-      "2": "Comedy"
+      "0": "War",
+      "1": "Drama"
     }
   }
 }
@@ -680,31 +679,28 @@
 {
   "film": {
     "title": "Dawn of the Dead",
-    "overview": "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfqsgzW6AQYmBjIEIq0y9EB1Rgl.jpg",
-    "imdbScore": "6.9",
-    "trailerLink": "https://www.youtube.com/watch?v=DV8mJcuYVaA",
-    "numberOfGenres": 4,
+    "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK8BmYEvd0IPpDXL6zzlTA2geDf.jpg",
+    "imdbScore": "7.5",
+    "trailerLink": "https://www.youtube.com/watch?v=3M3NUjaOyJ8",
+    "numberOfGenres": 1,
     "genres": {
-      "0": "Fantasy",
-      "1": "Horror",
-      "2": "Action",
-      "3": "Drama"
+      "0": "Horror"
     }
   }
 }
 ,
 {
   "film": {
-    "title": "Day of the Dead: Bloodline",
-    "overview": "In a world overrun by zombies, military personnel and survivalists live in an underground bunker while they seek a cure.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jM4C1wJxHLWlF4tcSyyv6fnJPR.jpg",
-    "imdbScore": "4.1",
-    "trailerLink": "https://www.youtube.com/watch?v=3hhFT3vCeko",
+    "title": "Day of the Dead",
+    "overview": "Trapped in a missile silo, a small team of scientists, civilians and trigger-happy soldiers battle desperately to ensure the survival of the human race. However, the tension inside the base is reaching a breaking point, and the zombies are gathering outside.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ2emwXWwQc6VHW3fO4GZr0hXBt.jpg",
+    "imdbScore": "7",
+    "trailerLink": "https://www.youtube.com/watch?v=oATJVC5R0FA",
     "numberOfGenres": 2,
     "genres": {
-      "0": "Action",
-      "1": "Horror"
+      "0": "Horror",
+      "1": "Science Fiction"
     }
   }
 }
@@ -857,7 +853,7 @@
     "title": "Eastern Promises",
     "overview": "A Russian teenager, living in London, dies during childbirth but leaves clues to a midwife in her journal, that could tie her child to a rape involving a violent Russian mob family.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnYpxr2efiY1MEHGsSrwPF8pDFY.jpg",
-    "imdbScore": "7.4",
+    "imdbScore": "7.3",
     "trailerLink": "https://www.youtube.com/watch?v=tNnkDFOD7J0",
     "numberOfGenres": 3,
     "genres": {
@@ -1835,7 +1831,7 @@
   "film": {
     "title": "Jason and the Argonauts",
     "overview": "Jason, a fearless sailor and explorer, returns to his home land of Thessaly after a long voyage to claim his rightful throne. He learns, however, that he must first find the magical Golden Fleece. To do so, he must embark on an epic quest fraught with fantastic monsters and terrible perils.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTvf290Awne5aAEgmPBabN3XVLU.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sETr2WLoA8HqTBsDwCiaH35A2Gr.jpg",
     "imdbScore": "7.1",
     "trailerLink": "https://www.youtube.com/watch?v=_WdllLPDmaE",
     "numberOfGenres": 3,
@@ -1883,7 +1879,7 @@
     "title": "John Wick: Chapter 3 - Parabellum",
     "overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
-    "imdbScore": "7.1",
+    "imdbScore": "7.2",
     "trailerLink": "https://www.youtube.com/watch?v=M7XM597XO94",
     "numberOfGenres": 3,
     "genres": {
@@ -1961,16 +1957,17 @@
 ,
 {
   "film": {
-    "title": "Jungle",
-    "overview": "In 1981, an enthusiastic young adventurer follows his dreams into the Bolivian Amazon jungle with two friends and a guide with a mysterious past. Their journey quickly turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wilderness lead to an all-out fight for survival.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg",
-    "imdbScore": "6.3",
-    "trailerLink": "https://www.youtube.com/watch?v=ADjYDl1RCGs",
-    "numberOfGenres": 3,
+    "title": "The Jungle Book",
+    "overview": "A man-cub named Mowgli fostered by wolves. After a threat from the tiger Shere Khan, Mowgli is forced to flee the jungle, by which he embarks on a journey of self discovery with the help of the panther, Bagheera and the free-spirited bear, Baloo.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOipe2myi26UDwP978hsYOrnUWC.jpg",
+    "imdbScore": "6.8",
+    "trailerLink": "https://www.youtube.com/watch?v=HcgJRQWxKnw",
+    "numberOfGenres": 4,
     "genres": {
       "0": "Adventure",
       "1": "Drama",
-      "2": "Thriller"
+      "2": "Family",
+      "3": "Fantasy"
     }
   }
 }
@@ -2232,7 +2229,7 @@
   "film": {
     "title": "Lords of Dogtown",
     "overview": "\"Lords of Dogtown\" tells the radical true story behind three teenage surfers from Venice Beach, California, who took skateboarding to the extreme and changed the world of sports forever. Stacy Peralta (John Robinson, Elephant), Tony Alva (Victor Rasuk, Raising Victor Vargas) and Jay Adams (Emile Hirsch, The Girl Next Door) are the Z-Boys, a bunch of nobodies until they create a new style of skateboarding that becomes a worldwide phenomenon. But when their hobby becomes a business, the success shreds their friendship. Directed by Catherine Hardwicke (Thirteen) and written by Stacy Peralta, Lords of Dogtown is \"...a dazzling daredevil ride.\" (Peter Travers, Rollng Stone)",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1WjRObfqZV7EfmhsnUmhx88EAa.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vpRM2v7fuw3oEETGT8YahwP0Va.jpg",
     "imdbScore": "7.1",
     "trailerLink": "https://www.youtube.com/watch?v=KHwimJTfvxE",
     "numberOfGenres": 2,
@@ -2335,7 +2332,7 @@
     "title": "mid90s",
     "overview": "Stevie is a sweet 13-year-old about to explode. His mom is loving and attentive, but a little too forthcoming about her romantic life. His big brother is a taciturn and violent bully. So Stevie searches his working-class Los Angeles suburb for somewhere to belong. He finds it at the Motor Avenue skate shop.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HkP9ale8G43vqOF3F6wt5h86RN.jpg",
-    "imdbScore": "7.3",
+    "imdbScore": "7.4",
     "trailerLink": "https://www.youtube.com/watch?v=w9Rx6-GaSIE",
     "numberOfGenres": 2,
     "genres": {
@@ -2591,7 +2588,7 @@
     "title": "Onward",
     "overview": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
-    "imdbScore": "7.8",
+    "imdbScore": "7.9",
     "trailerLink": "https://www.youtube.com/watch?v=gn5QmllRCn4",
     "numberOfGenres": 5,
     "genres": {
@@ -2670,16 +2667,16 @@
 ,
 {
   "film": {
-    "title": "Life of Pi",
-    "overview": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QNFcnU2m8shimA0x16p9d3GaUt.jpg",
-    "imdbScore": "7.3",
-    "trailerLink": "https://www.youtube.com/watch?v=j9Hjrs6WQ8M",
+    "title": "Pi",
+    "overview": "The debut film from Darren Aronofsky in which a mathematical genius Maximilian Cohen discovers a link in the connection between numbers and reality and thus believes he can predict the future.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4pDorUHjIVFiVGiJar6sF2r8TQ.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=jo18VIoR2xU",
     "numberOfGenres": 3,
     "genres": {
-      "0": "Adventure",
+      "0": "Mystery",
       "1": "Drama",
-      "2": "Action"
+      "2": "Thriller"
     }
   }
 }
@@ -2702,19 +2699,17 @@
 ,
 {
   "film": {
-    "title": "The Predator",
-    "overview": "When a kid accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled female scientist can prevent the end of the human race.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg",
-    "imdbScore": "5.3",
-    "trailerLink": "https://www.youtube.com/watch?v=WaG1KZqrLvM",
-    "numberOfGenres": 6,
+    "title": "Predator",
+    "overview": "Dutch and his group of commandos are hired by the CIA to rescue downed airmen from guerillas in a Central American jungle. The mission goes well but as they return they find that something is hunting them. Nearly invisible, it blends in with the forest, taking trophies from the bodies of its victims as it goes along. Occasionally seeing through its eyes, the audience sees it is an intelligent alien hunter, hunting them for sport, killing them off one at a time.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUpto7r2XwoM5eW7MUvd8hl1etB.jpg",
+    "imdbScore": "7.4",
+    "trailerLink": "https://www.youtube.com/watch?v=X2hBYGwKh3I",
+    "numberOfGenres": 4,
     "genres": {
       "0": "Science Fiction",
       "1": "Action",
-      "2": "Thriller",
-      "3": "Adventure",
-      "4": "Horror",
-      "5": "Comedy"
+      "2": "Adventure",
+      "3": "Thriller"
     }
   }
 }
@@ -3822,7 +3817,7 @@
     "title": "The Man Who Killed Hitler and Then the Bigfoot",
     "overview": "Decades after serving in WWII and assassinating Adolf Hitler, a legendary American war veteran must now hunt down the fabled Bigfoot.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SjYLE1kOiw7A1NioP24ER0aXov.jpg",
-    "imdbScore": "5.5",
+    "imdbScore": "5.6",
     "trailerLink": "https://www.youtube.com/watch?v=UkP4bZKCHE8",
     "numberOfGenres": 3,
     "genres": {
@@ -4347,7 +4342,7 @@
     "title": "The Call of the Wild",
     "overview": "Buck is a big-hearted dog whose blissful domestic life is turned upside down when he is suddenly uprooted from his California home and transplanted to the exotic wilds of the Yukon during the Gold Rush of the 1890s. As the newest rookie on a mail delivery dog sled team—and later its leader—Buck experiences the adventure of a lifetime, ultimately finding his true place in the world and becoming his own master.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/33VdppGbeNxICrFUtW2WpGHvfYc.jpg",
-    "imdbScore": "6.5",
+    "imdbScore": "6.6",
     "trailerLink": "https://www.youtube.com/watch?v=5P8R2zAhEwg",
     "numberOfGenres": 3,
     "genres": {
@@ -4521,7 +4516,7 @@
     "title": "Zulu",
     "overview": "In 1879, during the Zulu wars, man-of-the-people, Lt. John Chard and snooty Lt Gonville Bromhead were in charge of defending the isolated Natal outpost of Rorke's Drift from tribal hordes, holding out during an Alamo-like siege until they are overwhelmed, losing the battle, but going down in history as heroes. 150 soldiers defended a supply station against some 4000 Zulus, aided by the Martini-Henry rifle \"with some guts behind it\".  In the hundred years since the Victoria Cross was created for valour and extreme courage beyond that normally expected of the British soldier in face of the enemy only 1344 have been awarded. Eleven of these were won by the defenders of the mission station at Rorke's Drift, Natal, January 22nd to the 23rd 1879.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/43ddKmYjzNrvS7xvHVwtq03N6xP.jpg",
-    "imdbScore": "7.4",
+    "imdbScore": "7.5",
     "trailerLink": "https://www.youtube.com/watch?v=O7zoPJCuTBA",
     "numberOfGenres": 4,
     "genres": {

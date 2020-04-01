@@ -18,7 +18,7 @@ function generateFilmGenres (indexValue) {
   return genreList
 }
 
-function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle ) {
+function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle, original_language, release_date, director ) {
   let filmHtml = `<!DOCTYPE html>
 <html>
 
@@ -79,13 +79,13 @@ function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerL
             </div>
         </div>
         <div=class="container">
-            <div class="body-wide" data_test_automation_id="film_overview_one" <p>Release Year</p>
+            <div class="body-wide" <p>Directed by - ${director}</p>
             </div>
-            <div class="body-wide" data_test_automation_id="film_overview_one" <p>Language</p>
+            <div class="body-wide" <p>Language - ${original_language}</p>
             </div>
-            <div class="body-wide" data_test_automation_id="film_overview_one" <p>Director</p>
+            <div class="body-wide" <p>Release Date - ${release_date}</p>
             </div>
-            <div class="body-wide" data_test_automation_id="film_overview_one" <p>Main Actors</p>
+            <div class="body-wide" <p>Main Actors - </p>
             </div>
             </div>
     </main>
@@ -103,12 +103,15 @@ for (var i = 0; i < numberOfFilms; i++) {
   const imageUrl = films[i]['film']['imageUrl']
   const imdbScore = films[i]['film']['imdbScore']
   const trailerLink = films[i]['film']['trailerLink']
+  const original_language = films[i]['film']['original_language']
+  const release_date = films[i]['film']['release_date']
+  const director = films[i]['film']['director']
 
   const genreList = generateFilmGenres(i)
 
 const htmlTitle = filmTitle.replace(/\s/g, '')
 
-fs.writeFile(`./views/html_film_views/${htmlTitle}.ejs`, generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle), function (err) {
+fs.writeFile(`./views/html_film_views/${htmlTitle}.ejs`, generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle, original_language, release_date, director), function (err) {
   if (err) throw err;
 });
 

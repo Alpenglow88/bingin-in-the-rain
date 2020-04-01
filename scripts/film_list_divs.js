@@ -24,6 +24,8 @@ for (var i = 0; i < numberOfFilms; i++) {
   const imageUrl = films[i]['film']['imageUrl']
   const imdbScore = films[i]['film']['imdbScore']
   const trailerLink = films[i]['film']['trailerLink']
+  const original_language = films[i]['film']['original_language']
+  const release_date = films[i]['film']['release_date']
 
   const genreList = generateFilmGenres(i)
   
@@ -44,6 +46,7 @@ for (var i = 0; i < numberOfFilms; i++) {
         <ul>
             <h2 style="text-align:center;" data_test_automation_id="film_title_one">${filmTitle}
             </h2>
+            ${original_language}
             <p> </p>
         </ul>
     </div>

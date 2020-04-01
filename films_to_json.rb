@@ -10,15 +10,18 @@ File.delete('./films.json') if File.exist?('./films.json')
 File.delete('./views/films.ejs') if File.exist?('./views/films.ejs')
 
 FileUtils.rm_rf('./json_film_list')
-Dir.mkdir("./json_film_list")
+Dir.mkdir('./json_film_list')
 
+# Class string
 class String
-  def initial
-    self[0, 2]
+  # function to gather defined characters of a string
+  def initial(top_value)
+    self[0, top_value]
   end
 end
 
 # scans selected folder for file names and formats them correctly
+# File.write('./filelist.json', Dir.entries('./home movies').drop(2))
 File.write('./filelist.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
 list = File.read('filelist.json').tr('_', '-')
            .gsub!('.mp4', '')
@@ -243,6 +246,7 @@ list = File.read('filelist.json').tr('_', '-')
 films_data = JSON.parse(list)
 films = films_data.sort
 last_film_raw = films[films.length - 1]
+
 File.open('./films.json', 'a') do |f|
   f.puts '['
 end
@@ -256,12 +260,13 @@ last_film = last_film_rb[0]['title']
 films.each do |film|
   film.delete "'"
 
-  next if film.initial == ' -'
+  next if film.initial(2) == ' -'
 
   apicall = "https://api.themoviedb.org/3/search/movie?api_key=\'#{TMDBAPIKEY}\'&query=\'#{film}\'".delete "'"
   response = RestClient.get(apicall)
   rb = JSON.parse(response.body)['results']
-  # File.write('./response.json', JSON.pretty_generate(rb))
+  File.write('./response.json', JSON.pretty_generate(rb))
+
   begin
     filmname = rb[0]['title']
   rescue NoMethodError
@@ -292,6 +297,18 @@ films.each do |film|
     film_id = '15379'
   end
 
+  begin
+    original_language = rb[0]['original_language']
+  rescue NoMethodError
+    original_language = 'en'
+  end
+
+  begin
+    release_date = rb[0]['release_date']
+  rescue NoMethodError
+    release_date = '-'
+  end
+
   genre_api = "https://api.themoviedb.org/3/movie/#{film_id}?api_key=#{TMDBAPIKEY}&language=en-US"
   genre_response = RestClient.get(genre_api)
   grb = JSON.parse(genre_response.body)
@@ -300,6 +317,23 @@ films.each do |film|
   genres_hash = {}
   (0..number_of_tags_json).each do |i|
     genres_hash[:"#{i}"] = grb['genres'][i]['name']
+  end
+
+  credits_api_call = "https://api.themoviedb.org/3/movie/#{film_id}/credits?api_key=#{TMDBAPIKEY}".delete "'"
+  credits_response = RestClient.get(credits_api_call)
+  credits_rb = JSON.parse(credits_response.body)
+  crew_credits_count = (credits_rb['crew'].length - 1)
+
+  director_name = ''
+  (0..crew_credits_count).each do |i|
+    begin
+      job = credits_rb['crew'][i]['job']
+      name = credits_rb['crew'][i]['name']
+    rescue NoMethodError
+      job = 'undefined'
+      name = 'undefined'
+    end
+    director_name = name if job == 'Director'
   end
 
   image_url = "https://image.tmdb.org/t/p/w600_and_h900_bestv2\'#{poster_path_filmname}\'".delete "'"
@@ -326,6 +360,10 @@ films.each do |film|
   hash = {
     film: {
       'title' => filmname,
+      'director' => director_name,
+      'release_date' => release_date,
+      'film_id' => film_id,
+      'original_language' => original_language,
       'overview' => filmoverview,
       'imageUrl' => image_url,
       'imdbScore' => vote_average.to_s,
@@ -335,7 +373,7 @@ films.each do |film|
     }
   }
   File.write("./json_film_list/#{filmname}.json", JSON.pretty_generate(hash))
-  
+
   if filmname.include? last_film
     File.open('./films.json', 'a') do |f|
       f.puts JSON.pretty_generate(hash)

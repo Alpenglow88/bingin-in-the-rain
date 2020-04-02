@@ -6,7 +6,7 @@
     "release_date": "2019-12-25",
     "film_id": 530915,
     "original_language": "en",
-    "overview": "i like my poon FRESH",
+    "overview": "At the height of the First World War, two young British soldiers, Schofield (Captain Fantastic’s George MacKay) and Blake (Game of Thrones’ Dean-Charles Chapman) are given a seemingly impossible mission. In a race against time, they must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers—Blake’s own brother among them.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
     "imdbScore": "7.9",
     "trailerLink": "https://www.youtube.com/watch?v=UcmZN0Mbl04",
@@ -2494,20 +2494,21 @@
 ,
 {
   "film": {
-    "title": "Jurassic World: Fallen Kingdom",
-    "director": "J. A. Bayona",
-    "release_date": "2018-06-06",
-    "film_id": 351286,
+    "title": "Jurassic World",
+    "director": "Colin Trevorrow",
+    "release_date": "2015-06-06",
+    "film_id": 135397,
     "original_language": "en",
-    "overview": "Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg",
-    "imdbScore": "6.5",
-    "trailerLink": "https://www.youtube.com/watch?v=",
-    "numberOfGenres": 3,
+    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjBgi2r5cRt36xF6iNUEhzscEcb.jpg",
+    "imdbScore": "6.6",
+    "trailerLink": "https://www.youtube.com/watch?v=RFinNxS5KN4",
+    "numberOfGenres": 4,
     "genres": {
       "0": "Action",
       "1": "Adventure",
-      "2": "Science Fiction"
+      "2": "Science Fiction",
+      "3": "Thriller"
     }
   }
 }

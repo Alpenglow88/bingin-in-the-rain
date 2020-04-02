@@ -267,24 +267,6 @@
     "vote_count": 1,
     "video": true,
     "poster_path": null,
-    "id": 219329,
-    "adult": false,
-    "backdrop_path": null,
-    "original_language": "da",
-    "original_title": "Zulu Comedy Galla 2013",
-    "genre_ids": [
-
-    ],
-    "title": "Zulu Comedy Galla 2013",
-    "vote_average": 2.5,
-    "overview": "",
-    "release_date": "2013-08-31"
-  },
-  {
-    "popularity": 0.6,
-    "vote_count": 1,
-    "video": true,
-    "poster_path": null,
     "id": 74568,
     "adult": false,
     "backdrop_path": null,
@@ -297,6 +279,24 @@
     "vote_average": 6.5,
     "overview": "Zulu Comedy Galla is a Danish Comedy Award show shown on TV2 Zulu once a year. At the show the Comedian of the year and \"Läkerols Talentpris\" are awarded and three new comedians attempts to make it in to the comedy scene.",
     "release_date": "2011-09-04"
+  },
+  {
+    "popularity": 0.6,
+    "vote_count": 0,
+    "video": true,
+    "poster_path": "/8LPa33wVxzfSBNEliYCtItDxun2.jpg",
+    "id": 128317,
+    "adult": false,
+    "backdrop_path": null,
+    "original_language": "da",
+    "original_title": "Zulu Comedy Galla 2010",
+    "genre_ids": [
+      35
+    ],
+    "title": "Zulu Comedy Galla 2010",
+    "vote_average": 0,
+    "overview": "",
+    "release_date": "2010-09-02"
   },
   {
     "popularity": 0.6,
@@ -318,21 +318,21 @@
   },
   {
     "popularity": 0.6,
-    "vote_count": 0,
+    "vote_count": 1,
     "video": true,
-    "poster_path": "/8LPa33wVxzfSBNEliYCtItDxun2.jpg",
-    "id": 128317,
+    "poster_path": null,
+    "id": 219329,
     "adult": false,
     "backdrop_path": null,
     "original_language": "da",
-    "original_title": "Zulu Comedy Galla 2010",
+    "original_title": "Zulu Comedy Galla 2013",
     "genre_ids": [
-      35
+
     ],
-    "title": "Zulu Comedy Galla 2010",
-    "vote_average": 0,
+    "title": "Zulu Comedy Galla 2013",
+    "vote_average": 2.5,
     "overview": "",
-    "release_date": "2010-09-02"
+    "release_date": "2013-08-31"
   },
   {
     "popularity": 0.6,

@@ -99,6 +99,14 @@ body {
   width: 90%;
 }
 
+.grid .is-active {
+  background-color: #000;
+  color: #fff;
+  padding-left: 1em;
+  padding-right: 1em;
+  border-radius: 999px;
+}
+
 /* helpers/sticky.css */
 
 .sticky {

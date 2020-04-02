@@ -27,6 +27,8 @@ for (var i = 0; i < numberOfFilms; i++) {
   const original_language = films[i]['film']['original_language']
   const release_date = films[i]['film']['release_date']
 
+  const initial = filmTitle.charAt(0);
+
   const genreList = generateFilmGenres(i)
   
   const htmlTitle = filmTitle.replace(/\s/g, '')
@@ -71,5 +73,17 @@ for (var i = 0; i < numberOfFilms; i++) {
   fs.appendFileSync('views/films.ejs', divText, function (err) {
     if (err) throw err
   })
+
+if (isNaN(initial) === false)
+fs.appendFile('views/alphabetical_views/number.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'T')
+fs.appendFile('views/alphabetical_views/t.ejs', divText, function (err) {
+  if (err) throw err
+})
+
 }
-console.log(`Div text added`)
+
+

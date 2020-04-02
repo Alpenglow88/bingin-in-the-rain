@@ -13,6 +13,9 @@ File.delete('./views/films.ejs') if File.exist?('./views/films.ejs')
 FileUtils.rm_rf('./json_film_list')
 Dir.mkdir('./json_film_list')
 
+FileUtils.rm_rf('./views/alphabetical_views')
+Dir.mkdir('./views/alphabetical_views')
+
 # Class string
 class String
   # function to gather defined characters of a string

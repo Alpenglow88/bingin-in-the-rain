@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Black Swan",
+    "director": "Darren Aronofsky",
+    "release_date": "2010-12-03",
+    "film_id": 44214,
+    "original_language": "en",
+    "overview": "A journey through the psyche of a young ballerina whose starring role as the duplicitous swan queen turns out to be a part for which she becomes frighteningly perfect.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQ7uxvsVTspVIsqjfgQj8usJpwX.jpg",
+    "imdbScore": "7.6",
+    "trailerLink": "https://www.youtube.com/watch?v=5jaI1XOB-bs",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Drama",
+      "1": "Thriller",
+      "2": "Horror"
+    }
+  }
+}

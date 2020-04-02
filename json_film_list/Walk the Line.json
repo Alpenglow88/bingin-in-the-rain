@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Walk the Line",
+    "director": "James Mangold",
+    "release_date": "2005-09-13",
+    "film_id": 69,
+    "original_language": "en",
+    "overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdxL3Zyh3O5MIbmsSiZEevJAjtQ.jpg",
+    "imdbScore": "7.5",
+    "trailerLink": "https://www.youtube.com/watch?v=pbQ22zWPYbw",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Drama",
+      "1": "Music",
+      "2": "Romance"
+    }
+  }
+}

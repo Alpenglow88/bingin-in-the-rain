@@ -1,0 +1,20 @@
+{
+  "film": {
+    "title": "The Imitation Game",
+    "director": "Morten Tyldum",
+    "release_date": "2014-11-14",
+    "film_id": 205596,
+    "original_language": "en",
+    "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/noUp0XOqIcmgefRnRZa1nhtRvWO.jpg",
+    "imdbScore": "8.1",
+    "trailerLink": "https://www.youtube.com/watch?v=j2jRs4EAvWM",
+    "numberOfGenres": 4,
+    "genres": {
+      "0": "History",
+      "1": "Drama",
+      "2": "Thriller",
+      "3": "War"
+    }
+  }
+}

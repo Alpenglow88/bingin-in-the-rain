@@ -1,0 +1,18 @@
+{
+  "film": {
+    "title": "Monos",
+    "director": "Alejandro Landes",
+    "release_date": "2019-09-05",
+    "film_id": 417466,
+    "original_language": "es",
+    "overview": "On a faraway mountaintop, eight kids with guns watch over a hostage and a conscripted milk cow.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FC3X8BbGncooWeHGBxEl4eBfiV.jpg",
+    "imdbScore": "7.2",
+    "trailerLink": "https://www.youtube.com/watch?v=eSpuQB2E7NQ",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Drama",
+      "1": "Thriller"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "The World Is Not Enough",
+    "director": "Michael Apted",
+    "release_date": "1999-11-17",
+    "film_id": 36643,
+    "original_language": "en",
+    "overview": "Greed, revenge, world dominance and high-tech terrorism – it's all in a day's work for Bond, who's on a mission to protect a beautiful oil heiress from a notorious terrorist. In a race against time that culminates in a dramatic submarine showdown, Bond works to defuse the international power struggle that has the world's oil supply hanging in the balance.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPfALBxfgx2tsbTwRMR1MbNHSvn.jpg",
+    "imdbScore": "6.2",
+    "trailerLink": "https://www.youtube.com/watch?v=R4JgqBlbnJk",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Action",
+      "2": "Thriller"
+    }
+  }
+}

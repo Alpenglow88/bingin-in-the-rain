@@ -1,0 +1,18 @@
+{
+  "film": {
+    "title": "Nebraska",
+    "director": "Alexander Payne",
+    "release_date": "2013-09-21",
+    "film_id": 129670,
+    "original_language": "en",
+    "overview": "An aging, booze-addled father takes a trip from Montana to Nebraska with his estranged son in order to claim what he believes to be a million-dollar sweepstakes prize.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyG3vYWK7SwWT4bvrWeFef0J7fp.jpg",
+    "imdbScore": "7.5",
+    "trailerLink": "https://www.youtube.com/watch?v=YvW_DmfKfSk",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Drama",
+      "1": "Adventure"
+    }
+  }
+}

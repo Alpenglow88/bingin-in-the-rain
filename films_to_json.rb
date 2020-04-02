@@ -2,6 +2,7 @@
 
 require 'rest-client'
 require 'json'
+require 'fuzzy_match'
 # require 'launchy'
 
 require './constants.rb'
@@ -266,45 +267,56 @@ films.each do |film|
   response = RestClient.get(apicall)
   rb = JSON.parse(response.body)['results']
   File.write('./response.json', JSON.pretty_generate(rb))
+  length_count = (rb.count - 1)
+
+  object = []
+  (0..length_count).each do |i|
+    object << rb[i]['title']
+  rescue NoMethodError
+    object << film
+  end
+
+  fuzzy_find = FuzzyMatch.new(object).find(film)
+  film_entry = object.index(fuzzy_find)
 
   begin
-    filmname = rb[0]['title']
+    filmname = rb[film_entry]['title']
   rescue NoMethodError
     filmname = film
   end
 
   begin
-    filmoverview = rb[0]['overview']
+    filmoverview = rb[film_entry]['overview']
   rescue NoMethodError
     filmoverview = 'No Overview to display'
   end
 
   begin
-    poster_path_filmname = rb[0]['poster_path']
+    poster_path_filmname = rb[film_entry]['poster_path']
   rescue NoMethodError
     poster_path_filmname = 'rykV5sHTso6Sr6DCmmC7agCbYvn'
   end
 
   begin
-    vote_average = rb[0]['vote_average']
+    vote_average = rb[film_entry]['vote_average']
   rescue NoMethodError
     vote_average = '-'
   end
 
   begin
-    film_id = rb[0]['id']
+    film_id = rb[film_entry]['id']
   rescue NoMethodError
     film_id = '15379'
   end
 
   begin
-    original_language = rb[0]['original_language']
+    original_language = rb[film_entry]['original_language']
   rescue NoMethodError
     original_language = 'en'
   end
 
   begin
-    release_date = rb[0]['release_date']
+    release_date = rb[film_entry]['release_date']
   rescue NoMethodError
     release_date = '-'
   end

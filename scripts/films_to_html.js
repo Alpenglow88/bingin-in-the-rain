@@ -90,7 +90,7 @@ function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerL
             </div>
     </main>
       <footer>
-    <%- include("./partials/footer") %>
+    <%- include("../partials/footer") %>
   </footer>
 </body>
 

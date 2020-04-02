@@ -1,0 +1,20 @@
+{
+  "film": {
+    "title": "X-Men: Days of Future Past",
+    "director": "Bryan Singer",
+    "release_date": "2014-05-15",
+    "film_id": 127585,
+    "original_language": "en",
+    "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pb1IURTkK5rImP9ZV83lxJO2us7.jpg",
+    "imdbScore": "7.5",
+    "trailerLink": "https://www.youtube.com/watch?v=pK2zYHWDZKo",
+    "numberOfGenres": 4,
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Fantasy",
+      "3": "Science Fiction"
+    }
+  }
+}

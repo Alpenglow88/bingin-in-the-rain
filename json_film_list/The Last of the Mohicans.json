@@ -1,0 +1,22 @@
+{
+  "film": {
+    "title": "The Last of the Mohicans",
+    "director": "Michael Mann",
+    "release_date": "1992-09-25",
+    "film_id": 9361,
+    "original_language": "en",
+    "overview": "As the British and French soldiers battle for control of the American colonies in the 18th century, the settlers and native Americans are forced to take sides. Cora and her sister Alice unwittingly walk into trouble but are reluctantly saved by Hawkeye, an orphaned settler adopted by the last of the Mohicans.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FHoUoYrfmwXJsDIR0s8YvV1Ctj.jpg",
+    "imdbScore": "7.3",
+    "trailerLink": "https://www.youtube.com/watch?v=Gm_P9euW5NU",
+    "numberOfGenres": 6,
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Drama",
+      "3": "History",
+      "4": "Romance",
+      "5": "War"
+    }
+  }
+}

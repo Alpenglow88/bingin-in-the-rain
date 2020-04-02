@@ -1,0 +1,18 @@
+{
+  "film": {
+    "title": "Notes on Blindness",
+    "director": "James Spinney",
+    "release_date": "2016-07-01",
+    "film_id": 378441,
+    "original_language": "en",
+    "overview": "After losing sight in 1983, John Hull began keeping an audio diary, a unique testimony of loss, rebirth and renewal, excavating the interior world of blindness. Following on from the Emmy Award-winning short film of the same name, Notes on Blindness is an ambitious and groundbreaking work, both affecting and innovative.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCCaqxVbToOOSmjwrOvz0TmIZSc.jpg",
+    "imdbScore": "7.3",
+    "trailerLink": "https://www.youtube.com/watch?v=slAsWgjNGWI",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Documentary",
+      "1": "Drama"
+    }
+  }
+}

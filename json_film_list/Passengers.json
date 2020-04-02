@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Passengers",
+    "director": "Morten Tyldum",
+    "release_date": "2016-12-21",
+    "film_id": 274870,
+    "original_language": "en",
+    "overview": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gJkVIVU7FDp7AfRAbPSvvdbre2.jpg",
+    "imdbScore": "6.9",
+    "trailerLink": "https://www.youtube.com/watch?v=7BWWWQzTpNU",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Drama",
+      "1": "Romance",
+      "2": "Science Fiction"
+    }
+  }
+}

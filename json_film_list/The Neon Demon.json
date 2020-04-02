@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "The Neon Demon",
+    "director": "Nicolas Winding Refn",
+    "release_date": "2016-06-08",
+    "film_id": 301365,
+    "original_language": "en",
+    "overview": "When aspiring model Jesse moves to Los Angeles, her youth and vitality are devoured by a group of beauty-obsessed women who will take any means necessary to get what she has.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pksGBk7yJqSuQ2F47S9eoqbtjWt.jpg",
+    "imdbScore": "6.5",
+    "trailerLink": "https://www.youtube.com/watch?v=YqFhKdRFPvA",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Thriller",
+      "1": "Horror",
+      "2": "Mystery"
+    }
+  }
+}

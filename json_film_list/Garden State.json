@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Garden State",
+    "director": "Zac Braff",
+    "release_date": "2004-07-28",
+    "film_id": 401,
+    "original_language": "en",
+    "overview": "Andrew returns to his hometown for the funeral of his mother, a journey that reconnects him with past friends. The trip coincides with his decision to stop taking his powerful antidepressants. A chance meeting with Sam - a girl also suffering from various maladies - opens up the possibility of rekindling emotional attachments, confronting his psychologist father, and perhaps beginning a new life.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7IASCZ02Q94SYklSIR2609inis.jpg",
+    "imdbScore": "7.2",
+    "trailerLink": "https://www.youtube.com/watch?v=zCEfj5o1L08",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Comedy",
+      "1": "Drama",
+      "2": "Romance"
+    }
+  }
+}

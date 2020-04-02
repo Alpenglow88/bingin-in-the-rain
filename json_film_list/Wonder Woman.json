@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Wonder Woman",
+    "director": "Patty Jenkins",
+    "release_date": "2017-05-30",
+    "film_id": 297762,
+    "original_language": "en",
+    "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfJGlDaHuWimErCr5Ql0I8x9QSy.jpg",
+    "imdbScore": "7.3",
+    "trailerLink": "https://www.youtube.com/watch?v=5lGoQhFb4NM",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Fantasy"
+    }
+  }
+}

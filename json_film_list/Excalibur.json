@@ -1,0 +1,18 @@
+{
+  "film": {
+    "title": "Excalibur",
+    "director": "John Boorman",
+    "release_date": "1981-04-10",
+    "film_id": 11527,
+    "original_language": "en",
+    "overview": "A surreal adaptation of Sir Thomas Malory's \"Le Morte d'Arthur\", chronicling Arthur Pendragon's conception, his rise to the throne, the search by his Knights of the Round Table for the Holy Grail, and ultimately his death.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8UmbdA1TrIVY4FANymwBSmUuCH.jpg",
+    "imdbScore": "7",
+    "trailerLink": "https://www.youtube.com/watch?v=emF-m9qnF5o",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Adventure",
+      "1": "Fantasy"
+    }
+  }
+}

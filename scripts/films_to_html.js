@@ -89,6 +89,9 @@ function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerL
             </div>
             </div>
     </main>
+      <footer>
+    <%- include("./partials/footer") %>
+  </footer>
 </body>
 
 </html>
@@ -115,7 +118,7 @@ fs.writeFile(`./views/html_film_views/${htmlTitle}.ejs`, generateFilmHtml(filmTi
   if (err) throw err;
 });
 
-const filmRoute = `app.get("/${htmlTitle}", function (req, res) {res.render("html_film_views/${htmlTitle}")})
+const filmRoute = `app.get("/${htmlTitle}", function (req, res) {res.render("html_film_views/${htmlTitle}", { version: version })})
 `
 
 fs.appendFile('./app.js', "\n", function (err) {

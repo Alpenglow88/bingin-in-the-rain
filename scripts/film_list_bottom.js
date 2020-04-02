@@ -4,6 +4,9 @@ const numberOfFilms = films.length
 
 
 const bottomChunkText =`</main>
+  <footer>
+    <%- include("./partials/footer") %>
+  </footer>
 </body>
 
 </html>

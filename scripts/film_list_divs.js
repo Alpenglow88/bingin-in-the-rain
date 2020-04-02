@@ -79,8 +79,133 @@ fs.appendFile('views/alphabetical_views/number.ejs', divText, function (err) {
   if (err) throw err
 })
 
+if (initial === 'A')
+fs.appendFile('views/alphabetical_views/a.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'B')
+fs.appendFile('views/alphabetical_views/b.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'C')
+fs.appendFile('views/alphabetical_views/c.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'D')
+fs.appendFile('views/alphabetical_views/d.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'E')
+fs.appendFile('views/alphabetical_views/e.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'F')
+fs.appendFile('views/alphabetical_views/f.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'G')
+fs.appendFile('views/alphabetical_views/g.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'H')
+fs.appendFile('views/alphabetical_views/h.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'I')
+fs.appendFile('views/alphabetical_views/i.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'J')
+fs.appendFile('views/alphabetical_views/j.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'K')
+fs.appendFile('views/alphabetical_views/k.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'L')
+fs.appendFile('views/alphabetical_views/l.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'M')
+fs.appendFile('views/alphabetical_views/m.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'N')
+fs.appendFile('views/alphabetical_views/n.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'O')
+fs.appendFile('views/alphabetical_views/o.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'P')
+fs.appendFile('views/alphabetical_views/p.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'Q')
+fs.appendFile('views/alphabetical_views/q.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'R')
+fs.appendFile('views/alphabetical_views/r.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'S')
+fs.appendFile('views/alphabetical_views/s.ejs', divText, function (err) {
+  if (err) throw err
+})
+
 if (initial === 'T')
 fs.appendFile('views/alphabetical_views/t.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'U')
+fs.appendFile('views/alphabetical_views/u.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'V')
+fs.appendFile('views/alphabetical_views/v.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'W')
+fs.appendFile('views/alphabetical_views/w.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'X')
+fs.appendFile('views/alphabetical_views/x.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'Y')
+fs.appendFile('views/alphabetical_views/y.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (initial === 'Z')
+fs.appendFile('views/alphabetical_views/z.ejs', divText, function (err) {
   if (err) throw err
 })
 

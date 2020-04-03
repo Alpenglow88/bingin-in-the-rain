@@ -9,12 +9,21 @@ function generateFilmGenres (indexValue) {
   let genreList = ''
   for (var x = 0; x < numberOfGenres; x++) {
     downcase = genres[x].toLowerCase()
+if (genres[x] === "Science Fiction") {
+    genreList += `<a> - </a>`
+    genreList += '\n'
+    genreList += `<a action="/genre-science-fiction" href="/genre-science-fiction">Science-Fiction</a>`
+    genreList += '\n'
+    genreList += `<a> - </a>`
+    genreList += '\n'
+} else {
     genreList += `<a> - </a>`
     genreList += '\n'
     genreList += `<a action="/genre-${downcase}" href="/genre-${downcase}">${genres[x]}</a>`
     genreList += '\n'
     genreList += `<a> - </a>`
     genreList += '\n'
+}
   }
   return genreList
 }
@@ -280,7 +289,7 @@ fs.appendFile('views/genre_views/romance.ejs', divText, function (err) {
   if (err) throw err
 })
 
-if (genreList.includes("Science Fiction"))
+if (genreList.includes("Science-Fiction"))
 fs.appendFile('views/genre_views/science-fiction.ejs', divText, function (err) {
   if (err) throw err
 })

@@ -28,8 +28,8 @@ class String
 end
 
 # scans selected folder for file names and formats them correctl
-# File.write('./filelist.json', Dir.entries('./home movies').drop(2))
-File.write('./filelist.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
+File.write('./filelist.json', Dir.entries('./home movies').drop(2))
+# File.write('./filelist.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
 list = File.read('filelist.json').tr('_', '-')
            .gsub!('.mp4', '')
            .gsub('.1.1.2', '')
@@ -272,7 +272,7 @@ films.each do |film|
   apicall = "https://api.themoviedb.org/3/search/movie?api_key=\'#{TMDBAPIKEY}\'&query=\'#{film}\'".delete "'"
   response = RestClient.get(apicall)
   rb = JSON.parse(response.body)['results']
-  File.write('./response.json', JSON.pretty_generate(rb))
+  # File.write('./response.json', JSON.pretty_generate(rb))
   length_count = (rb.count - 1)
 
   object = []

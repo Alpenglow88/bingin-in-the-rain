@@ -9,12 +9,21 @@ function generateFilmGenres (indexValue) {
   let genreList = ''
   for (var x = 0; x < numberOfGenres; x++) {
     downcase = genres[x].toLowerCase()
+if (genres[x] === "Science Fiction") {
+    genreList += `<a> - </a>`
+    genreList += '\n'
+    genreList += `<a action="/genre-${downcase}" href="/genre-${downcase}">Science-Fiction</a>`
+    genreList += '\n'
+    genreList += `<a> - </a>`
+    genreList += '\n'
+} else {
     genreList += `<a> - </a>`
     genreList += '\n'
     genreList += `<a action="/genre-${downcase}" href="/genre-${downcase}">${genres[x]}</a>`
     genreList += '\n'
     genreList += `<a> - </a>`
     genreList += '\n'
+}
   }
   return genreList
 }

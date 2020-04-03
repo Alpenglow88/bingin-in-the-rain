@@ -1,0 +1,18 @@
+{
+  "film": {
+    "title": "Shoplifters",
+    "director": "Hirokazu Kore-eda",
+    "release_date": "2018-06-02",
+    "film_id": 505192,
+    "original_language": "ja",
+    "overview": "After one of their shoplifting sessions, Osamu and his son come across a little girl in the freezing cold. At first reluctant to shelter the girl, Osamu’s wife agrees to take care of her after learning of the hardships she faces. Although the family is poor, barely making enough money to survive through petty crime, they seem to live happily together until an unforeseen incident reveals hidden secrets, testing the bonds that unite them.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg",
+    "imdbScore": "8",
+    "trailerLink": "https://www.youtube.com/watch?v=9382rwoMiRc",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Drama",
+      "1": "Crime"
+    }
+  }
+}

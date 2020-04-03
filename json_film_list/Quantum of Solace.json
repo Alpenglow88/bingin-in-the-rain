@@ -1,0 +1,20 @@
+{
+  "film": {
+    "title": "Quantum of Solace",
+    "director": "Marc Forster",
+    "release_date": "2008-10-30",
+    "film_id": 10764,
+    "original_language": "en",
+    "overview": "Quantum of Solace continues the adventures of James Bond after Casino Royale. Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mlNx0Jiqhg3D7NlANT9pidsgPJ.jpg",
+    "imdbScore": "6.3",
+    "trailerLink": "https://www.youtube.com/watch?v=f6acw690AqQ",
+    "numberOfGenres": 4,
+    "genres": {
+      "0": "Adventure",
+      "1": "Action",
+      "2": "Thriller",
+      "3": "Crime"
+    }
+  }
+}

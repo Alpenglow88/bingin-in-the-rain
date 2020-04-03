@@ -185,3 +185,111 @@ fs.appendFile('views/alphabetical_views/z.ejs', alphabeticalBottomChunkText, fun
 ) {
   if (err) throw err
 })
+
+fs.appendFile('views/genre_views/action.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/adventure.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/animation.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/comedy.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/crime.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/documentary.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/drama.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/family.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/fantasy.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/history.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/horror.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/music.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/mystery.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/romance.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/science-fiction.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/thriller.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/war.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/western.ejs', alphabeticalBottomChunkText, function (
+  err
+) {
+  if (err) throw err
+})

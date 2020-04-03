@@ -1,7 +1,7 @@
 const films = require('../films.json')
 const fs = require('fs')
-const genericHeader = require('../helpers/alphabetised_headers/generic_header_page.js')
-const numberPageHeader = require('../helpers/alphabetised_headers/numbers_page.js')
+const genericHeader = require('../helpers/generic_header_page.js')
+const numberPageHeader = require('../helpers/alphabetised_headers/numbers_page_header.js')
 const aPageHeader = require('../helpers/alphabetised_headers/a_letter_page_header.js')
 const bPageHeader = require('../helpers/alphabetised_headers/b_letter_page_header.js')
 const cPageHeader = require('../helpers/alphabetised_headers/c_letter_page_header.js')
@@ -29,9 +29,27 @@ const xPageHeader = require('../helpers/alphabetised_headers/x_letter_page_heade
 const yPageHeader = require('../helpers/alphabetised_headers/y_letter_page_header.js')
 const zPageHeader = require('../helpers/alphabetised_headers/z_letter_page_header.js')
 
+const genreActionPageHeader = require('../helpers/genre_headers/action_page_header.js')
+const genreAdventurePageHeader = require('../helpers/genre_headers/adventure_page_header.js')
+const genreAnimationPageHeader = require('../helpers/genre_headers/animation_page_header.js')
+const genreComedyPageHeader = require('../helpers/genre_headers/comedy_page_header.js')
+const genreCrimePageHeader = require('../helpers/genre_headers/crime_page_header.js')
+const genreDocumentaryPageHeader = require('../helpers/genre_headers/documentary_page_header.js')
+const genreDramaPageHeader = require('../helpers/genre_headers/drama_page_header.js')
+const genreFamilyPageHeader = require('../helpers/genre_headers/family_page_header.js')
+const genreFantasyPageHeader = require('../helpers/genre_headers/fantasy_page_header.js')
+const genreHistoryPageHeader = require('../helpers/genre_headers/history_page_header.js')
+const genreHorrorPageHeader = require('../helpers/genre_headers/horror_page_header.js')
+const genreMusicPageHeader = require('../helpers/genre_headers/music_page_header.js')
+const genreMysteryPageHeader = require('../helpers/genre_headers/mystery_page_header.js')
+const genreRomancePageHeader = require('../helpers/genre_headers/romance_page_header.js')
+const genreScienceFictionPageHeader = require('../helpers/genre_headers/science_fiction_page_header.js')
+const genreThrillerPageHeader = require('../helpers/genre_headers/thriller_page_header.js')
+const genreWarPageHeader = require('../helpers/genre_headers/war_page_header.js')
+const genreWesternPageHeader = require('../helpers/genre_headers/western_page_header.js')
+
 
 const numberOfFilms = films.length
-
 const path = './views/films.ejs'
 
 try {
@@ -152,5 +170,77 @@ fs.appendFile('views/alphabetical_views/y.ejs', yPageHeader.topChunkTextY, funct
 })
 
 fs.appendFile('views/alphabetical_views/z.ejs', zPageHeader.topChunkTextZ, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/action.ejs', genreActionPageHeader.topChunkTextAction, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/adventure.ejs', genreAdventurePageHeader.topChunkTextAdventure, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/animation.ejs', genreAnimationPageHeader.topChunkTextAnimation, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/comedy.ejs', genreComedyPageHeader.topChunkTextComedy, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/crime.ejs', genreCrimePageHeader.topChunkTextCrime, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/documentary.ejs', genreDocumentaryPageHeader.topChunkTextDocumentary, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/drama.ejs', genreDramaPageHeader.topChunkTextDrama, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/family.ejs', genreFamilyPageHeader.topChunkTextFamily, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/fantasy.ejs', genreFantasyPageHeader.topChunkTextFantasy, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/history.ejs', genreHistoryPageHeader.topChunkTextHistory, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/horror.ejs', genreHorrorPageHeader.topChunkTextHorror, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/music.ejs', genreMusicPageHeader.topChunkTextMusic, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/mystery.ejs', genreMysteryPageHeader.topChunkTextMystery, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/romance.ejs', genreRomancePageHeader.topChunkTextRomance, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/science-fiction.ejs', genreScienceFictionPageHeader.topChunkTextScienceFiction, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/thriller.ejs', genreThrillerPageHeader.topChunkTextThriller, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/war.ejs', genreWarPageHeader.topChunkTextWar, function (err) {
+  if (err) throw err
+})
+
+fs.appendFile('views/genre_views/western.ejs', genreWesternPageHeader.topChunkTextWestern, function (err) {
   if (err) throw err
 })

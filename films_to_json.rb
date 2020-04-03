@@ -16,6 +16,9 @@ Dir.mkdir('./json_film_list')
 FileUtils.rm_rf('./views/alphabetical_views')
 Dir.mkdir('./views/alphabetical_views')
 
+FileUtils.rm_rf('./views/genre_views')
+Dir.mkdir('./views/genre_views')
+
 # Class string
 class String
   # function to gather defined characters of a string

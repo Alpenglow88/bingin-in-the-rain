@@ -27,6 +27,10 @@ app.get('/films', function (req, res) {
   res.render('films', { version: version })
 })
 
+app.get('/genres', function (req, res) {
+  res.render('genres', { version: version })
+})
+
 app.get('/random-film', function (req, res) {
   res.render('waiting', { version: version })
   // res.render(`html_film_views/${randomFilmTitle}`, { version: version })
@@ -142,6 +146,78 @@ app.get('/films-Y', function (req, res) {
 
 app.get('/films-Z', function (req, res) {
   res.render('alphabetical_views/z', { version: version })
+})
+
+app.get('/genre-action', function (req, res) {
+  res.render('genre_views/action', { version: version })
+})
+
+app.get('/genre-adventure', function (req, res) {
+  res.render('genre_views/adventure', { version: version })
+})
+
+app.get('/genre-animation', function (req, res) {
+  res.render('genre_views/animation', { version: version })
+})
+
+app.get('/genre-comedy', function (req, res) {
+  res.render('genre_views/comedy', { version: version })
+})
+
+app.get('/genre-crime', function (req, res) {
+  res.render('genre_views/crime', { version: version })
+})
+
+app.get('/genre-documentary', function (req, res) {
+  res.render('genre_views/documentary', { version: version })
+})
+
+app.get('/genre-drama', function (req, res) {
+  res.render('genre_views/drama', { version: version })
+})
+
+app.get('/genre-family', function (req, res) {
+  res.render('genre_views/family', { version: version })
+})
+
+app.get('/genre-fantasy', function (req, res) {
+  res.render('genre_views/fantasy', { version: version })
+})
+
+app.get('/genre-history', function (req, res) {
+  res.render('genre_views/history', { version: version })
+})
+
+app.get('/genre-horror', function (req, res) {
+  res.render('genre_views/horror', { version: version })
+})
+
+app.get('/genre-music', function (req, res) {
+  res.render('genre_views/music', { version: version })
+})
+
+app.get('/genre-mystery', function (req, res) {
+  res.render('genre_views/mystery', { version: version })
+})
+
+app.get('/genre-romance', function (req, res) {
+  res.render('genre_views/romance', { version: version })
+})
+
+app.get('/genre-science-fiction', function (req, res) {
+  res.render('genre_views/science-fiction', { version: version })
+})
+
+app.get('/genre-thriller', function (req, res) {
+  res.render('genre_views/thriller', { version: version })
+})
+
+app.get('/genre-war', function (req, res) {
+  res.render('genre_views/war', { version: version })
+})
+
+app.get('/genre-western', function (req, res) {
+  res.render('genre_views/western', { version: version })
 })
 "
 File.delete('./app.js') if File.exist?('./app.js')

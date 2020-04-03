@@ -8,9 +8,10 @@ function generateFilmGenres (indexValue) {
 
   let genreList = ''
   for (var x = 0; x < numberOfGenres; x++) {
+    downcase = genres[x].toLowerCase()
     genreList += `<a> - </a>`
     genreList += '\n'
-    genreList += `<a>${genres[x]}</a>`
+    genreList += `<a action="/genre-${downcase}" href="/genre-${downcase}">${genres[x]}</a>`
     genreList += '\n'
     genreList += `<a> - </a>`
     genreList += '\n'

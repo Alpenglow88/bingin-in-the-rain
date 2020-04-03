@@ -8,9 +8,10 @@ function generateFilmGenres (indexValue) {
 
   let genreList = ''
   for (var x = 0; x < numberOfGenres; x++) {
+    downcase = genres[x].toLowerCase()
     genreList += `<a> - </a>`
     genreList += '\n'
-    genreList += `<a>${genres[x]}</a>`
+    genreList += `<a action="/genre-${downcase}" href="/genre-${downcase}">${genres[x]}</a>`
     genreList += '\n'
     genreList += `<a> - </a>`
     genreList += '\n'
@@ -206,6 +207,96 @@ fs.appendFile('views/alphabetical_views/y.ejs', divText, function (err) {
 
 if (initial === 'Z')
 fs.appendFile('views/alphabetical_views/z.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Action"))
+fs.appendFile('views/genre_views/action.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Adventure"))
+fs.appendFile('views/genre_views/adventure.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Animation"))
+fs.appendFile('views/genre_views/animation.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Comedy"))
+fs.appendFile('views/genre_views/comedy.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Crime"))
+fs.appendFile('views/genre_views/crime.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Documentary"))
+fs.appendFile('views/genre_views/documentary.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Drama"))
+fs.appendFile('views/genre_views/drama.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Family"))
+fs.appendFile('views/genre_views/family.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Fantasy"))
+fs.appendFile('views/genre_views/fantasy.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("History"))
+fs.appendFile('views/genre_views/history.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Horror"))
+fs.appendFile('views/genre_views/horror.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Music"))
+fs.appendFile('views/genre_views/music.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Mystery"))
+fs.appendFile('views/genre_views/mystery.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Romance"))
+fs.appendFile('views/genre_views/romance.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Science Fiction"))
+fs.appendFile('views/genre_views/science-fiction.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Thriller"))
+fs.appendFile('views/genre_views/thriller.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("War"))
+fs.appendFile('views/genre_views/war.ejs', divText, function (err) {
+  if (err) throw err
+})
+
+if (genreList.includes("Western"))
+fs.appendFile('views/genre_views/western.ejs', divText, function (err) {
   if (err) throw err
 })
 

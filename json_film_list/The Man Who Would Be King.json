@@ -1,0 +1,18 @@
+{
+  "film": {
+    "title": "The Man Who Would Be King",
+    "director": "John Huston",
+    "release_date": "1975-12-03",
+    "film_id": 983,
+    "original_language": "en",
+    "overview": "A robust adventure about two British adventurers who take over primitive Kafiristan as \"godlike\" rulers, meeting a tragic end through their desire for a native girl. Based on a short story by Rudyard Kipling.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg",
+    "imdbScore": "7.6",
+    "trailerLink": "https://www.youtube.com/watch?v=G-JlyPknxu0",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Adventure",
+      "1": "Drama"
+    }
+  }
+}

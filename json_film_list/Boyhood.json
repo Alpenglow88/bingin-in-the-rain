@@ -1,0 +1,17 @@
+{
+  "film": {
+    "title": "Boyhood",
+    "director": "Richard Linklater",
+    "release_date": "2014-06-05",
+    "film_id": 85350,
+    "original_language": "en",
+    "overview": "The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi4e5zXhQKs0De4xu5AAMvu376.jpg",
+    "imdbScore": "7.5",
+    "trailerLink": "https://www.youtube.com/watch?v=oNC3NYWh1vI",
+    "numberOfGenres": 1,
+    "genres": {
+      "0": "Drama"
+    }
+  }
+}

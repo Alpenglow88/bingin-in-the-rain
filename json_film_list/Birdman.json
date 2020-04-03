@@ -1,0 +1,18 @@
+{
+  "film": {
+    "title": "Birdman",
+    "director": "",
+    "release_date": "",
+    "film_id": 598546,
+    "original_language": "en",
+    "overview": "This mockumentary follows the life of high-school senior and local legend Peter LaBelle.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sbiQmX0zz85e9dsdjiesv2Mu7Q.jpg",
+    "imdbScore": "0",
+    "trailerLink": "https://www.youtube.com/watch?v=4YKpBYo61Cs",
+    "numberOfGenres": 2,
+    "genres": {
+      "0": "Documentary",
+      "1": "Comedy"
+    }
+  }
+}

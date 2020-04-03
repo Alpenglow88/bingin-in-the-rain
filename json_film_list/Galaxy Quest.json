@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Galaxy Quest",
+    "director": "Dean Parisot",
+    "release_date": "1999-12-23",
+    "film_id": 926,
+    "original_language": "en",
+    "overview": "The stars of a 1980s sci-fi show—now eking out a living through re-runs and sci-fi conventions—are beamed aboard an alien spacecraft. Believing the cast's heroic on-screen dramas are historical documents of real-life adventures, the band of aliens turn to the cast members for help in their quest to overcome the oppressive regime in their solar system.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZXSwgZknp81vmciTb86rw0MejV.jpg",
+    "imdbScore": "7",
+    "trailerLink": "https://www.youtube.com/watch?v=B34jbC43XzA",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Comedy",
+      "1": "Family",
+      "2": "Science Fiction"
+    }
+  }
+}

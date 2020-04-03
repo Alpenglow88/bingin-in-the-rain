@@ -1,0 +1,17 @@
+{
+  "film": {
+    "title": "Wilson",
+    "director": "Craig Johnson",
+    "release_date": "2017-03-24",
+    "film_id": 346681,
+    "original_language": "en",
+    "overview": "Middle-aged and divorced, Wilson finds himself lonely, smug and obsessed with his past.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m63h5MxevYrKn3720hVgKZAx86S.jpg",
+    "imdbScore": "5.8",
+    "trailerLink": "https://www.youtube.com/watch?v=jjPxlzjuLww",
+    "numberOfGenres": 1,
+    "genres": {
+      "0": "Comedy"
+    }
+  }
+}

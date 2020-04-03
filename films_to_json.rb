@@ -28,8 +28,8 @@ class String
 end
 
 # scans selected folder for file names and formats them correctl
-File.write('./filelist.json', Dir.entries('./home movies').drop(2))
-# File.write('./filelist.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
+# File.write('./filelist.json', Dir.entries('./home movies').drop(2))
+File.write('./filelist.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
 list = File.read('filelist.json').tr('_', '-')
            .gsub!('.mp4', '')
            .gsub('.1.1.2', '')

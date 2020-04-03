@@ -1,6 +1,6 @@
 {
   "name": "bingin-in-the-rain",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A movie screening availability app for a local server",
   "main": "app.js",
   "scripts": {
@@ -18,7 +18,7 @@
     
     "deploy-to-heroku": "git push heroku master",
 
-    "commit-code": "git add -A && git commit -m 'Release commit for Version 1.0.9' && git push",
+    "commit-code": "git add -A && git commit -m 'Release commit for Version 1.0.10' && git push",
 
     "full-deploy": "npm run prep-deploy && npm run commit-code && npm run deploy-to-heroku"
   },

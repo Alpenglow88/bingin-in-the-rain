@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Glass",
+    "director": "M. Night Shyamalan",
+    "release_date": "2019-01-16",
+    "film_id": 450465,
+    "original_language": "en",
+    "overview": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+    "imdbScore": "6.6",
+    "trailerLink": "https://www.youtube.com/watch?v=95ghQs5AmNk",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Thriller",
+      "1": "Drama",
+      "2": "Science Fiction"
+    }
+  }
+}

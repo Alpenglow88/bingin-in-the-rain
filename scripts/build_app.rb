@@ -205,7 +205,7 @@ app.get('/genre-romance', function (req, res) {
 })
 
 app.get('/genre-science-fiction', function (req, res) {
-  res.render('genre_views/science-fiction', { version: version })
+  res.render('genre_views/science fiction', { version: version })
 })
 
 app.get('/genre-thriller', function (req, res) {

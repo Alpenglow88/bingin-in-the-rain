@@ -218,8 +218,11 @@ app.get('/genre-western', function (req, res) {
   res.render('genre_views/western', { version: version })
 })
 
+app.get("/1917", function (req, res) {res.render("html_film_views/1917", { version: version })})
+
 
 app.get("/ItChapterTwo", function (req, res) {res.render("html_film_views/ItChapterTwo", { version: version })})
+
 
 app.get("/JurassicWorld", function (req, res) {res.render("html_film_views/JurassicWorld", { version: version })})
 
@@ -227,26 +230,23 @@ app.get("/JurassicWorld", function (req, res) {res.render("html_film_views/Juras
 app.get("/JurassicWorld:FallenKingdom", function (req, res) {res.render("html_film_views/JurassicWorld:FallenKingdom", { version: version })})
 
 
-app.get("/1917", function (req, res) {res.render("html_film_views/1917", { version: version })})
-
-
 app.get("/KingdomofHeaven", function (req, res) {res.render("html_film_views/KingdomofHeaven", { version: version })})
 
 
+app.get("/Onward", function (req, res) {res.render("html_film_views/Onward", { version: version })})
 
 
 app.get("/StarWars", function (req, res) {res.render("html_film_views/StarWars", { version: version })})
 
 
-app.get("/TheAssassinationofJesseJamesbytheCowardRobertFord", function (req, res) {res.render("html_film_views/TheAssassinationofJesseJamesbytheCowardRobertFord", { version: version })})
 
+app.get("/TheAssassinationofJesseJamesbytheCowardRobertFord", function (req, res) {res.render("html_film_views/TheAssassinationofJesseJamesbytheCowardRobertFord", { version: version })})
 
 app.get("/TheDarjeelingLimited", function (req, res) {res.render("html_film_views/TheDarjeelingLimited", { version: version })})
 
 
 app.get("/TheGreatestShowman", function (req, res) {res.render("html_film_views/TheGreatestShowman", { version: version })})
-app.get("/Onward", function (req, res) {res.render("html_film_views/Onward", { version: version })})
+
 
 app.get("/TheHobbit:AnUnexpectedJourney", function (req, res) {res.render("html_film_views/TheHobbit:AnUnexpectedJourney", { version: version })})
-
 

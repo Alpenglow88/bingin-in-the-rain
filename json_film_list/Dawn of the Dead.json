@@ -1,17 +1,20 @@
 {
   "film": {
     "title": "Dawn of the Dead",
-    "director": "George A. Romero",
-    "release_date": "1978-09-02",
-    "film_id": 923,
+    "director": "Zack Snyder",
+    "release_date": "2004-03-19",
+    "film_id": 924,
     "original_language": "en",
-    "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK8BmYEvd0IPpDXL6zzlTA2geDf.jpg",
-    "imdbScore": "7.5",
-    "trailerLink": "https://www.youtube.com/watch?v=3M3NUjaOyJ8",
-    "numberOfGenres": 1,
+    "overview": "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QwIIAZzPgYcninV2tiy0cabbhI.jpg",
+    "imdbScore": "6.9",
+    "trailerLink": "https://www.youtube.com/watch?v=DV8mJcuYVaA",
+    "numberOfGenres": 4,
     "genres": {
-      "0": "Horror"
+      "0": "Fantasy",
+      "1": "Horror",
+      "2": "Action",
+      "3": "Drama"
     }
   }
 }

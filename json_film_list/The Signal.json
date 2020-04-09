@@ -1,19 +1,18 @@
 {
   "film": {
     "title": "The Signal",
-    "director": "Jacob Gentry",
-    "release_date": "2008-02-22",
-    "film_id": 13059,
+    "director": "William Eubank",
+    "release_date": "2014-03-15",
+    "film_id": 242095,
     "original_language": "en",
-    "overview": "A horror film told in three parts, from three perspectives, in which a mysterious transmission that turns people into killers invades every cell phone, radio, and television.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhWSr8JtdTaiW6hPZV0ynH0iyzT.jpg",
-    "imdbScore": "6",
-    "trailerLink": "https://www.youtube.com/watch?v=Uy6Akrt4ePQ",
-    "numberOfGenres": 3,
+    "overview": "Three college students on a road trip across the Southwest experience a detour – the tracking of a computer genius who has already hacked into MIT and exposed security faults. When the trio find themselves drawn to an eerily isolated area, suddenly everything goes dark. When one of the students regains consciousness, he finds himself in a waking nightmare.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aop90vZ5MBQLd1amdBkpqqfZgtP.jpg",
+    "imdbScore": "5.9",
+    "trailerLink": "https://www.youtube.com/watch?v=oXV_CU_ryKs",
+    "numberOfGenres": 2,
     "genres": {
-      "0": "Horror",
-      "1": "Science Fiction",
-      "2": "Thriller"
+      "0": "Thriller",
+      "1": "Science Fiction"
     }
   }
 }

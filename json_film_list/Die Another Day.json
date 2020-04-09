@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Die Another Day",
+    "director": "Lee Tamahori",
+    "release_date": "2002-11-17",
+    "film_id": 36669,
+    "original_language": "en",
+    "overview": "Bond takes on a North Korean leader who undergoes DNA replacement procedures that allow him to assume different identities. American agent, Jinx Johnson assists Bond in his attempt to thwart the villain's plans to exploit a satellite that is powered by solar energy.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iUZqUXS7x5FcGM5J0u01xuObWC.jpg",
+    "imdbScore": "5.9",
+    "trailerLink": "https://www.youtube.com/watch?v=GTznf1x4khc",
+    "numberOfGenres": 3,
+    "genres": {
+      "0": "Adventure",
+      "1": "Action",
+      "2": "Thriller"
+    }
+  }
+}

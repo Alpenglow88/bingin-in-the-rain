@@ -28,10 +28,10 @@ class String
 end
 
 # scans selected folder for file names and formats them correctl
-File.write('./filelist1.json', Dir.entries('./test_data/home movies').drop(2))
-File.write('./filelist2.json', Dir.entries('./test_data/second_hdd').drop(2))
-# File.write('./filelist1.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
-# File.write('./filelist1.json', Dir.entries('/Volumes/Watchum2/.').drop(2))
+# File.write('./filelist1.json', Dir.entries('./test_data/home movies').drop(2))
+# File.write('./filelist2.json', Dir.entries('./test_data/second_hdd').drop(2))
+File.write('./filelist1.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
+File.write('./filelist2.json', Dir.entries('/Volumes/Watchum2/.').drop(2))
 list1 = File.read('filelist1.json').tr('_', '-')
             .gsub!('.mp4', '')
             .gsub('.1.1.2', '')
@@ -274,8 +274,8 @@ last_film = last_film_rb[0]['title']
 films.each do |film|
   film.delete "'"
 
-  next if film.initial(2) == ' -'
-
+  next if film.initial(2) == ' -' || film.initial(1) == '.'
+  
   apicall = "https://api.themoviedb.org/3/search/movie?api_key=\'#{TMDBAPIKEY}\'&query=\'#{film}\'".delete "'"
   response = RestClient.get(apicall)
   rb = JSON.parse(response.body)['results']

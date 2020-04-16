@@ -1,0 +1,20 @@
+{
+  "film": {
+    "title": "7 Days in Entebbe",
+    "director": "José Padilha",
+    "release_date": "2018-03-15",
+    "film_id": 433627,
+    "original_language": "English",
+    "overview": "In 1976, four hijackers take over an Air France airplane en route from Tel Aviv to Paris and force it to land in Entebbe, Uganda. With 248 passengers on board, one of the most daring rescue missions ever is set in motion.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrC63ikbK4jDp3knvBqxPoWYEMM.jpg",
+    "imdbScore": "5.8",
+    "trailerLink": "https://www.youtube.com/watch?v=kuTBea8_-LY",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Thriller",
+      "1": "Drama",
+      "2": "Crime"
+    }
+  }
+}

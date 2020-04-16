@@ -1,0 +1,21 @@
+{
+  "film": {
+    "title": "Gisaengchung",
+    "director": "Joseph Zito",
+    "release_date": "-",
+    "film_id": "15379",
+    "original_language": "Unknown",
+    "overview": "No Overview to display",
+    "imageUrl": "public/assets/not_available.jpg",
+    "imdbScore": "-",
+    "trailerLink": "https://www.youtube.com/watch?v=CgmADv4tkLQ",
+    "numberOfGenres": 4,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Thriller",
+      "3": "War"
+    }
+  }
+}

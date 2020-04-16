@@ -1,0 +1,20 @@
+{
+  "film": {
+    "title": "The Man Who Killed Hitler and Then the Bigfoot",
+    "director": "Robert D. Krzykowski",
+    "release_date": "2019-02-08",
+    "film_id": 530081,
+    "original_language": "English",
+    "overview": "Decades after serving in WWII and assassinating Adolf Hitler, a legendary American war veteran must now hunt down the fabled Bigfoot.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SjYLE1kOiw7A1NioP24ER0aXov.jpg",
+    "imdbScore": "5.5",
+    "trailerLink": "https://www.youtube.com/watch?v=UkP4bZKCHE8",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "Adventure",
+      "2": "Fantasy"
+    }
+  }
+}

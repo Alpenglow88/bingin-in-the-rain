@@ -1,0 +1,20 @@
+{
+  "film": {
+    "title": "Despicable Me 2",
+    "director": "Chris Renaud",
+    "release_date": "2013-06-25",
+    "film_id": 93456,
+    "original_language": "English",
+    "overview": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xL6t0Fo38DjiiuNLVSj58xJWNJy.jpg",
+    "imdbScore": "6.9",
+    "trailerLink": "https://www.youtube.com/watch?v=TlbnGSMJQbQ",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Animation",
+      "1": "Comedy",
+      "2": "Family"
+    }
+  }
+}

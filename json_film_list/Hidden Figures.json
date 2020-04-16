@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Hidden Figures",
+    "director": "Theodore Melfi",
+    "release_date": "2016-12-10",
+    "film_id": 381284,
+    "original_language": "English",
+    "overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history – the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+    "imdbScore": "8",
+    "trailerLink": "https://www.youtube.com/watch?v=5wfrDhgUMGI",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "History"
+    }
+  }
+}

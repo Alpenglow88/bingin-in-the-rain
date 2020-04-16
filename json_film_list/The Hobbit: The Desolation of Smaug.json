@@ -1,0 +1,20 @@
+{
+  "film": {
+    "title": "The Hobbit: The Desolation of Smaug",
+    "director": "Peter Jackson",
+    "release_date": "2013-12-11",
+    "film_id": 57158,
+    "original_language": "English",
+    "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qakwXdvDyt65LcAXBbkv5y9Mod1.jpg",
+    "imdbScore": "7.6",
+    "trailerLink": "https://www.youtube.com/watch?v=Os1G8RtqY2c",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Fantasy",
+      "2": "Action"
+    }
+  }
+}

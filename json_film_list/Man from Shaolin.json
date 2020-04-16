@@ -1,0 +1,17 @@
+{
+  "film": {
+    "title": "Man from Shaolin",
+    "director": "R.T. Wong",
+    "release_date": "2012-07-01",
+    "film_id": 179012,
+    "original_language": "English",
+    "overview": "32nd generation Chinese Shaolin Fighting Monk Li Bao Xin must immigrate to New York City to look after young Janie, his six-year-old niece. Struggling to make a new life, Li Bao will face challenges that test his character more than his physical strength. Through it all, his mind remains filled with the heroic stories of the Shaolin Temple, a great tradition that defines him, but also makes his assimilation to western culture more difficult. While in China he was a venerated master, in America he is nobody. To make a life for him and Janie, Li Bao must contend with a modern society, where his great fighting skills and heroic lineage have little meaning. He will have to decide which is more important, his dreams or his family.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVbMwS1lDnOv3BTc6lJggVlqJc6.jpg",
+    "imdbScore": "3.5",
+    "trailerLink": "https://www.youtube.com/watch?v=4YKpBYo61Cs",
+    "numberOfGenres": 0,
+    "watchOn": "Mac Mini",
+    "genres": {
+    }
+  }
+}

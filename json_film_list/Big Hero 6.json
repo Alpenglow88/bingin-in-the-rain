@@ -1,0 +1,22 @@
+{
+  "film": {
+    "title": "Big Hero 6",
+    "director": "Don Hall",
+    "release_date": "2014-10-24",
+    "film_id": 177572,
+    "original_language": "English",
+    "overview": "The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xozrGME58olN1xBhtxmjpOoY0jH.jpg",
+    "imdbScore": "7.8",
+    "trailerLink": "https://www.youtube.com/watch?v=vco0SpSz17g",
+    "numberOfGenres": 5,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Family",
+      "2": "Animation",
+      "3": "Action",
+      "4": "Comedy"
+    }
+  }
+}

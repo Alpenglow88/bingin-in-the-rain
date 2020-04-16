@@ -1,0 +1,22 @@
+{
+  "film": {
+    "title": "The Lobster",
+    "director": "Yorgos Lanthimos",
+    "release_date": "2015-07-10",
+    "film_id": 254320,
+    "original_language": "English",
+    "overview": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into beasts and sent off into The Woods.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQ6NifiuDJ1HuFH04stzVojo3T.jpg",
+    "imdbScore": "7",
+    "trailerLink": "https://www.youtube.com/watch?v=fpt0tn1-54k",
+    "numberOfGenres": 5,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Thriller",
+      "1": "Comedy",
+      "2": "Drama",
+      "3": "Romance",
+      "4": "Science Fiction"
+    }
+  }
+}

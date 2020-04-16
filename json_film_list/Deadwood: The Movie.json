@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Deadwood: The Movie",
+    "director": "Daniel Minahan",
+    "release_date": "2019-05-31",
+    "film_id": 538225,
+    "original_language": "English",
+    "overview": "Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota's statehood. Former rivalries are reignited, alliances are tested and old wounds are reopened, as all are left to navigate the inevitable changes that modernity and time have wrought.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCQ13cqd02dop7Chkov0fPl4r3t.jpg",
+    "imdbScore": "6.7",
+    "trailerLink": "https://www.youtube.com/watch?v=",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Western",
+      "1": "TV Movie"
+    }
+  }
+}

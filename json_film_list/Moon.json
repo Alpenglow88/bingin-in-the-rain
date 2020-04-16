@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Moon",
+    "director": "Duncan Jones",
+    "release_date": "2009-06-12",
+    "film_id": 17431,
+    "original_language": "English",
+    "overview": "With only three weeks left in his three year contract, Sam Bell is getting anxious to finally return to Earth. He is the only occupant of a Moon-based manufacturing facility along with his computer and assistant, GERTY. When he has an accident however, he wakens to find that he is not alone.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3j0jrGkoJM2CEVedlFK1MmYmKC.jpg",
+    "imdbScore": "7.6",
+    "trailerLink": "https://www.youtube.com/watch?v=twuScTcDP_Q",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Science Fiction",
+      "1": "Drama"
+    }
+  }
+}

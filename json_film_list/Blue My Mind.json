@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Blue My Mind",
+    "director": "Lisa Brühlmann",
+    "release_date": "2018-10-04",
+    "film_id": 455974,
+    "original_language": "English",
+    "overview": "15-year-old Mia faces an overwhelming transformation which puts her entire existence into question. Her body is changing radically, and despite desperate attempts to halt the process, Mia is soon forced to accept that nature is far more powerful than she is.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybepnyYmWhP7cp3AMDDCEnHMc2z.jpg",
+    "imdbScore": "6.5",
+    "trailerLink": "https://www.youtube.com/watch?v=237376690",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Fantasy",
+      "1": "Drama"
+    }
+  }
+}

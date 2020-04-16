@@ -1,0 +1,20 @@
+{
+  "film": {
+    "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "director": "Michael Apted",
+    "release_date": "2010-12-08",
+    "film_id": 10140,
+    "original_language": "English",
+    "overview": "This time around Edmund and Lucy Pevensie, along with their pesky cousin Eustace Scrubb find themselves swallowed into a painting and on to a fantastic Narnian ship headed for the very edges of the world.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pP27zlm9yeKrCeDZLFLP2HKELot.jpg",
+    "imdbScore": "6.4",
+    "trailerLink": "https://www.youtube.com/watch?v=hrJQDPpIK6I",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Family",
+      "2": "Fantasy"
+    }
+  }
+}

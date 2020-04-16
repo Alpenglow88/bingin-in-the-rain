@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Guns Akimbo",
+    "director": "Jason Lei Howden",
+    "release_date": "2020-02-27",
+    "film_id": 457335,
+    "original_language": "English",
+    "overview": "An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kNnf7BwRCEm4bcFkdiE0T4U25s.jpg",
+    "imdbScore": "6.4",
+    "trailerLink": "https://www.youtube.com/watch?v=ZOFatKD0Vzo",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Comedy",
+      "1": "Action"
+    }
+  }
+}

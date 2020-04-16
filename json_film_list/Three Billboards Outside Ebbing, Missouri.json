@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "director": "Martin McDonagh",
+    "release_date": "2017-11-10",
+    "film_id": 359940,
+    "original_language": "English",
+    "overview": "After seven months have passed without a culprit in her daughter's murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town's revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgvw6w1CtcFkuXXn004S5wQsHRl.jpg",
+    "imdbScore": "8.1",
+    "trailerLink": "https://www.youtube.com/watch?v=Jit3YhGx5pU",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Crime",
+      "1": "Drama"
+    }
+  }
+}

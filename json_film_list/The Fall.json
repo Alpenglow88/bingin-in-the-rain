@@ -1,0 +1,20 @@
+{
+  "film": {
+    "title": "The Fall",
+    "director": "Tarsem Singh",
+    "release_date": "2008-01-03",
+    "film_id": 14784,
+    "original_language": "English",
+    "overview": "In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story about 5 mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality starts to blur as the tale advances.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9fyJeSXJFfDWQZRP0RZaxKyb0O.jpg",
+    "imdbScore": "7.7",
+    "trailerLink": "https://www.youtube.com/watch?v=iO0LYcCoeJY",
+    "numberOfGenres": 3,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Adventure",
+      "1": "Fantasy",
+      "2": "Drama"
+    }
+  }
+}

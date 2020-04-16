@@ -75,7 +75,7 @@ function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerL
                 <ul>
                     <h3 style="text-align:center;" data_test_automation_id="film_title_one">IMdB score ${imdbScore}
                     </h3>
-                    <h4 style="text-align:center;" data_test_automation_id="film_title_one">Watch On: ${watchOn}
+                    <h4 style="text-align:center;" data_test_automation_id="film_title_one">Screening Room: ${watchOn}
                     </h4>
                     <p> </p>
                 </ul>

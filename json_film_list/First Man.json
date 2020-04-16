@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "First Man",
+    "director": "Damien Chazelle",
+    "release_date": "2018-10-11",
+    "film_id": 369972,
+    "original_language": "English",
+    "overview": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=O9Y7DTCn7Cc",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "History",
+      "1": "Drama"
+    }
+  }
+}

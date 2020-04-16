@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Kick-Ass",
+    "director": "Matthew Vaughn",
+    "release_date": "2010-03-22",
+    "film_id": 23483,
+    "original_language": "English",
+    "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XdASE4IEqCnZLJwzIzh0rmn744.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=rFpWpkxsVI8",
+    "numberOfGenres": 2,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Action",
+      "1": "Crime"
+    }
+  }
+}

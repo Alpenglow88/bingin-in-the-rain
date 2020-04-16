@@ -1,0 +1,20 @@
+{
+  "film": {
+    "title": "Hunt for the Wilderpeople",
+    "director": "Taika Waititi",
+    "release_date": "2016-03-31",
+    "film_id": 371645,
+    "original_language": "English",
+    "overview": "Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/skQqcMa1nSt7aqRRJiSy44KGSC1.jpg",
+    "imdbScore": "7.8",
+    "trailerLink": "https://www.youtube.com/watch?v=dPaU4Gymt3E",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Comedy",
+      "2": "Drama"
+    }
+  }
+}

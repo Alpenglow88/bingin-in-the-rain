@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Hick",
+    "director": "Derick Martini",
+    "release_date": "2011-09-10",
+    "film_id": 94363,
+    "original_language": "English",
+    "overview": "A pistol-packing teen meets an unstable rebel and a cocaine-snorting drifter as she hitchhikes her way out West.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziXCRCci5BFLEUwSgO0V83M9LGw.jpg",
+    "imdbScore": "5.7",
+    "trailerLink": "https://www.youtube.com/watch?v=xXyUlzTgnrU",
+    "numberOfGenres": 2,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Comedy",
+      "1": "Drama"
+    }
+  }
+}

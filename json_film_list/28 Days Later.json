@@ -1,0 +1,20 @@
+{
+  "film": {
+    "title": "28 Days Later",
+    "director": "Danny Boyle",
+    "release_date": "2002-10-31",
+    "film_id": 170,
+    "original_language": "English",
+    "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+    "imdbScore": "7.2",
+    "trailerLink": "https://www.youtube.com/watch?v=MHMdWUeYudk",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Horror",
+      "1": "Thriller",
+      "2": "Science Fiction"
+    }
+  }
+}

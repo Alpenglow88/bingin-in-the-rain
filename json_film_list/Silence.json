@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Silence",
+    "director": "Martin Scorsese",
+    "release_date": "2016-12-22",
+    "film_id": 68730,
+    "original_language": "English",
+    "overview": "Two Jesuit priests travel to seventeenth century Japan which has, under the Tokugawa shogunate, banned Catholicism and almost all foreign contact.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wO8XKAt3JUpdij27gIq6Maq4JMp.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=cuTjBL28l0U",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "History"
+    }
+  }
+}

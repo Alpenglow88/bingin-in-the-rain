@@ -1,0 +1,20 @@
+{
+  "film": {
+    "title": "The Martian",
+    "director": "Ridley Scott",
+    "release_date": "2015-09-30",
+    "film_id": 286217,
+    "original_language": "English",
+    "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
+    "imdbScore": "7.7",
+    "trailerLink": "https://www.youtube.com/watch?v=ej3ioOneTy8",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "Adventure",
+      "2": "Science Fiction"
+    }
+  }
+}

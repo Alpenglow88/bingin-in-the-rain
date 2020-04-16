@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "Thank You for Smoking",
+    "director": "Jason Reitman",
+    "release_date": "2005-03-17",
+    "film_id": 9388,
+    "original_language": "English",
+    "overview": "Nick Naylor is a charismatic spin-doctor for Big Tobacco who'll fight to protect America's right to smoke -- even if it kills him -- while still remaining a role model for his 12-year old son. When he incurs the wrath of a senator bent on snuffing out cigarettes, Nick's powers of \"filtering the truth\" will be put to the test.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/41bMmglWT72OaRXrMROEyksOf3J.jpg",
+    "imdbScore": "7.2",
+    "trailerLink": "https://www.youtube.com/watch?v=4GBJOWqlXqE",
+    "numberOfGenres": 2,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Comedy",
+      "1": "Drama"
+    }
+  }
+}

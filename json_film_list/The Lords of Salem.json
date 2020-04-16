@@ -1,0 +1,19 @@
+{
+  "film": {
+    "title": "The Lords of Salem",
+    "director": "Rob Zombie",
+    "release_date": "2012-09-10",
+    "film_id": 104755,
+    "original_language": "English",
+    "overview": "The City of Salem, Massachusetts is visited by a coven of ancient witches.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqZ6CGGZpQWt139YioekSYHvvkU.jpg",
+    "imdbScore": "5.3",
+    "trailerLink": "https://www.youtube.com/watch?v=Y606RoSur8o",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Horror",
+      "1": "Thriller"
+    }
+  }
+}

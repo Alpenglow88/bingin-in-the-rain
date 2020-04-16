@@ -1,0 +1,364 @@
+[
+{
+  "film": {
+    "title": "1917",
+    "director": "Sam Mendes",
+    "release_date": "2019-12-25",
+    "film_id": 530915,
+    "original_language": "en",
+    "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuGiPiGMYMkSosOJ3BQjDEAiwtO.jpg",
+    "imdbScore": "7.9",
+    "trailerLink": "https://www.youtube.com/watch?v=UcmZN0Mbl04",
+    "numberOfGenres": 4,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "War",
+      "1": "Drama",
+      "2": "Action",
+      "3": "Thriller"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Gankutsuou: The Count of Monte Cristo",
+    "director": "Mahiro Maeda",
+    "release_date": "2004-10-05",
+    "film_id": 688142,
+    "original_language": "ja",
+    "overview": "In the year 5053, French aristocrats Viscount Albert de Morcerf and Baron Franz d'Epinay attend the festival of Carnival on the moon city of Luna. While Franz is just looking to have fun, Albert is seeking something more to fill his life—but he finds more than he bargained for in The Count of Monte Cristo, a mysterious and charming self-made nobleman who meets his gaze during an opera performance.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9PoytYkMTNbFuTKHIQYpjR0Fvd.jpg",
+    "imdbScore": "0",
+    "trailerLink": "https://www.youtube.com/watch?v=nCCHjKzPzTY",
+    "numberOfGenres": 5,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Animation",
+      "1": "Drama",
+      "2": "Mystery",
+      "3": "Thriller",
+      "4": "Science Fiction"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Goodnight Mommy",
+    "director": "Severin Fiala",
+    "release_date": "2014-08-29",
+    "film_id": 284303,
+    "original_language": "de",
+    "overview": "In the heat of the summer lays a lonesome house in the countryside where nine year old twin brothers await their mother’s return.  When she comes home, bandaged after cosmetic surgery, nothing is like before and the children start to doubt whether this woman is actually who she says she is.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3G2gF7M9dmH4Vcs54PUjieOi0C.jpg",
+    "imdbScore": "6.6",
+    "trailerLink": "https://www.youtube.com/watch?v=HCjApb9EDcg",
+    "numberOfGenres": 3,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Drama",
+      "1": "Horror",
+      "2": "Thriller"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "It Chapter Two",
+    "director": "Andy Muschietti",
+    "release_date": "2019-09-04",
+    "film_id": 474350,
+    "original_language": "en",
+    "overview": "27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+    "imdbScore": "6.8",
+    "trailerLink": "https://www.youtube.com/watch?v=zqUopiAYdRg",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Horror",
+      "1": "Drama",
+      "2": "Fantasy"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Jurassic World",
+    "director": "Colin Trevorrow",
+    "release_date": "2015-06-06",
+    "film_id": 135397,
+    "original_language": "en",
+    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+    "imdbScore": "6.6",
+    "trailerLink": "https://www.youtube.com/watch?v=RFinNxS5KN4",
+    "numberOfGenres": 4,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Science Fiction",
+      "3": "Thriller"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Jurassic World: Fallen Kingdom",
+    "director": "J. A. Bayona",
+    "release_date": "2018-06-06",
+    "film_id": 351286,
+    "original_language": "en",
+    "overview": "Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg",
+    "imdbScore": "6.5",
+    "trailerLink": "https://www.youtube.com/watch?v=",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Science Fiction"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Kesari",
+    "director": "Anurag Singh",
+    "release_date": "2019-03-21",
+    "film_id": 498448,
+    "original_language": "hi",
+    "overview": "In 1897, an army of 21 Sikhs battles 10,000 Afghans to prevent the Saragarhi Fort from being taken down.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctjT1pMNAGD9ou0kuhz806tf7kX.jpg",
+    "imdbScore": "7.4",
+    "trailerLink": "https://www.youtube.com/watch?v=",
+    "numberOfGenres": 3,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Action",
+      "1": "Drama",
+      "2": "History"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Kingdom of Heaven",
+    "director": "Ridley Scott",
+    "release_date": "2005-05-03",
+    "film_id": 1495,
+    "original_language": "en",
+    "overview": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fQJxq26GU9a4dCQywZ6r8vgYKS.jpg",
+    "imdbScore": "6.7",
+    "trailerLink": "https://www.youtube.com/watch?v=-oO6pCRe3pM",
+    "numberOfGenres": 5,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "Action",
+      "2": "Adventure",
+      "3": "History",
+      "4": "War"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Monkey Dust",
+    "director": "Joseph Zito",
+    "release_date": "-",
+    "film_id": "15379",
+    "original_language": "en",
+    "overview": "No Overview to display",
+    "imageUrl": "public/assets/not_available.jpg",
+    "imdbScore": "-",
+    "trailerLink": "https://www.youtube.com/watch?v=CgmADv4tkLQ",
+    "numberOfGenres": 4,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Thriller",
+      "3": "War"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Onward",
+    "director": "Dan Scanlon",
+    "release_date": "2020-02-29",
+    "film_id": 508439,
+    "original_language": "en",
+    "overview": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+    "imdbScore": "8",
+    "trailerLink": "https://www.youtube.com/watch?v=gn5QmllRCn4",
+    "numberOfGenres": 5,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Animation",
+      "1": "Family",
+      "2": "Adventure",
+      "3": "Comedy",
+      "4": "Fantasy"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Star Wars",
+    "director": "George Lucas",
+    "release_date": "1977-05-25",
+    "film_id": 11,
+    "original_language": "en",
+    "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "imdbScore": "8.2",
+    "trailerLink": "https://www.youtube.com/watch?v=vZ734NWnAHA",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Action",
+      "2": "Science Fiction"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Te Ata",
+    "director": "Nathan Frankowski",
+    "release_date": "2017-10-13",
+    "film_id": 403586,
+    "original_language": "en",
+    "overview": "The extraordinary life of Chickasaw Nation citizen Mary Thompson Fisher is given a heartfelt tribute in this moving look at a culture in transition, and the way one woman used her voice to keep Native traditions and stories alive. Raised in Indian Territory, Fisher left home to pursue her dream of becoming an actress, only to find that her true calling was at home all along. From Chautauquas to Broadway and even the White House, Fisher traveled the world performing Native American songs and stories for heads of state, American presidents, and European royalty. Featuring Chickasaw citizens both in front of and be-hind the camera, this touching portrait starring Q’orianka Kilcher (“The New World”) and Graham Greene honors a woman whose own story was the most inspiring one she never told. -TCFF database",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b91C9YNC2GUv4VCPI4zBiKVkTZK.jpg",
+    "imdbScore": "7.7",
+    "trailerLink": "https://www.youtube.com/watch?v=gnmMDlOVzDM",
+    "numberOfGenres": 1,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Drama"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Assassination of Jesse James by the Coward Robert Ford",
+    "director": "Andrew Dominik",
+    "release_date": "2007-09-07",
+    "film_id": 4512,
+    "original_language": "en",
+    "overview": "Outlaw Jesse James is rumored to be the 'fastest gun in the West'. An eager recruit into James' notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmTyssKrXvtQ5VV8uFgA7bgMDis.jpg",
+    "imdbScore": "7",
+    "trailerLink": "https://www.youtube.com/watch?v=nk0JaEwhf00",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Action",
+      "1": "Drama",
+      "2": "Western"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Breadwinner",
+    "director": "Nora Twomey",
+    "release_date": "2017-11-17",
+    "film_id": 435129,
+    "original_language": "en",
+    "overview": "A headstrong young girl in Afghanistan, ruled by the Taliban, disguises herself as a boy in order to provide for her family.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg",
+    "imdbScore": "7.9",
+    "trailerLink": "https://www.youtube.com/watch?v=p64O8KAHHaQ",
+    "numberOfGenres": 4,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Animation",
+      "1": "Drama",
+      "2": "War",
+      "3": "Family"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Darjeeling Limited",
+    "director": "Wes Anderson",
+    "release_date": "2007-09-07",
+    "film_id": 4538,
+    "original_language": "en",
+    "overview": "Three American brothers who have not spoken to each other in a year set off on a train voyage across India with a plan to find themselves and bond with each other -- to become brothers again like they used to be. Their \"spiritual quest\", however, veers rapidly off-course (due to events involving over-the-counter pain killers, Indian cough syrup, and pepper spray).",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
+    "imdbScore": "7.2",
+    "trailerLink": "https://www.youtube.com/watch?v=B2R7O2IlndM",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Drama",
+      "2": "Comedy"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Greatest Showman",
+    "director": "Michael Gracey",
+    "release_date": "2017-12-20",
+    "film_id": 316029,
+    "original_language": "en",
+    "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+    "imdbScore": "8",
+    "trailerLink": "https://www.youtube.com/watch?v=AXCTMGYUg9A",
+    "numberOfGenres": 1,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "The Hobbit: An Unexpected Journey",
+    "director": "Peter Jackson",
+    "release_date": "2012-11-26",
+    "film_id": 49051,
+    "original_language": "en",
+    "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9I5pUgMuZuddyQaLRIWAfJSA7yn.jpg",
+    "imdbScore": "7.2",
+    "trailerLink": "https://www.youtube.com/watch?v=9PSXjr1gbjc",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Fantasy",
+      "2": "Action"
+    }
+  }
+}
+]

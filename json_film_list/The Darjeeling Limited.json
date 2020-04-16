@@ -1,0 +1,20 @@
+{
+  "film": {
+    "title": "The Darjeeling Limited",
+    "director": "Wes Anderson",
+    "release_date": "2007-09-07",
+    "film_id": 4538,
+    "original_language": "en",
+    "overview": "Three American brothers who have not spoken to each other in a year set off on a train voyage across India with a plan to find themselves and bond with each other -- to become brothers again like they used to be. Their \"spiritual quest\", however, veers rapidly off-course (due to events involving over-the-counter pain killers, Indian cough syrup, and pepper spray).",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
+    "imdbScore": "7.2",
+    "trailerLink": "https://www.youtube.com/watch?v=B2R7O2IlndM",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Drama",
+      "2": "Comedy"
+    }
+  }
+}

@@ -28,7 +28,7 @@ if (genres[x] === "Science Fiction") {
   return genreList
 }
 
-function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle, original_language, release_date, director ) {
+function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle, original_language, release_date, director, watchOn ) {
   let filmHtml = `<!DOCTYPE html>
 <html>
 
@@ -75,6 +75,8 @@ function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerL
                 <ul>
                     <h3 style="text-align:center;" data_test_automation_id="film_title_one">IMdB score ${imdbScore}
                     </h3>
+                    <h4 style="text-align:center;" data_test_automation_id="film_title_one">Watch On: ${watchOn}
+                    </h4>
                     <p> </p>
                 </ul>
             </div>
@@ -119,12 +121,13 @@ for (var i = 0; i < numberOfFilms; i++) {
   const original_language = films[i]['film']['original_language']
   const release_date = films[i]['film']['release_date']
   const director = films[i]['film']['director']
+  const watchOn = films[i]['film']['watchOn']
 
   const genreList = generateFilmGenres(i)
 
 const htmlTitle = filmTitle.replace(/\s/g, '')
 
-fs.writeFile(`./views/html_film_views/${htmlTitle}.ejs`, generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle, original_language, release_date, director), function (err) {
+fs.writeFile(`./views/html_film_views/${htmlTitle}.ejs`, generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle, original_language, release_date, director, watchOn), function (err) {
   if (err) throw err;
 });
 

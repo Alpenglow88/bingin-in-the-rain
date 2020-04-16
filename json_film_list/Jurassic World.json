@@ -1,0 +1,21 @@
+{
+  "film": {
+    "title": "Jurassic World",
+    "director": "Colin Trevorrow",
+    "release_date": "2015-06-06",
+    "film_id": 135397,
+    "original_language": "en",
+    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+    "imdbScore": "6.6",
+    "trailerLink": "https://www.youtube.com/watch?v=RFinNxS5KN4",
+    "numberOfGenres": 4,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Science Fiction",
+      "3": "Thriller"
+    }
+  }
+}

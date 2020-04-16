@@ -3,6 +3,8 @@
 require 'rest-client'
 require 'json'
 require 'fuzzy_match'
+require 'iso-639'
+
 # require 'launchy'
 
 require './constants.rb'
@@ -323,9 +325,10 @@ films.each do |film|
   end
 
   begin
-    original_language = rb[film_entry]['original_language']
+    language_code = rb[film_entry]['original_language']
+    original_language = ISO_639.find(language_code).english_name
   rescue NoMethodError, TypeError
-    original_language = 'en'
+    original_language = 'Unknown'
   end
 
   begin

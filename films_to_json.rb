@@ -277,6 +277,8 @@ films.each do |film|
   film.delete "'"
 
   next if film.initial(2) == ' -' || film.initial(1) == '.'
+
+  # puts film
   
   apicall = "https://api.themoviedb.org/3/search/movie?api_key=\'#{TMDBAPIKEY}\'&query=\'#{film}\'".delete "'"
   response = RestClient.get(apicall)

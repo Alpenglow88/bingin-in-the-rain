@@ -192,6 +192,26 @@
 ,
 {
   "film": {
+    "title": "Akira",
+    "director": "G. Naveen Reddy",
+    "release_date": "2016-05-06",
+    "film_id": 420499,
+    "original_language": "Kannada",
+    "overview": "The film revolves around Akira, who is reminiscing his life, his trysts with love and how he turned out to be the responsible man that his businessman father he eventually wanted to be.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2",
+    "imdbScore": "5.5",
+    "trailerLink": "https://www.youtube.com/watch?v=8WwBc-BPCu4",
+    "numberOfGenres": 2,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Romance",
+      "1": "Drama"
+    }
+  }
+}
+,
+{
+  "film": {
     "title": "Abominable",
     "director": "Jill Culton",
     "release_date": "2019-09-19",
@@ -208,26 +228,6 @@
       "1": "Adventure",
       "2": "Comedy",
       "3": "Family"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Akira",
-    "director": "G. Naveen Reddy",
-    "release_date": "2016-05-06",
-    "film_id": 420499,
-    "original_language": "Kannada",
-    "overview": "The film revolves around Akira, who is reminiscing his life, his trysts with love and how he turned out to be the responsible man that his businessman father he eventually wanted to be.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2",
-    "imdbScore": "5.5",
-    "trailerLink": "https://www.youtube.com/watch?v=8WwBc-BPCu4",
-    "numberOfGenres": 2,
-    "watchOn": "Mac Mini",
-    "genres": {
-      "0": "Romance",
-      "1": "Drama"
     }
   }
 }
@@ -355,26 +355,6 @@
       "0": "Drama",
       "1": "Fantasy",
       "2": "Action"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Amelie Rennt",
-    "director": "Tobias Wiemann",
-    "release_date": "2017-09-21",
-    "film_id": 433763,
-    "original_language": "German",
-    "overview": "A girl struggling with asthma is taken to a clinic in South Tyrol to be cured. After some time she decides to get out of this hell (that's how she feels about it) and soon she'll meet a new friend. Together they try to reach the peak of a mountain where, according to an old custom, she can be healed.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6x9V3gr6k1FMi21uPDlVfiVtdvS.jpg",
-    "imdbScore": "6.4",
-    "trailerLink": "https://www.youtube.com/watch?v=KchpysQS1Dk",
-    "numberOfGenres": 2,
-    "watchOn": "Mac Mini",
-    "genres": {
-      "0": "Family",
-      "1": "Adventure"
     }
   }
 }
@@ -1807,22 +1787,21 @@
 ,
 {
   "film": {
-    "title": "Goodnight Mummy",
-    "director": "Joseph Zito",
-    "release_date": "-",
-    "film_id": "15379",
-    "original_language": "Unknown",
-    "overview": "No Overview to display",
-    "imageUrl": "public/assets/not_available.jpg",
-    "imdbScore": "-",
-    "trailerLink": "https://www.youtube.com/watch?v=CgmADv4tkLQ",
-    "numberOfGenres": 4,
+    "title": "Goodnight Mommy",
+    "director": "Severin Fiala",
+    "release_date": "2014-08-29",
+    "film_id": 284303,
+    "original_language": "German",
+    "overview": "In the heat of the summer lays a lonesome house in the countryside where nine year old twin brothers await their mother’s return.  When she comes home, bandaged after cosmetic surgery, nothing is like before and the children start to doubt whether this woman is actually who she says she is.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3G2gF7M9dmH4Vcs54PUjieOi0C.jpg",
+    "imdbScore": "6.6",
+    "trailerLink": "https://www.youtube.com/watch?v=HCjApb9EDcg",
+    "numberOfGenres": 3,
     "watchOn": "Mac Mini",
     "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Thriller",
-      "3": "War"
+      "0": "Drama",
+      "1": "Horror",
+      "2": "Thriller"
     }
   }
 }
@@ -3109,25 +3088,6 @@
 ,
 {
   "film": {
-    "title": "Knives out",
-    "director": "Przemysław Wojcieszek",
-    "release_date": "2016-07-26",
-    "film_id": 481638,
-    "original_language": "Polish",
-    "overview": "",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlG6MvG8EXtEqUjNNN85UWvtAod.jpg",
-    "imdbScore": "0",
-    "trailerLink": "https://www.youtube.com/watch?v=4YKpBYo61Cs",
-    "numberOfGenres": 1,
-    "watchOn": "Apple TV",
-    "genres": {
-      "0": "Drama"
-    }
-  }
-}
-,
-{
-  "film": {
     "title": "Kung Fu Panda 2",
     "director": "Jennifer Yuh Nelson",
     "release_date": "2011-05-25",
@@ -3229,6 +3189,26 @@
       "0": "Crime",
       "1": "Drama",
       "2": "Western"
+    }
+  }
+}
+,
+{
+  "film": {
+    "title": "Amélie",
+    "director": "Jean-Pierre Jeunet",
+    "release_date": "2001-04-25",
+    "film_id": 194,
+    "original_language": "French",
+    "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie (Audrey Tautou) accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ai02P32DZxXDqhrt2XoVkauS7T.jpg",
+    "imdbScore": "7.9",
+    "trailerLink": "https://www.youtube.com/watch?v=2UT5xaAfxWU",
+    "numberOfGenres": 2,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Comedy",
+      "1": "Romance"
     }
   }
 }
@@ -4430,24 +4410,6 @@
     "genres": {
       "0": "History",
       "1": "Drama"
-    }
-  }
-}
-,
-{
-  "film": {
-    "title": "Man from Shaolin",
-    "director": "R.T. Wong",
-    "release_date": "2012-07-01",
-    "film_id": 179012,
-    "original_language": "English",
-    "overview": "32nd generation Chinese Shaolin Fighting Monk Li Bao Xin must immigrate to New York City to look after young Janie, his six-year-old niece. Struggling to make a new life, Li Bao will face challenges that test his character more than his physical strength. Through it all, his mind remains filled with the heroic stories of the Shaolin Temple, a great tradition that defines him, but also makes his assimilation to western culture more difficult. While in China he was a venerated master, in America he is nobody. To make a life for him and Janie, Li Bao must contend with a modern society, where his great fighting skills and heroic lineage have little meaning. He will have to decide which is more important, his dreams or his family.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVbMwS1lDnOv3BTc6lJggVlqJc6.jpg",
-    "imdbScore": "3.5",
-    "trailerLink": "https://www.youtube.com/watch?v=4YKpBYo61Cs",
-    "numberOfGenres": 0,
-    "watchOn": "Mac Mini",
-    "genres": {
     }
   }
 }

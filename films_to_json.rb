@@ -299,7 +299,9 @@ films.each do |film|
   begin
     filmname = rb[film_entry]['title']
   rescue NoMethodError, TypeError
-    filmname = film
+    filmname = rb[0]['title']
+  rescue NoMethodError
+    filename = film
   end
 
   begin

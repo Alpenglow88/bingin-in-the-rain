@@ -257,7 +257,7 @@ html {
 
 .footer-distributed .footer p {
   color: #8f9296;
-  font-size: 14px;
+  font-size: 10px;
   margin: 0;
 }
 /* Footer links */
@@ -293,3 +293,22 @@ html {
 }
 
 .footer-distributed p.footer-links a:hover{text-decoration:underline;}
+
+.footer-ghost-button {
+  background-color: transparent;
+  border:2px solid #ddd;
+  /* padding:10px 30px; */
+  /* width: 100%; */
+  /* min-width: 350px; */
+  font-size: 10px;
+  color: #8f9296;;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -ms-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}
+.footer-ghost-button:hover {
+  border:2px solid #515151;
+  color: red;
+}

@@ -50,6 +50,7 @@ function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerL
                             data_test_automation_id="header_screenings_button">Screenings</a></li>
                     <li class="navigation__item"><a href="/waiting"
                             data_test_automation_id="header_random_button">Random Film</a></li>
+                            <li class="navigation__item"><a href="/waiting" data_test_automation_id="header_random_button">Report a Bug</a></li>
                 </ul>
             </nav>
 

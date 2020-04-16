@@ -235,8 +235,8 @@ app.get("/7DaysinEntebbe", function (req, res) {res.render("html_film_views/7Day
 
 app.get("/ACureforWellness", function (req, res) {res.render("html_film_views/ACureforWellness", { version: version })})
 
-app.get("/AHistoryofViolence", function (req, res) {res.render("html_film_views/AHistoryofViolence", { version: version })})
 
+app.get("/AHistoryofViolence", function (req, res) {res.render("html_film_views/AHistoryofViolence", { version: version })})
 
 
 app.get("/AQuietPlace", function (req, res) {res.render("html_film_views/AQuietPlace", { version: version })})
@@ -346,8 +346,8 @@ app.get("/CaptainFantastic", function (req, res) {res.render("html_film_views/Ca
 
 app.get("/Casablanca", function (req, res) {res.render("html_film_views/Casablanca", { version: version })})
 
-app.get("/CasinoRoyale", function (req, res) {res.render("html_film_views/CasinoRoyale", { version: version })})
 
+app.get("/CasinoRoyale", function (req, res) {res.render("html_film_views/CasinoRoyale", { version: version })})
 
 
 app.get("/CloudywithaChanceofMeatballs", function (req, res) {res.render("html_film_views/CloudywithaChanceofMeatballs", { version: version })})
@@ -559,8 +559,8 @@ app.get("/HowtoTrainYourDragon2", function (req, res) {res.render("html_film_vie
 
 app.get("/HuntfortheWilderpeople", function (req, res) {res.render("html_film_views/HuntfortheWilderpeople", { version: version })})
 
-app.get("/IAmNotaSerialKiller", function (req, res) {res.render("html_film_views/IAmNotaSerialKiller", { version: version })})
 
+app.get("/IAmNotaSerialKiller", function (req, res) {res.render("html_film_views/IAmNotaSerialKiller", { version: version })})
 
 
 app.get("/IAmNotaWitch", function (req, res) {res.render("html_film_views/IAmNotaWitch", { version: version })})
@@ -631,8 +631,8 @@ app.get("/JojoRabbit", function (req, res) {res.render("html_film_views/JojoRabb
 
 app.get("/Joker", function (req, res) {res.render("html_film_views/Joker", { version: version })})
 
-app.get("/Jumanji:TheNextLevel", function (req, res) {res.render("html_film_views/Jumanji:TheNextLevel", { version: version })})
 
+app.get("/Jumanji:TheNextLevel", function (req, res) {res.render("html_film_views/Jumanji:TheNextLevel", { version: version })})
 
 
 app.get("/Jumanji:WelcometotheJungle", function (req, res) {res.render("html_film_views/Jumanji:WelcometotheJungle", { version: version })})
@@ -710,13 +710,13 @@ app.get("/Logan", function (req, res) {res.render("html_film_views/Logan", { ver
 app.get("/LordsofDogtown", function (req, res) {res.render("html_film_views/LordsofDogtown", { version: version })})
 
 
+app.get("/Lossilencios", function (req, res) {res.render("html_film_views/Lossilencios", { version: version })})
+
 
 app.get("/MakingWaves:TheArtofCinematicSound", function (req, res) {res.render("html_film_views/MakingWaves:TheArtofCinematicSound", { version: version })})
 
 
 app.get("/ManchesterbytheSea", function (req, res) {res.render("html_film_views/ManchesterbytheSea", { version: version })})
-
-app.get("/Lossilencios", function (req, res) {res.render("html_film_views/Lossilencios", { version: version })})
 
 
 app.get("/Mandela:LongWalktoFreedom", function (req, res) {res.render("html_film_views/Mandela:LongWalktoFreedom", { version: version })})
@@ -754,8 +754,8 @@ app.get("/MoonriseKingdom", function (req, res) {res.render("html_film_views/Moo
 
 app.get("/Mud", function (req, res) {res.render("html_film_views/Mud", { version: version })})
 
-app.get("/MulhollandDr.", function (req, res) {res.render("html_film_views/MulhollandDr.", { version: version })})
 
+app.get("/MulhollandDr.", function (req, res) {res.render("html_film_views/MulhollandDr.", { version: version })})
 
 
 app.get("/MurderontheOrientExpress", function (req, res) {res.render("html_film_views/MurderontheOrientExpress", { version: version })})
@@ -845,8 +845,8 @@ app.get("/RichardJewell", function (req, res) {res.render("html_film_views/Richa
 app.get("/RidewiththeDevil", function (req, res) {res.render("html_film_views/RidewiththeDevil", { version: version })})
 
 
-
 app.get("/Ringu", function (req, res) {res.render("html_film_views/Ringu", { version: version })})
+
 
 app.get("/RustandBone", function (req, res) {res.render("html_film_views/RustandBone", { version: version })})
 
@@ -925,8 +925,8 @@ app.get("/SweetCountry", function (req, res) {res.render("html_film_views/SweetC
 
 app.get("/SympathyforLadyVengeance", function (req, res) {res.render("html_film_views/SympathyforLadyVengeance", { version: version })})
 
-app.get("/SympathyforMr.Vengeance", function (req, res) {res.render("html_film_views/SympathyforMr.Vengeance", { version: version })})
 
+app.get("/SympathyforMr.Vengeance", function (req, res) {res.render("html_film_views/SympathyforMr.Vengeance", { version: version })})
 
 
 app.get("/Tanhaji:TheUnsungWarrior", function (req, res) {res.render("html_film_views/Tanhaji:TheUnsungWarrior", { version: version })})
@@ -944,8 +944,8 @@ app.get("/The13thWarrior", function (req, res) {res.render("html_film_views/The1
 app.get("/TheAngels'Share", function (req, res) {res.render("html_film_views/TheAngels'Share", { version: version })})
 
 
-
 app.get("/TheAssassinationofJesseJamesbytheCowardRobertFord", function (req, res) {res.render("html_film_views/TheAssassinationofJesseJamesbytheCowardRobertFord", { version: version })})
+
 
 app.get("/TheBestExoticMarigoldHotel", function (req, res) {res.render("html_film_views/TheBestExoticMarigoldHotel", { version: version })})
 
@@ -1094,8 +1094,8 @@ app.get("/TheMatrix", function (req, res) {res.render("html_film_views/TheMatrix
 app.get("/TheMatrixReloaded", function (req, res) {res.render("html_film_views/TheMatrixReloaded", { version: version })})
 
 
-app.get("/TheMatrixRevolutions", function (req, res) {res.render("html_film_views/TheMatrixRevolutions", { version: version })})
 
+app.get("/TheMatrixRevolutions", function (req, res) {res.render("html_film_views/TheMatrixRevolutions", { version: version })})
 
 app.get("/TheMenWhoStareatGoats", function (req, res) {res.render("html_film_views/TheMenWhoStareatGoats", { version: version })})
 

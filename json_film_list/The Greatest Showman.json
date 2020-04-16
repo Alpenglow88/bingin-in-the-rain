@@ -12,6 +12,7 @@
     "numberOfGenres": 1,
     "genres": {
       "0": "Drama"
-    }
+    },
+    "watchOn": "Apple TV"
   }
 }

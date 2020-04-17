@@ -1,0 +1,35 @@
+{
+  "film": {
+    "title": "Deadpool",
+    "director": "Tim Miller",
+    "release_date": "2016-02-09",
+    "film_id": 293660,
+    "original_language": "English",
+    "overview": "Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGSxMiF0cYuAiyuve5DA6bnWEOI.jpg",
+    "imdbScore": "7.6",
+    "trailerLink": "https://www.youtube.com/watch?v=FyKWUTwSYAs",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Comedy"
+    },
+    "lead_actors": [
+      " Ryan Reynolds",
+      " Karan Soni",
+      " Ed Skrein"
+    ],
+    "supporting_actors": [
+      " Michael Benyaer",
+      " Stefan Kapičić",
+      " Brianna Hildebrand",
+      " Style Dayne",
+      " Kyle Cassie",
+      " Taylor Hickson",
+      " Ayzee",
+      " Naika Toussaint"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "film": {
+    "title": "Trespass Against Us",
+    "director": "Adam Smith",
+    "release_date": "2016-10-14",
+    "film_id": 256569,
+    "original_language": "English",
+    "overview": "Three generations of the rowdy Cutler family live as outlaws in some of Britain's richest countryside – hunting hares, ram-raiding stately homes, and taunting the police. Struggling to retain a way of life fast becoming extinct, Chad Cutler ends up caught between his father's archaic principles and trying to do right by his kids, whilst the full force of the law is finally catching up with him.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/soAl3j6UkSVycQ2TSRrMIfhMuFN.jpg",
+    "imdbScore": "5.9",
+    "trailerLink": "https://www.youtube.com/watch?v=vnq8jZejw-s",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "Crime"
+    },
+    "lead_actors": [
+      " Michael Fassbender",
+      " Brendan Gleeson",
+      " Lyndsey Marshal"
+    ],
+    "supporting_actors": [
+      " Rory Kinnear",
+      " Sean Harris",
+      " Kingsley Ben-Adir",
+      " Gerard Kearns",
+      " Tony Way",
+      " Alan Williams",
+      " Mark Lewis Jones",
+      " Anna Calder-Marshall"
+    ]
+  }
+}

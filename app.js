@@ -218,8 +218,8 @@ app.get('/genre-western', function (req, res) {
   res.render('genre_views/western', { version: version })
 })
 
-app.get("/1917", function (req, res) {res.render("html_film_views/1917", { version: version })})
 
+app.get("/1917", function (req, res) {res.render("html_film_views/1917", { version: version })})
 
 app.get("/2001:ASpaceOdyssey", function (req, res) {res.render("html_film_views/2001:ASpaceOdyssey", { version: version })})
 
@@ -256,8 +256,8 @@ app.get("/Alien", function (req, res) {res.render("html_film_views/Alien", { ver
 
 app.get("/Alien:Covenant", function (req, res) {res.render("html_film_views/Alien:Covenant", { version: version })})
 
-
 app.get("/Alien³", function (req, res) {res.render("html_film_views/Alien³", { version: version })})
+
 
 
 app.get("/Aliens", function (req, res) {res.render("html_film_views/Aliens", { version: version })})
@@ -323,8 +323,8 @@ app.get("/BladeRunner2049", function (req, res) {res.render("html_film_views/Bla
 app.get("/BlueIstheWarmestColor", function (req, res) {res.render("html_film_views/BlueIstheWarmestColor", { version: version })})
 
 
-
 app.get("/BlueMyMind", function (req, res) {res.render("html_film_views/BlueMyMind", { version: version })})
+
 
 app.get("/BoneTomahawk", function (req, res) {res.render("html_film_views/BoneTomahawk", { version: version })})
 
@@ -365,8 +365,8 @@ app.get("/ConfessionsofaDangerousMind", function (req, res) {res.render("html_fi
 app.get("/DarkPhoenix", function (req, res) {res.render("html_film_views/DarkPhoenix", { version: version })})
 
 
-app.get("/DarkWaters", function (req, res) {res.render("html_film_views/DarkWaters", { version: version })})
 
+app.get("/DarkWaters", function (req, res) {res.render("html_film_views/DarkWaters", { version: version })})
 
 app.get("/DawnoftheDead", function (req, res) {res.render("html_film_views/DawnoftheDead", { version: version })})
 
@@ -505,14 +505,14 @@ app.get("/HarryPotterandtheDeathlyHallows:Part1", function (req, res) {res.rende
 
 app.get("/HarryPotterandtheGobletofFire", function (req, res) {res.render("html_film_views/HarryPotterandtheGobletofFire", { version: version })})
 
-
 app.get("/HarryPotterandtheHalf-BloodPrince", function (req, res) {res.render("html_film_views/HarryPotterandtheHalf-BloodPrince", { version: version })})
+
 
 
 app.get("/HarryPotterandtheOrderofthePhoenix", function (req, res) {res.render("html_film_views/HarryPotterandtheOrderofthePhoenix", { version: version })})
 
-
 app.get("/HarryPotterandthePrisonerofAzkaban", function (req, res) {res.render("html_film_views/HarryPotterandthePrisonerofAzkaban", { version: version })})
+
 
 
 app.get("/HarryPotterandthePhilosopher'sStone", function (req, res) {res.render("html_film_views/HarryPotterandthePhilosopher'sStone", { version: version })})
@@ -673,8 +673,8 @@ app.get("/KungFuPanda3", function (req, res) {res.render("html_film_views/KungFu
 
 app.get("/Kuso", function (req, res) {res.render("html_film_views/Kuso", { version: version })})
 
-app.get("/LadyBird", function (req, res) {res.render("html_film_views/LadyBird", { version: version })})
 
+app.get("/LadyBird", function (req, res) {res.render("html_film_views/LadyBird", { version: version })})
 
 
 app.get("/Lawless", function (req, res) {res.render("html_film_views/Lawless", { version: version })})
@@ -700,8 +700,8 @@ app.get("/Lilya4-ever", function (req, res) {res.render("html_film_views/Lilya4-
 
 app.get("/Lincoln", function (req, res) {res.render("html_film_views/Lincoln", { version: version })})
 
-app.get("/Locke", function (req, res) {res.render("html_film_views/Locke", { version: version })})
 
+app.get("/Locke", function (req, res) {res.render("html_film_views/Locke", { version: version })})
 
 
 app.get("/Logan", function (req, res) {res.render("html_film_views/Logan", { version: version })})
@@ -736,8 +736,8 @@ app.get("/mid90s", function (req, res) {res.render("html_film_views/mid90s", { v
 
 app.get("/MidnightSpecial", function (req, res) {res.render("html_film_views/MidnightSpecial", { version: version })})
 
-app.get("/Monos", function (req, res) {res.render("html_film_views/Monos", { version: version })})
 
+app.get("/Monos", function (req, res) {res.render("html_film_views/Monos", { version: version })})
 
 
 app.get("/Moon", function (req, res) {res.render("html_film_views/Moon", { version: version })})
@@ -802,7 +802,8 @@ app.get("/PenguinsofMadagascar", function (req, res) {res.render("html_film_view
 
 app.get("/Perfume:TheStoryofaMurderer", function (req, res) {res.render("html_film_views/Perfume:TheStoryofaMurderer", { version: version })})
 
-app.get("/PhantomThread", function (req, res) {res.render("html_film_views/PhantomThread", { version: version })})
+
+
 
 
 app.get("/Pi", function (req, res) {res.render("html_film_views/Pi", { version: version })})
@@ -827,11 +828,12 @@ app.get("/QueenofKatwe", function (req, res) {res.render("html_film_views/Queeno
 
 app.get("/Rabbit-ProofFence", function (req, res) {res.render("html_film_views/Rabbit-ProofFence", { version: version })})
 
-
 app.get("/ReadyPlayerOne", function (req, res) {res.render("html_film_views/ReadyPlayerOne", { version: version })})
 
+app.get("/PhantomThread", function (req, res) {res.render("html_film_views/PhantomThread", { version: version })})
 
 app.get("/ReservoirDogs", function (req, res) {res.render("html_film_views/ReservoirDogs", { version: version })})
+
 
 
 app.get("/RichardJewell", function (req, res) {res.render("html_film_views/RichardJewell", { version: version })})
@@ -864,12 +866,10 @@ app.get("/SherlockHolmes:AGameofShadows", function (req, res) {res.render("html_
 app.get("/Sherpa", function (req, res) {res.render("html_film_views/Sherpa", { version: version })})
 
 
-
 app.get("/Shoplifters", function (req, res) {res.render("html_film_views/Shoplifters", { version: version })})
 
 
 app.get("/ShutterIsland", function (req, res) {res.render("html_film_views/ShutterIsland", { version: version })})
-
 
 app.get("/Sightseers", function (req, res) {res.render("html_film_views/Sightseers", { version: version })})
 
@@ -878,6 +878,7 @@ app.get("/Silence", function (req, res) {res.render("html_film_views/Silence", {
 
 
 app.get("/Skyfall", function (req, res) {res.render("html_film_views/Skyfall", { version: version })})
+
 
 
 app.get("/SlowWest", function (req, res) {res.render("html_film_views/SlowWest", { version: version })})
@@ -903,6 +904,7 @@ app.get("/Spectre", function (req, res) {res.render("html_film_views/Spectre", {
 
 app.get("/Spider-Man:FarfromHome", function (req, res) {res.render("html_film_views/Spider-Man:FarfromHome", { version: version })})
 
+
 app.get("/Spider-Man:IntotheSpider-Verse", function (req, res) {res.render("html_film_views/Spider-Man:IntotheSpider-Verse", { version: version })})
 
 
@@ -918,7 +920,6 @@ app.get("/SuicideSquad", function (req, res) {res.render("html_film_views/Suicid
 app.get("/SweetCountry", function (req, res) {res.render("html_film_views/SweetCountry", { version: version })})
 
 
-
 app.get("/SympathyforLadyVengeance", function (req, res) {res.render("html_film_views/SympathyforLadyVengeance", { version: version })})
 
 
@@ -928,8 +929,8 @@ app.get("/SympathyforMr.Vengeance", function (req, res) {res.render("html_film_v
 app.get("/Tanhaji:TheUnsungWarrior", function (req, res) {res.render("html_film_views/Tanhaji:TheUnsungWarrior", { version: version })})
 
 
-
 app.get("/TeAta", function (req, res) {res.render("html_film_views/TeAta", { version: version })})
+
 
 app.get("/ThankYouforSmoking", function (req, res) {res.render("html_film_views/ThankYouforSmoking", { version: version })})
 
@@ -1025,7 +1026,6 @@ app.get("/TheHobbit:AnUnexpectedJourney", function (req, res) {res.render("html_
 
 
 app.get("/TheHobbit:TheBattleoftheFiveArmies", function (req, res) {res.render("html_film_views/TheHobbit:TheBattleoftheFiveArmies", { version: version })})
-
 
 
 app.get("/TheHobbit:TheDesolationofSmaug", function (req, res) {res.render("html_film_views/TheHobbit:TheDesolationofSmaug", { version: version })})
@@ -1181,11 +1181,10 @@ app.get("/VforVendetta", function (req, res) {res.render("html_film_views/VforVe
 app.get("/ValhallaRising", function (req, res) {res.render("html_film_views/ValhallaRising", { version: version })})
 
 
+
 app.get("/Venom", function (req, res) {res.render("html_film_views/Venom", { version: version })})
 
-
 app.get("/Victoria", function (req, res) {res.render("html_film_views/Victoria", { version: version })})
-
 
 app.get("/ViewfromaBlueMoon", function (req, res) {res.render("html_film_views/ViewfromaBlueMoon", { version: version })})
 
@@ -1200,6 +1199,7 @@ app.get("/WetheAnimals", function (req, res) {res.render("html_film_views/WetheA
 
 
 app.get("/WhaleRider", function (req, res) {res.render("html_film_views/WhaleRider", { version: version })})
+
 
 
 app.get("/Wild", function (req, res) {res.render("html_film_views/Wild", { version: version })})

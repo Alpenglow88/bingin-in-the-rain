@@ -46,6 +46,8 @@
       <br />
       <br />
       <ul>
+        <li>Make the subject of your email "I found a bug in BITR"</li>
+        <br />
         <li>The current version of the app is <%= version %> - please include this</li>
         <br />
         <li>The specifics - is this a film that is wrong, the language, the release date etc</li>
@@ -60,8 +62,8 @@
 
     <div class="container">
       <fieldset>
-        <form action="/waiting">
-          <input data_test_automation_id="random_film_list_button" type="submit" class="ghost-button" value="Report a bug" href="/waiting">
+        <form action="mailto:bitr.helpdesk@gmail.com">
+          <input data_test_automation_id="random_film_list_button" type="submit" class="ghost-button" value="Report a bug" href="mailto:bitr.helpdesk@gmail.com">
         </form>
       </fieldset>
     </div>

@@ -1,0 +1,35 @@
+{
+  "film": {
+    "title": "Sweet Country",
+    "director": "Warwick Thornton",
+    "release_date": "2018-01-25",
+    "film_id": 468210,
+    "original_language": "English",
+    "overview": "It’s 1929 on the vast, desert-like, Eastern Arrernte Nation lands that are now known as the Central Australian outback. Sam Kelly, a middle-aged Aboriginal man, works the land of a kind preacher, Fred Smith. After an ill-tempered bully arrives in town and Kelly kills him in self-defence, he and his wife go on the run as a posse gathers to hunt him down.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/szJdZCSiEIYybmPymoP2UTEvOUC.jpg",
+    "imdbScore": "6.8",
+    "trailerLink": "https://www.youtube.com/watch?v=sYKBG1znk4A",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "History",
+      "2": "Western"
+    },
+    "lead_actors": [
+      " Hamilton Morris",
+      " Bryan Brown",
+      " Sam Neill"
+    ],
+    "supporting_actors": [
+      " Thomas M. Wright",
+      " Ewen Leslie",
+      " Matt Day",
+      " Gibson John",
+      " Natassia Gorey Furber",
+      " Anni Finsterer",
+      " Tremayne Doolan",
+      " Trevon Doolan"
+    ]
+  }
+}

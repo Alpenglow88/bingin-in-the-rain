@@ -1,0 +1,34 @@
+{
+  "film": {
+    "title": "Excalibur",
+    "director": "John Boorman",
+    "release_date": "1981-04-10",
+    "film_id": 11527,
+    "original_language": "English",
+    "overview": "A surreal adaptation of Sir Thomas Malory's \"Le Morte d'Arthur\", chronicling Arthur Pendragon's conception, his rise to the throne, the search by his Knights of the Round Table for the Holy Grail, and ultimately his death.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNgSBynGP63B7g0A9AGq3EQIPwS.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=emF-m9qnF5o",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Fantasy"
+    },
+    "lead_actors": [
+      " Nigel Terry",
+      " Helen Mirren",
+      " Nicholas Clay"
+    ],
+    "supporting_actors": [
+      " Cherie Lunghi",
+      " Paul Geoffrey",
+      " Nicol Williamson",
+      " Corin Redgrave",
+      " Patrick Stewart",
+      " Keith Buckley",
+      " Clive Swift",
+      " Liam Neeson"
+    ]
+  }
+}

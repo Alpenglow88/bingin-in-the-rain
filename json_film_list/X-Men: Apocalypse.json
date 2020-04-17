@@ -1,0 +1,36 @@
+{
+  "film": {
+    "title": "X-Men: Apocalypse",
+    "director": "Bryan Singer",
+    "release_date": "2016-05-18",
+    "film_id": 246655,
+    "original_language": "English",
+    "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qttNmCib9gHhR5q0QoZ3FgmGom9.jpg",
+    "imdbScore": "6.5",
+    "trailerLink": "https://www.youtube.com/watch?v=COvnHv42T-A",
+    "numberOfGenres": 4,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Science Fiction",
+      "3": "Fantasy"
+    },
+    "lead_actors": [
+      " James McAvoy",
+      " Michael Fassbender",
+      " Jennifer Lawrence"
+    ],
+    "supporting_actors": [
+      " Nicholas Hoult",
+      " Oscar Isaac",
+      " Rose Byrne",
+      " Evan Peters",
+      " Josh Helman",
+      " Sophie Turner",
+      " Tye Sheridan",
+      " Lucas Till"
+    ]
+  }
+}

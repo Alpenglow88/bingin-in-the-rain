@@ -1,0 +1,35 @@
+{
+  "film": {
+    "title": "Snowpiercer",
+    "director": "Bong Joon-ho",
+    "release_date": "2013-08-01",
+    "film_id": 110415,
+    "original_language": "Korean",
+    "overview": "In a future where a failed global-warming experiment kills off most life on the planet, a class system evolves aboard the Snowpiercer, a train that travels around the globe via a perpetual-motion engine.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JPx09Rr0Txq2eSQfjq1DEBR5cx.jpg",
+    "imdbScore": "6.8",
+    "trailerLink": "https://www.youtube.com/watch?v=r6UmqNuMdY4",
+    "numberOfGenres": 3,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Action",
+      "1": "Science Fiction",
+      "2": "Drama"
+    },
+    "lead_actors": [
+      " Chris Evans",
+      " Song Kang-ho",
+      " Ed Harris"
+    ],
+    "supporting_actors": [
+      " John Hurt",
+      " Tilda Swinton",
+      " Jamie Bell",
+      " Octavia Spencer",
+      " Ewen Bremner",
+      " Go Ah-sung",
+      " Alison Pill",
+      " Luke Pasqualino"
+    ]
+  }
+}

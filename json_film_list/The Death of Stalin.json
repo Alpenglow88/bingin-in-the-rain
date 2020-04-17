@@ -1,0 +1,34 @@
+{
+  "film": {
+    "title": "The Death of Stalin",
+    "director": "Armando Iannucci",
+    "release_date": "2017-10-20",
+    "film_id": 402897,
+    "original_language": "English",
+    "overview": "When tyrannical dictator Josef Stalin dies in 1953, his parasitic cronies square off in a frantic power struggle to become the next Soviet leader. Among the contenders are the dweebish Georgy Malenkov, the wily Nikita Khrushchev and Lavrenti Beria, the sadistic secret police chief.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAKqG5SpsHU7vI6Fh4UYxFrDDZZ.jpg",
+    "imdbScore": "7",
+    "trailerLink": "https://www.youtube.com/watch?v=ukJ5dMYx2no",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Comedy",
+      "1": "History"
+    },
+    "lead_actors": [
+      " Steve Buscemi",
+      " Simon Russell Beale",
+      " Paddy Considine"
+    ],
+    "supporting_actors": [
+      " Rupert Friend",
+      " Jason Isaacs",
+      " Olga Kurylenko",
+      " Michael Palin",
+      " Andrea Riseborough",
+      " Paul Chahidi",
+      " Dermot Crowley",
+      " Paul Whitehouse"
+    ]
+  }
+}

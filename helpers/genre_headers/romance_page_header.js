@@ -16,8 +16,9 @@ const topChunkTextRomance = `<!DOCTYPE html>
             <ul class="navigation__list navigation__list--inline">
                 <li class="navigation__item"><a href="/" data_test_automation_id="header_home_button">Home</a></li>
                 <li class="navigation__item"><a href="/films" data_test_automation_id="header_screenings_button">Screenings</a></li>
-                <li class="navigation__item"><a href="/genres" data_test_automation_id="header_genres_button">Genres</a></li>
+                <li class="navigation__item"><a href="/genres" data_test_automation_id="header_genres_button" class="is-active">Genres</a></li>
                 <li class="navigation__item"><a href="/waiting" data_test_automation_id="header_random_button">Random Film</a></li>
+                <li class="navigation__item"><a href="/film-request" data_test_automation_id="header_random_button">Request a Film</a></li>
             </ul>
         </nav>
     </div>  

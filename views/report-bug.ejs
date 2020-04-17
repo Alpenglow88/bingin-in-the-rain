@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Under Construction</title>
+    <title>Bingin in the rain - Report a bug</title>
     <link rel="stylesheet" type="text/css" href="/css/style.css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
   </head>
@@ -18,30 +18,63 @@
                   <li class="navigation__item"><a href="/waiting" data_test_automation_id="header_random_button">Random Film</a></li>
                   <li class="navigation__item"><a href="/film-request" data_test_automation_id="header_random_button">Request a Film</a></li>
               </ul>
+              
           </nav>
+          
       
       </div>  </header>
       
       <main>
 
     <div class="heading" data_test_automation_id="main_heading">
-      <h1>Under construction</h1>
+      <p class="centre"> Ooops! You found a bug!</p>
     </div>
-
 
     <div class="container">
-        <fieldset>
-            <div data_test_automation_id="waiting-placeholder" <p>Sorry! This is currently under construction!</p>
-            </div>
-    
-        </fieldset>
+      <br />
+      Well that happens from time to time. If you could let us know what the issue is we can get on that straight away! 
+      <br />
+      <br />
+      Please use the button below to let us know.
+      <br />
+      <br />
     </div>
+
+    <div class="container">
+      <br />
+      There are a few things that we will want to know when you report an issue to us.
+      <br />
+      <br />
+      <ul>
+        <li>The current version of the app is <%= version %> - please include this</li>
+        <br />
+        <li>The specifics - is this a film that is wrong, the language, the release date etc</li>
+        <br />
+        <li>A link to the error would be helpful but not essential</li>
+        <br />
+        <li>Any other useful information - Browser (Chrome/Firefox/Safari), Platform (Mac/Windows/Mobile)</li>
+      </ul>
+      <br />
+      <br />
+    </div>
+
+    <div class="container">
+      <fieldset>
+        <form action="/waiting">
+          <input data_test_automation_id="random_film_list_button" type="submit" class="ghost-button" value="Report a bug" href="/waiting">
+        </form>
+      </fieldset>
+    </div>
+
+
+
+    </div>
+
   </main>
+
   <footer>
-    <%- include("./partials/footer") %>
+    <%- include("./partials/report-bug-footer") %>
   </footer>
+  
   </body>
 </html>
-
-
-

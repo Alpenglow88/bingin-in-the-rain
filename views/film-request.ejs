@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Under Construction</title>
+    <title>Bingin in the rain - Report a bug</title>
     <link rel="stylesheet" type="text/css" href="/css/style.css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
   </head>
@@ -16,32 +16,47 @@
                   <li class="navigation__item"><a href="/films" data_test_automation_id="header_screenings_button">Screenings</a></li>
                   <li class="navigation__item"><a href="/genres" data_test_automation_id="header_genres_button">Genres</a></li>
                   <li class="navigation__item"><a href="/waiting" data_test_automation_id="header_random_button">Random Film</a></li>
-                  <li class="navigation__item"><a href="/film-request" data_test_automation_id="header_random_button">Request a Film</a></li>
+                  <li class="navigation__item"><a href="/film-request" data_test_automation_id="header_random_button" class="is-active">Request a Film</a></li>
               </ul>
+              
           </nav>
+          
       
       </div>  </header>
       
       <main>
 
     <div class="heading" data_test_automation_id="main_heading">
-      <h1>Under construction</h1>
+      <p class="centre"> Nothing here has piqued your interest? Why not request a film to be screened?</p>
     </div>
-
 
     <div class="container">
-        <fieldset>
-            <div data_test_automation_id="waiting-placeholder" <p>Sorry! This is currently under construction!</p>
-            </div>
-    
-        </fieldset>
+      <br />
+      You have seen everything here already / You can't find anything of interest / You just fancy something in particular
+      <br />
+      <br />
+      No worries! Let us know what films you might want to watch! Please use the button below to let us know.
+      <br />
+      <br />
     </div>
+
+    <div class="container">
+      <fieldset>
+        <form action="/waiting">
+          <input data_test_automation_id="random_film_list_button" type="submit" class="ghost-button" value="Request a film" href="/waiting">
+        </form>
+      </fieldset>
+    </div>
+
+
+
+    </div>
+
   </main>
+
   <footer>
     <%- include("./partials/footer") %>
   </footer>
+  
   </body>
 </html>
-
-
-

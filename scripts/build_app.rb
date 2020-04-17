@@ -40,6 +40,14 @@ app.get('/waiting', function (req, res) {
   res.render('waiting', { version: version })
 })
 
+app.get('/report-bug', function (req, res) {
+  res.render('report-bug', { version: version })
+})
+
+app.get('/film-request', function (req, res) {
+  res.render('film-request', { version: version })
+})
+
 app.get('/films-number', function (req, res) {
   res.render('alphabetical_views/number', { version: version })
 })

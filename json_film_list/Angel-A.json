@@ -17,15 +17,11 @@
       "2": "Drama",
       "3": "Fantasy"
     },
-    "lead_actors": " - ",
-    "supporting_actors": [
-      " Serge Riaboukine",
-      " Akim Chir",
-      " Laurent Jumeaucourt",
-      " Solange Milhaud",
-      " Loïc Pora",
-      " Venus Boone",
-      " Eric Balliet"
-    ]
+    "lead_actors": [
+      " Jamel Debbouze",
+      " Rie Rasmussen",
+      " Gilbert Melki"
+    ],
+    "supporting_actors": " - "
   }
 }

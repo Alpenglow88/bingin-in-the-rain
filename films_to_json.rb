@@ -373,7 +373,7 @@ films.each do |film|
   (0..2).each do |i|
     lead_actors << (' ' + credits_rb['cast'][i]['name'])
   rescue NoMethodError
-    lead_actors << " - "
+    break
   end
 
   supporting_actors = []
@@ -381,13 +381,13 @@ films.each do |film|
     (3..cast_credits_count).each do |i|
       supporting_actors << (' ' + credits_rb['cast'][i]['name'])
     rescue NoMethodError
-      supporting_actors << " - "
+      break
     end
   else
     (3..10).each do |i|
       supporting_actors << (' ' + credits_rb['cast'][i]['name'])
     rescue NoMethodError
-      supporting_actors << " - "
+      break
     end
   end
 

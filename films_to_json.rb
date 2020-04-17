@@ -279,7 +279,7 @@ films.each do |film|
   next if film.initial(2) == ' -' || film.initial(1) == '.'
 
   puts film
-  
+
   apicall = "https://api.themoviedb.org/3/search/movie?api_key=\'#{TMDBAPIKEY}\'&query=\'#{film}\'".delete "'"
   response = RestClient.get(apicall)
   rb = JSON.parse(response.body)['results']
@@ -301,7 +301,7 @@ films.each do |film|
   rescue NoMethodError, TypeError
     filmname = rb[0]['title']
   rescue NoMethodError
-    filename = film
+    filmname = film
   end
 
   begin

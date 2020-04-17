@@ -1,0 +1,34 @@
+{
+  "film": {
+    "title": "Invictus",
+    "director": "Clint Eastwood",
+    "release_date": "2009-12-10",
+    "film_id": 22954,
+    "original_language": "English",
+    "overview": "Newly elected President Nelson Mandela knows his nation remains racially and economically divided in the wake of apartheid. Believing he can bring his people together through the universal language of sport, Mandela rallies South Africa's rugby team as they make their historic run to the 1995 Rugby World Cup Championship match.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNUoXM8dtg5mRt90GLrAHBP9IGE.jpg",
+    "imdbScore": "7.2",
+    "trailerLink": "https://www.youtube.com/watch?v=kKLDqC0rLIY",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "History"
+    },
+    "lead_actors": [
+      " Morgan Freeman",
+      " Matt Damon",
+      " Tony Kgoroge"
+    ],
+    "supporting_actors": [
+      " Patrick Mofokeng",
+      " Matt Stern",
+      " Julian Lewis Jones",
+      " Adjoa Andoh",
+      " Marguerite Wheatley",
+      " Leleti Khumalo",
+      " Patrick Lyster",
+      " Scott Eastwood"
+    ]
+  }
+}

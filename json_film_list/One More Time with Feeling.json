@@ -1,0 +1,32 @@
+{
+  "film": {
+    "title": "One More Time with Feeling",
+    "director": "Andrew Dominik",
+    "release_date": "2016-09-08",
+    "film_id": 404141,
+    "original_language": "English",
+    "overview": "Documents the writing, recording and performing of Nick Cave & the Bad Seeds’ sixteenth studio album, Skeleton Tree.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pc41HLSmSrs9t3XcvNzfZGpXaa.jpg",
+    "imdbScore": "8.4",
+    "trailerLink": "https://www.youtube.com/watch?v=Hdl5sox2G6g",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Documentary",
+      "1": "Music"
+    },
+    "lead_actors": [
+      " Nick Cave",
+      " Susie Bick",
+      " Earl Cave"
+    ],
+    "supporting_actors": [
+      " Warren Ellis",
+      " Jim Sclavunos",
+      " Martyn P. Casey",
+      " Thomas Wydler",
+      " George Vjestica",
+      " Else Torp"
+    ]
+  }
+}

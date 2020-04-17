@@ -32,8 +32,7 @@ app.get('/genres', function (req, res) {
 })
 
 app.get('/random-film', function (req, res) {
-  res.render('waiting', { version: version })
-  // res.render(`html_film_views/${randomFilmTitle}`, { version: version })
+  res.render('random-film', { version: version })
 })
 
 app.get('/waiting', function (req, res) {
@@ -229,5 +228,6 @@ app.get('/genre-western', function (req, res) {
 })
 "
 File.delete('./app.js') if File.exist?('./app.js')
+File.delete('./htmlFilmList.json') if File.exist?('./htmlFilmList.json')
 
 File.write('./app.js', app_main)

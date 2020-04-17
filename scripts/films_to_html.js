@@ -48,8 +48,7 @@ function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerL
                   <li class="navigation__item"><a href="/" data_test_automation_id="header_home_button">Home</a></li>
                   <li class="navigation__item"><a href="/films" data_test_automation_id="header_screenings_button" class="is-active">Screenings</a></li>
                   <li class="navigation__item"><a href="/genres" data_test_automation_id="header_genres_button">Genres</a></li>
-                  <li class="navigation__item"><a href="/waiting" data_test_automation_id="header_random_button">Random Film</a></li>
-                  <li class="navigation__item"><a href="/film-request" data_test_automation_id="header_random_button">Request a Film</a></li>
+                  <li class="navigation__item"><a href="/random-film" data_test_automation_id="header_random_button">Random Film</a></li>                  <li class="navigation__item"><a href="/film-request" data_test_automation_id="header_random_button">Request a Film</a></li>
                 </ul>
             </nav>
 
@@ -116,6 +115,10 @@ function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerL
 
   return filmHtml
 }
+
+fs.appendFile('./htmlFilmList.json', "[", function (err) {
+  if (err) throw err;
+});
 
 for (var i = 0; i < numberOfFilms; i++) {
   const filmTitle = films[i]['film']['title']

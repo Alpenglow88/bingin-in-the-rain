@@ -1,6 +1,6 @@
 {
   "name": "bingin-in-the-rain",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "description": "A movie screening availability app for a local server",
   "main": "app.js",
   "scripts": {
@@ -13,12 +13,15 @@
     "film-json": "ruby films_to_json.rb",
     "film-html": "node scripts/films_to_html.js",
     "construct-film-list-ejs": "node scripts/film_list_top.js && node scripts/film_list_divs.js && node scripts/film_list_bottom.js",
+    "random-film-list": "ruby scripts/random_film_list.rb",
+    "build-index": "node scripts/build_index.js",
+    "build-random-page-html": "node scripts/build_random_page_html.js",
 
-    "prep-deploy": "npm run build-app && npm run film-json && npm run film-html && npm run construct-film-list-ejs",
+    "prep-deploy": "npm run build-app && npm run film-json && npm run film-html && npm run construct-film-list-ejs && npm run random-film-list && npm run build-index && npm run build-random-page-html",
     
     "deploy-to-heroku": "git push heroku master",
 
-    "commit-code": "git add -A && git commit -m 'Release commit for Version 1.2.1' && git push",
+    "commit-code": "git add -A && git commit -m 'Release commit for Version 1.3.10 && git push",
 
     "full-deploy": "npm run prep-deploy && npm run commit-code && npm run deploy-to-heroku"
   },

@@ -16,16 +16,15 @@
       "1": "Horror",
       "2": "Thriller"
     },
-    "lead_actors": [
-      " Elias Schwarz",
-      " Lukas Schwarz",
-      " Susanne Wuest"
-    ],
+    "lead_actors": " - ",
     "supporting_actors": [
       " Hans Escher",
       " Elfriede Schatz",
       " Karl Purker",
-      " Georg Deliovsky"
+      " Georg Deliovsky",
+      " Christian Steindl",
+      " Christian Schatz",
+      " Erwin Schmalzbauer"
     ]
   }
 }

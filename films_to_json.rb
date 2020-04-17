@@ -30,10 +30,10 @@ class String
 end
 
 # scans selected folder for file names and formats them correctl
-File.write('./filelist1.json', Dir.entries('./test_data/home movies').drop(2))
-File.write('./filelist2.json', Dir.entries('./test_data/second_hdd').drop(2))
-# File.write('./filelist1.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
-# File.write('./filelist2.json', Dir.entries('/Volumes/Watchum2/.').drop(2))
+# File.write('./filelist1.json', Dir.entries('./test_data/home movies').drop(2))
+# File.write('./filelist2.json', Dir.entries('./test_data/second_hdd').drop(2))
+File.write('./filelist1.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
+File.write('./filelist2.json', Dir.entries('/Volumes/Watchum2/.').drop(2))
 list1 = File.read('filelist1.json').tr('_', '-')
             .gsub!('.mp4', '')
             .gsub('.1.1.2', '')
@@ -278,7 +278,7 @@ films.each do |film|
 
   next if film.initial(2) == ' -' || film.initial(1) == '.'
 
-  # puts film
+  puts film
   
   apicall = "https://api.themoviedb.org/3/search/movie?api_key=\'#{TMDBAPIKEY}\'&query=\'#{film}\'".delete "'"
   response = RestClient.get(apicall)
@@ -372,16 +372,22 @@ films.each do |film|
   lead_actors = []
   (0..2).each do |i|
     lead_actors << (' ' + credits_rb['cast'][i]['name'])
+  rescue NoMethodError
+    lead_actors = " - "
   end
 
   supporting_actors = []
   if cast_credits_count < 7
     (3..cast_credits_count).each do |i|
       supporting_actors << (' ' + credits_rb['cast'][i]['name'])
+    rescue NoMethodError
+      lead_actors = " - "
     end
   else
-    (3..6).each do |i|
+    (3..10).each do |i|
       supporting_actors << (' ' + credits_rb['cast'][i]['name'])
+    rescue NoMethodError
+      lead_actors = " - "
     end
   end
 

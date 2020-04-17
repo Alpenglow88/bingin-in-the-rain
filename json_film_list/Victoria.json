@@ -1,0 +1,28 @@
+{
+  "film": {
+    "title": "Victoria",
+    "director": "Sebastian Schipper",
+    "release_date": "2015-06-11",
+    "film_id": 320007,
+    "original_language": "German",
+    "overview": "A young Spanish woman who has newly moved to Berlin finds her flirtation with a local guy turn potentially deadly as their night out with his friends reveals a dangerous secret.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNIppgHZTlDqypRO1qad5x7H8Ak.jpg",
+    "imdbScore": "7.8",
+    "trailerLink": "https://www.youtube.com/watch?v=133107444",
+    "numberOfGenres": 3,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Crime",
+      "1": "Drama",
+      "2": "Thriller"
+    },
+    "lead_actors": " - ",
+    "supporting_actors": [
+      " Burak Yigit",
+      " Max Mauff",
+      " André Hennicke",
+      " Lena Klenke",
+      " Eike Frederik Schulz"
+    ]
+  }
+}

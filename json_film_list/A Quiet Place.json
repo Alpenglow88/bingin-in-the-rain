@@ -1,0 +1,30 @@
+{
+  "film": {
+    "title": "A Quiet Place",
+    "director": "John Krasinski",
+    "release_date": "2018-04-03",
+    "film_id": 447332,
+    "original_language": "English",
+    "overview": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+    "imdbScore": "7.3",
+    "trailerLink": "https://www.youtube.com/watch?v=WR7cc5t7tv8",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Horror",
+      "1": "Drama",
+      "2": "Science Fiction"
+    },
+    "lead_actors": " - ",
+    "supporting_actors": [
+      " Noah Jupe",
+      " Cade Woodward",
+      " Leon Russom",
+      " Doris McCarthy",
+      " Evangelina Cavoli",
+      " Ezekiel Cavoli",
+      " Rhoda Pell"
+    ]
+  }
+}

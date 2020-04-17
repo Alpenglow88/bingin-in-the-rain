@@ -1,0 +1,34 @@
+{
+  "film": {
+    "title": "Bone Tomahawk",
+    "director": "S. Craig Zahler",
+    "release_date": "2015-10-23",
+    "film_id": 294963,
+    "original_language": "English",
+    "overview": "During a shootout in a saloon, Sheriff Hunt injures a suspicious stranger. One of the villagers takes care of him in prison. One day they both disappear – only the spear of a cannibal tribe is found. Hunt and a few of his men go in search of the prisoner and his nurse.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEvYuXA10XrpUwnzbkjb5IByTQM.jpg",
+    "imdbScore": "6.8",
+    "trailerLink": "https://www.youtube.com/watch?v=0ZbwtHi-KSE",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Horror",
+      "1": "Western"
+    },
+    "lead_actors": [
+      " Kurt Russell",
+      " Patrick Wilson",
+      " Matthew Fox"
+    ],
+    "supporting_actors": [
+      " Richard Jenkins",
+      " Lili Simmons",
+      " Evan Jonigkeit",
+      " David Arquette",
+      " Fred Melamed",
+      " Sid Haig",
+      " Maestro Harrell",
+      " James Tolkan"
+    ]
+  }
+}

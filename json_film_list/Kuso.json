@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "Kuso",
+    "director": "Flying Lotus",
+    "release_date": "2017-01-21",
+    "film_id": 411549,
+    "original_language": "English",
+    "overview": "Broadcasting through a makeshift network of discarded televisions, this story is tangled up in the aftermath of Los Angeles's worst earthquake nightmare. Travel between screens and aftershocks into the twisted lives of the survived.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Pl3Vptkzaum6FZ5K6iDqybuhp4.jpg",
+    "imdbScore": "6.3",
+    "trailerLink": "https://www.youtube.com/watch?v=SLxKJHBhZP0",
+    "numberOfGenres": 5,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Horror",
+      "1": "Comedy",
+      "2": "Drama",
+      "3": "Fantasy",
+      "4": "Animation"
+    },
+    "lead_actors": [
+      " Iesha Coston",
+      " Oumi Zumi",
+      " David Firth"
+    ],
+    "supporting_actors": [
+      " George Clinton",
+      " Byron Bowers",
+      " Zachary Fox",
+      " Anders Holm",
+      " Tim Heidecker",
+      " Hannibal Buress",
+      " Donnell Rawlings",
+      " Mali Matsuda"
+    ]
+  }
+}

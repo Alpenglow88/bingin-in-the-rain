@@ -1,0 +1,34 @@
+{
+  "film": {
+    "title": "Hell Baby",
+    "director": "Ben Garant",
+    "release_date": "2013-09-06",
+    "film_id": 159092,
+    "original_language": "English",
+    "overview": "After she and her husband move into a haunted house, a woman gives birth to a demonic infant that wreaks havoc.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1IaLdkcjxAfaOGmjJzP6rfAw8H.jpg",
+    "imdbScore": "5.1",
+    "trailerLink": "https://www.youtube.com/watch?v=EOAQuBtfNlc",
+    "numberOfGenres": 2,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Comedy",
+      "1": "Horror"
+    },
+    "lead_actors": [
+      " Rob Corddry",
+      " Leslie Bibb",
+      " Keegan-Michael Key"
+    ],
+    "supporting_actors": [
+      " Paul Scheer",
+      " Rob Huebel",
+      " Thomas Lennon",
+      " Michael Ian Black",
+      " Brittney Alger",
+      " Dave Holmes",
+      " Alex Berg",
+      " Riki Lindhome"
+    ]
+  }
+}

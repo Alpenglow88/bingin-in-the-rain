@@ -1,0 +1,33 @@
+{
+  "film": {
+    "title": "Wild Bill",
+    "director": "Dexter Fletcher",
+    "release_date": "2011-10-21",
+    "film_id": 86593,
+    "original_language": "English",
+    "overview": "Out on parole after 8 years inside Bill Hayward returns home to find his now 11 and 15 year old sons abandoned by their mother and fending for themselves. Unwilling to play Dad, an uncaring Bill is determined to move on.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KKZ8NNVVXfURBeXXw2BrZhHjb4.jpg",
+    "imdbScore": "6.8",
+    "trailerLink": "https://www.youtube.com/watch?v=RHJXLYYLOfM",
+    "numberOfGenres": 1,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Drama"
+    },
+    "lead_actors": [
+      " Charlie Creed-Miles",
+      " Will Poulter",
+      " Sammy Williams"
+    ],
+    "supporting_actors": [
+      " Leo Gregory",
+      " Andy Serkis",
+      " Jason Flemyng",
+      " Jaime Winstone",
+      " Liz White",
+      " Sean Pertwee",
+      " Olivia Williams",
+      " Marc Warren"
+    ]
+  }
+}

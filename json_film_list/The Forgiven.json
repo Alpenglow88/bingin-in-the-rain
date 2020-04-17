@@ -1,0 +1,24 @@
+{
+  "film": {
+    "title": "The Forgiven",
+    "director": "Roland Joffé",
+    "release_date": "2018-03-09",
+    "film_id": 450766,
+    "original_language": "English",
+    "overview": "After the end of Apartheid, Archbishop Desmond Tutu meets with a brutal murderer seeking redemption.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUQK6gWivZ7q2ehkh8D2YFCqMq9.jpg",
+    "imdbScore": "6.6",
+    "trailerLink": "https://www.youtube.com/watch?v=_lpuc162YpI",
+    "numberOfGenres": 1,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Thriller"
+    },
+    "lead_actors": [
+      " Forest Whitaker",
+      " Eric Bana",
+      " Jeff Gum"
+    ],
+    "supporting_actors": " - "
+  }
+}

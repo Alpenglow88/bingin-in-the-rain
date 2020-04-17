@@ -1,0 +1,35 @@
+{
+  "film": {
+    "title": "The Last Days on Mars",
+    "director": "Ruairi Robinson",
+    "release_date": "2013-08-11",
+    "film_id": 190847,
+    "original_language": "English",
+    "overview": "On the last day of the first manned mission to Mars, a crew member of Tantalus Base believes he has made an astounding discovery – fossilized evidence of bacterial life. Unwilling to let the relief crew claims all the glory, he disobeys orders to pack up and goes out on an unauthorized expedition to collect further samples. But a routine excavation turns to disaster when the porous ground collapses and he falls into a deep crevice and near certain death. His devastated colleagues attempt to recover his body. However, when another vanishes, they start to suspect that the life-form they have discovered is not without danger.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxcQkAhpn8cvJTsU8PXblI5Qq8F.jpg",
+    "imdbScore": "5.3",
+    "trailerLink": "https://www.youtube.com/watch?v=Ae3vglKCtdo",
+    "numberOfGenres": 3,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Science Fiction",
+      "1": "Thriller",
+      "2": "Horror"
+    },
+    "lead_actors": [
+      " Liev Schreiber",
+      " Romola Garai",
+      " Elias Koteas"
+    ],
+    "supporting_actors": [
+      " Olivia Williams",
+      " Johnny Harris",
+      " Goran Kostić",
+      " Tom Cullen",
+      " Yusra Warsama",
+      " Patrick Joseph Byrnes",
+      " Lewis Macleod",
+      " Paul Warren"
+    ]
+  }
+}

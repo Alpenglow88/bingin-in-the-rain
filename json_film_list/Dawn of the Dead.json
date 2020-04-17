@@ -1,0 +1,36 @@
+{
+  "film": {
+    "title": "Dawn of the Dead",
+    "director": "Zack Snyder",
+    "release_date": "2004-03-19",
+    "film_id": 924,
+    "original_language": "English",
+    "overview": "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QwIIAZzPgYcninV2tiy0cabbhI.jpg",
+    "imdbScore": "6.9",
+    "trailerLink": "https://www.youtube.com/watch?v=DV8mJcuYVaA",
+    "numberOfGenres": 4,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Fantasy",
+      "1": "Horror",
+      "2": "Action",
+      "3": "Drama"
+    },
+    "lead_actors": [
+      " Sarah Polley",
+      " Ving Rhames",
+      " Jake Weber"
+    ],
+    "supporting_actors": [
+      " Mekhi Phifer",
+      " Ty Burrell",
+      " Matt Frewer",
+      " Michael Kelly",
+      " Kevin Zegers",
+      " Lindy Booth",
+      " Jayne Eastwood",
+      " Boyd Banks"
+    ]
+  }
+}

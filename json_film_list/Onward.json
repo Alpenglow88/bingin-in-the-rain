@@ -17,6 +17,17 @@
       "2": "Adventure",
       "3": "Comedy",
       "4": "Fantasy"
-    }
+    },
+    "lead_actors": [
+      " Tom Holland",
+      " Chris Pratt",
+      " Julia Louis-Dreyfus"
+    ],
+    "supporting_actors": [
+      " Octavia Spencer",
+      " Mel Rodriguez",
+      " Kyle Bornheimer",
+      " Lena Waithe"
+    ]
   }
 }

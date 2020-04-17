@@ -10,12 +10,23 @@
     "imdbScore": "7.9",
     "trailerLink": "https://www.youtube.com/watch?v=p64O8KAHHaQ",
     "numberOfGenres": 4,
-    "watchOn": "Apple TV",
+    "watchOn": "Mac Mini",
     "genres": {
       "0": "Animation",
       "1": "Drama",
       "2": "War",
       "3": "Family"
-    }
+    },
+    "lead_actors": [
+      " Saara Chaudry",
+      " Soma Bhatia",
+      " Laara Sadiq"
+    ],
+    "supporting_actors": [
+      " Shaista Latif",
+      " Ali Badshah",
+      " Kawa Ada",
+      " Noorin Gulamgaus"
+    ]
   }
 }

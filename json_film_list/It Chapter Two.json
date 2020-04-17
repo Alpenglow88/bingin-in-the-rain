@@ -15,6 +15,17 @@
       "0": "Horror",
       "1": "Drama",
       "2": "Fantasy"
-    }
+    },
+    "lead_actors": [
+      " Jessica Chastain",
+      " James McAvoy",
+      " Bill Hader"
+    ],
+    "supporting_actors": [
+      " Isaiah Mustafa",
+      " Jay Ryan",
+      " James Ransone",
+      " Andy Bean"
+    ]
   }
 }

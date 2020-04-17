@@ -15,6 +15,17 @@
       "0": "Action",
       "1": "Drama",
       "2": "History"
-    }
+    },
+    "lead_actors": [
+      " Akshay Kumar",
+      " Parineeti Chopra",
+      " Edward Sonnenblick"
+    ],
+    "supporting_actors": [
+      " Bhagyashree",
+      " Vikram Kochhar",
+      " R. Bhakti Klein",
+      " Mark Bennington"
+    ]
   }
 }

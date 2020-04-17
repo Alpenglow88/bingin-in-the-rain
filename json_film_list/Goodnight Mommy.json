@@ -15,6 +15,17 @@
       "0": "Drama",
       "1": "Horror",
       "2": "Thriller"
-    }
+    },
+    "lead_actors": [
+      " Elias Schwarz",
+      " Lukas Schwarz",
+      " Susanne Wuest"
+    ],
+    "supporting_actors": [
+      " Hans Escher",
+      " Elfriede Schatz",
+      " Karl Purker",
+      " Georg Deliovsky"
+    ]
   }
 }

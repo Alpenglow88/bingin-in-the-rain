@@ -28,7 +28,7 @@ if (genres[x] === "Science Fiction") {
   return genreList
 }
 
-function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle, original_language, release_date, director, watchOn ) {
+function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle, original_language, release_date, director, watchOn, lead_actors, supporting_actors ) {
   let filmHtml = `<!DOCTYPE html>
 <html>
 
@@ -50,7 +50,6 @@ function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerL
                             data_test_automation_id="header_screenings_button">Screenings</a></li>
                     <li class="navigation__item"><a href="/waiting"
                             data_test_automation_id="header_random_button">Random Film</a></li>
-                            <li class="navigation__item"><a href="/waiting" data_test_automation_id="header_random_button">Report a Bug</a></li>
                 </ul>
             </nav>
 
@@ -86,21 +85,26 @@ function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerL
 
                 ${genreList}
                 <p> </p>
-            </div>
+                </div>
 
-            <div class="body-wide" data_test_automation_id="film_overview_one" <p>${filmOverview}</p>
+            <h2 class="container" <p>Overview</p></h2>
+            <div class="container" <p>${filmOverview}</p>
             </div>
-        </div>
-        <div=class="container">
-            <div class="body-wide" <p>Directed by - ${director}</p>
+            <h2 class="container" <p>Release Date</p></h2>
+            <div class="container" <p>${release_date}</p>
             </div>
-            <div class="body-wide" <p>Language - ${original_language}</p>
+            <h2 class="container" <p>Languages</p></h2>
+            <div class="container" <p>${original_language}</p>
             </div>
-            <div class="body-wide" <p>Release Date - ${release_date}</p>
+            <h2 class="container" <p>Director</p></h2>
+            <div class="container" <p>${director}</p>
             </div>
-            <div class="body-wide" <p>Main Actors - </p>
+            <h2 class="container" <p>Lead Actors</p></h2>
+            <div class="container" <p>${lead_actors}</p>
             </div>
-            </div>
+            <h2 class="container" <p>Supporting Actors</p></h2>
+            <div class="container" <p>${supporting_actors}</p>
+
     </main>
       <footer>
     <%- include("../partials/footer") %>
@@ -123,12 +127,14 @@ for (var i = 0; i < numberOfFilms; i++) {
   const release_date = films[i]['film']['release_date']
   const director = films[i]['film']['director']
   const watchOn = films[i]['film']['watchOn']
+  const lead_actors = films[i]['film']['lead_actors']
+  const supporting_actors = films[i]['film']['supporting_actors']
 
   const genreList = generateFilmGenres(i)
 
 const htmlTitle = filmTitle.replace(/\s/g, '')
 
-fs.writeFile(`./views/html_film_views/${htmlTitle}.ejs`, generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle, original_language, release_date, director, watchOn), function (err) {
+fs.writeFile(`./views/html_film_views/${htmlTitle}.ejs`, generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle, original_language, release_date, director, watchOn, lead_actors, supporting_actors), function (err) {
   if (err) throw err;
 });
 

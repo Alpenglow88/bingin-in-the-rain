@@ -13,6 +13,17 @@
     "watchOn": "Apple TV",
     "genres": {
       "0": "Drama"
-    }
+    },
+    "lead_actors": [
+      " Hugh Jackman",
+      " Michelle Williams",
+      " Zac Efron"
+    ],
+    "supporting_actors": [
+      " Zendaya",
+      " Rebecca Ferguson",
+      " Keala Settle",
+      " Yahya Abdul-Mateen II"
+    ]
   }
 }

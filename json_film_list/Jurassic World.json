@@ -16,6 +16,17 @@
       "1": "Adventure",
       "2": "Science Fiction",
       "3": "Thriller"
-    }
+    },
+    "lead_actors": [
+      " Chris Pratt",
+      " Bryce Dallas Howard",
+      " Irrfan Khan"
+    ],
+    "supporting_actors": [
+      " Vincent D'Onofrio",
+      " Nick Robinson",
+      " Ty Simpkins",
+      " Jake Johnson"
+    ]
   }
 }

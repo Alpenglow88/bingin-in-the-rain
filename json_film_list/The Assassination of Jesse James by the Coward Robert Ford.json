@@ -15,6 +15,17 @@
       "0": "Action",
       "1": "Drama",
       "2": "Western"
-    }
+    },
+    "lead_actors": [
+      " Brad Pitt",
+      " Casey Affleck",
+      " Sam Rockwell"
+    ],
+    "supporting_actors": [
+      " Sam Shepard",
+      " Mary-Louise Parker",
+      " Paul Schneider",
+      " Jeremy Renner"
+    ]
   }
 }

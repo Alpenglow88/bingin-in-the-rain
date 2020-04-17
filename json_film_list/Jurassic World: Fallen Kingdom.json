@@ -15,6 +15,17 @@
       "0": "Action",
       "1": "Adventure",
       "2": "Science Fiction"
-    }
+    },
+    "lead_actors": [
+      " Chris Pratt",
+      " Bryce Dallas Howard",
+      " Rafe Spall"
+    ],
+    "supporting_actors": [
+      " Justice Smith",
+      " Daniella Pineda",
+      " James Cromwell",
+      " Toby Jones"
+    ]
   }
 }

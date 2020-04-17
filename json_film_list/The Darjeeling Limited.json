@@ -15,6 +15,17 @@
       "0": "Adventure",
       "1": "Drama",
       "2": "Comedy"
-    }
+    },
+    "lead_actors": [
+      " Owen Wilson",
+      " Jason Schwartzman",
+      " Adrien Brody"
+    ],
+    "supporting_actors": [
+      " Bill Murray",
+      " Anjelica Huston",
+      " Camilla Rutherford",
+      " Wallace Wolodarsky"
+    ]
   }
 }

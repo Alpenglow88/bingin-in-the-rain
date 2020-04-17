@@ -17,6 +17,17 @@
       "2": "Mystery",
       "3": "Thriller",
       "4": "Science Fiction"
-    }
+    },
+    "lead_actors": [
+      " Jouji Nakata",
+      " Jun Fukuyama",
+      " Daisuke Hirakawa"
+    ],
+    "supporting_actors": [
+      " Akiko Yajima",
+      " Yoshinari Torii",
+      " Mai Nakahara",
+      " Chie Nakamura"
+    ]
   }
 }

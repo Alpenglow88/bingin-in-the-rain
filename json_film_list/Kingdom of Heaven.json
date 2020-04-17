@@ -17,6 +17,17 @@
       "2": "Adventure",
       "3": "History",
       "4": "War"
-    }
+    },
+    "lead_actors": [
+      " Orlando Bloom",
+      " Eva Green",
+      " Jeremy Irons"
+    ],
+    "supporting_actors": [
+      " Marton Csokas",
+      " Brendan Gleeson",
+      " Liam Neeson",
+      " Edward Norton"
+    ]
   }
 }

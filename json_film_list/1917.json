@@ -16,6 +16,17 @@
       "1": "Drama",
       "2": "Action",
       "3": "Thriller"
-    }
+    },
+    "lead_actors": [
+      " George MacKay",
+      " Dean-Charles Chapman",
+      " Mark Strong"
+    ],
+    "supporting_actors": [
+      " Andrew Scott",
+      " Richard Madden",
+      " Claire Duburcq",
+      " Colin Firth"
+    ]
   }
 }

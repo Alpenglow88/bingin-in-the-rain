@@ -15,6 +15,17 @@
       "0": "Adventure",
       "1": "Fantasy",
       "2": "Action"
-    }
+    },
+    "lead_actors": [
+      " Ian McKellen",
+      " Martin Freeman",
+      " Richard Armitage"
+    ],
+    "supporting_actors": [
+      " James Nesbitt",
+      " Ken Stott",
+      " Sylvester McCoy",
+      " Barry Humphries"
+    ]
   }
 }

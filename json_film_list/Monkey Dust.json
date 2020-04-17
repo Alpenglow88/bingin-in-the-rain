@@ -16,6 +16,17 @@
       "1": "Adventure",
       "2": "Thriller",
       "3": "War"
-    }
+    },
+    "lead_actors": [
+      " Chuck Norris",
+      " M. Emmet Walsh",
+      " David Tress"
+    ],
+    "supporting_actors": [
+      " Lenore Kasdorf",
+      " James Hong",
+      " Ernie Ortega",
+      " Pierrino Mascarino"
+    ]
   }
 }

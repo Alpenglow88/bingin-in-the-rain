@@ -1,26 +1,33 @@
 {
   "film": {
-    "title": "AKIRA",
-    "director": "",
-    "release_date": null,
-    "film_id": 592646,
-    "original_language": "English",
-    "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2",
-    "imdbScore": "8.4",
-    "trailerLink": "https://www.youtube.com/watch?v=4YKpBYo61Cs",
+    "title": "Akira",
+    "director": "A.R. Murugadoss",
+    "release_date": "2016-09-01",
+    "film_id": 404579,
+    "original_language": "Hindi",
+    "overview": "Akira Sharma is your average Jane from Jodhpur. Early in life she sees an atrocity committed on a neighbour and learns to defend herself. And, a spitfire is born.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jU0gw5z6JrazhGOh4UfULKqt268.jpg",
+    "imdbScore": "5.9",
+    "trailerLink": "https://www.youtube.com/watch?v=QsCkty3mpg0",
     "numberOfGenres": 3,
     "watchOn": "Mac Mini",
     "genres": {
       "0": "Action",
-      "1": "Drama",
-      "2": "Science Fiction"
+      "1": "Crime",
+      "2": "Thriller"
     },
     "lead_actors": [
-
+      " Sonakshi Sinha",
+      " Konkona Sen Sharma",
+      " Urmila Mahanta"
     ],
     "supporting_actors": [
-
+      " Anurag Kashyap",
+      " Amit Sadh",
+      " Raai Laxmi",
+      " Mithun Chakraborty",
+      " Atul Kulkarni",
+      " Smita Jaykar"
     ]
   }
 }

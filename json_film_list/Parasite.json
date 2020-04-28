@@ -1,36 +1,35 @@
 {
   "film": {
     "title": "Parasite",
-    "director": "Joseph Zito",
+    "director": "Bong Joon-ho",
     "release_date": "-",
-    "film_id": "15379",
+    "film_id": 496243,
     "original_language": "Unknown",
     "overview": "No Overview to display",
     "imageUrl": "public/assets/not_available.jpg",
     "imdbScore": "-",
-    "trailerLink": "https://www.youtube.com/watch?v=CgmADv4tkLQ",
-    "numberOfGenres": 4,
+    "trailerLink": "https://www.youtube.com/watch?v=isOGD_7hNIY",
+    "numberOfGenres": 3,
     "watchOn": "Mac Mini",
     "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Thriller",
-      "3": "War"
+      "0": "Comedy",
+      "1": "Thriller",
+      "2": "Drama"
     },
     "lead_actors": [
-      " Chuck Norris",
-      " M. Emmet Walsh",
-      " David Tress"
+      " Song Kang-ho",
+      " Lee Sun-kyun",
+      " Cho Yeo-jeong"
     ],
     "supporting_actors": [
-      " Lenore Kasdorf",
-      " James Hong",
-      " Ernie Ortega",
-      " Pierrino Mascarino",
-      " Erich Anderson",
-      " Joseph Carberry",
-      " Avi Kleinberger",
-      " Willie Williams"
+      " Choi Woo-shik",
+      " Park So-dam",
+      " Lee Jung-eun",
+      " Chang Hyae-jin",
+      " Park Myung-hoon",
+      " Jung Ji-so",
+      " Jung Hyeon-jun",
+      " Park Keun-rok"
     ]
   }
 }

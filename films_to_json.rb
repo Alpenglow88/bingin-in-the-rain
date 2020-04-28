@@ -30,10 +30,10 @@ class String
 end
 
 # scans selected folder for file names and formats them correctly
-# File.write('./filelist1.json', Dir.entries('./test_data/home movies').drop(2))
-# File.write('./filelist2.json', Dir.entries('./test_data/second_hdd').drop(2))
-File.write('./filelist1.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
-File.write('./filelist2.json', Dir.entries('/Volumes/Watchum2/.').drop(2))
+File.write('./filelist1.json', Dir.entries('./test_data/home movies').drop(2))
+File.write('./filelist2.json', Dir.entries('./test_data/second_hdd').drop(2))
+# File.write('./filelist1.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
+# File.write('./filelist2.json', Dir.entries('/Volumes/Watchum2/.').drop(2))
 list1 = File.read('filelist1.json').tr('_', '-')
             .gsub!('.mp4', '')
             .gsub('.1.1.2', '')
@@ -281,6 +281,7 @@ films.each do |film|
   puts film
 
   apicall = "https://api.themoviedb.org/3/search/movie?api_key=\'#{TMDBAPIKEY}\'&query=\'#{film}\'".delete "'"
+
   response = RestClient.get(apicall)
   rb = JSON.parse(response.body)['results']
   # File.write('./response.json', JSON.pretty_generate(rb))
@@ -295,11 +296,14 @@ films.each do |film|
 
   fuzzy_find = FuzzyMatch.new(object).find(film)
   film_entry = object.index(fuzzy_find)
+  # puts film_entry
 
   begin
     filmname = rb[film_entry]['title']
+    filmname_check = 1
   rescue NoMethodError, TypeError
     filmname = rb[0]['title']
+    filmname_check = 0
   end
 
   begin
@@ -320,10 +324,10 @@ films.each do |film|
     vote_average = '-'
   end
 
-  begin
+  if filmname_check == 1
     film_id = rb[film_entry]['id']
-  rescue NoMethodError, TypeError
-    film_id = '15379'
+  elsif filmname_check == 0
+    film_id = rb[0]['id']
   end
 
   begin
@@ -361,7 +365,7 @@ films.each do |film|
       job = credits_rb['crew'][i]['job']
       name = credits_rb['crew'][i]['name']
     rescue NoMethodError
-      job = 'undefined'
+      job = 'Director'
       name = 'undefined'
     end
     director_name = name if job == 'Director'
@@ -409,7 +413,7 @@ films.each do |film|
     film_trailer_key = trailer_rb['results'][i]['key']
     break
   rescue NoMethodError
-    film_trailer_key = '4YKpBYo61Cs'
+    film_trailer_key = '-'
   end
 
   film_trailer = "https://www.youtube.com/watch?v=\'#{film_trailer_key}\'".delete "'"

@@ -309,19 +309,19 @@ films.each do |film|
   begin
     filmoverview = rb[film_entry]['overview']
   rescue NoMethodError, TypeError
-    filmoverview = 'No Overview to display'
+    filmoverview = rb[0]['overview']
   end
 
   begin
     poster_path_filmname = rb[film_entry]['poster_path']
   rescue NoMethodError, TypeError
-    poster_path_filmname = 'none'
+    poster_path_filmname = rb[0]['poster_path']
   end
 
   begin
     vote_average = rb[film_entry]['vote_average']
   rescue NoMethodError, TypeError
-    vote_average = '-'
+    vote_average = rb[0]['vote_average']
   end
 
   if filmname_check == 1
@@ -334,7 +334,8 @@ films.each do |film|
     language_code = rb[film_entry]['original_language']
     original_language = ISO_639.find(language_code).english_name
   rescue NoMethodError, TypeError
-    original_language = 'Unknown'
+    language_code = rb[0]['original_language']
+    original_language = ISO_639.find(language_code).english_name
   end
 
   begin

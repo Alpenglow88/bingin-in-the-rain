@@ -1,0 +1,24 @@
+{
+  "film": {
+    "title": "Don't Call Me Bigfoot",
+    "director": "",
+    "release_date": "2020-03-17",
+    "film_id": 689154,
+    "original_language": "English",
+    "overview": "There are tales all around the world of big, hairy, bipedal, ape-like creatures that dwell in the wilderness and leave footprints. But whatever you do, don't call them Bigfoot. From the Patterson - Gimlin film and other sightings to known hoaxes and bigfoot hunters, this documentary delves deep into the mythology, sightings and people who search out these mysterious beings.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKks7WcZ7AbyJmxld0ceUD9ortc.jpg",
+    "imdbScore": "0",
+    "trailerLink": "https://www.youtube.com/watch?v=-",
+    "numberOfGenres": 1,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Documentary"
+    },
+    "lead_actors": [
+
+    ],
+    "supporting_actors": [
+
+    ]
+  }
+}

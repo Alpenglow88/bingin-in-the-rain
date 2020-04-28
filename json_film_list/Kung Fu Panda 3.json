@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "Kung Fu Panda 3",
+    "director": "Alessandro Carloni",
+    "release_date": "2016-01-23",
+    "film_id": 140300,
+    "original_language": "English",
+    "overview": "Continuing his \"legendary adventures of awesomeness\", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to his home.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlr2oxuYsHXt0wdtmzaOuVBoNC0.jpg",
+    "imdbScore": "6.7",
+    "trailerLink": "https://www.youtube.com/watch?v=10r9ozshGVE",
+    "numberOfGenres": 5,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Animation",
+      "3": "Comedy",
+      "4": "Family"
+    },
+    "lead_actors": [
+      " Jack Black",
+      " Bryan Cranston",
+      " Dustin Hoffman"
+    ],
+    "supporting_actors": [
+      " Angelina Jolie",
+      " J.K. Simmons",
+      " Jackie Chan",
+      " Seth Rogen",
+      " Lucy Liu",
+      " David Cross",
+      " Kate Hudson",
+      " James Hong"
+    ]
+  }
+}

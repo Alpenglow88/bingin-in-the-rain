@@ -1,0 +1,34 @@
+{
+  "film": {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "director": "David Yates",
+    "release_date": "2009-07-07",
+    "film_id": 767,
+    "original_language": "English",
+    "overview": "As Harry begins his sixth year at Hogwarts, he discovers an old book marked as 'Property of the Half-Blood Prince', and begins to learn more about Lord Voldemort's dark past.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ag21otqbeynZPGjEbzyr3X5Us0j.jpg",
+    "imdbScore": "7.7",
+    "trailerLink": "https://www.youtube.com/watch?v=JYLdTuL9Wjw",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Fantasy"
+    },
+    "lead_actors": [
+      " Daniel Radcliffe",
+      " Rupert Grint",
+      " Emma Watson"
+    ],
+    "supporting_actors": [
+      " Tom Felton",
+      " Michael Gambon",
+      " Jim Broadbent",
+      " Helena Bonham Carter",
+      " Robbie Coltrane",
+      " Maggie Smith",
+      " Alan Rickman",
+      " Timothy Spall"
+    ]
+  }
+}

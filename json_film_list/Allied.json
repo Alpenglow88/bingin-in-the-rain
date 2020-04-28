@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "Allied",
+    "director": "Robert Zemeckis",
+    "release_date": "2016-11-17",
+    "film_id": 369885,
+    "original_language": "English",
+    "overview": "In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sV4lXM32quwminL3TP36nlNPp7Q.jpg",
+    "imdbScore": "6.7",
+    "trailerLink": "https://www.youtube.com/watch?v=HSCQWX-pUSg",
+    "numberOfGenres": 5,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Action",
+      "1": "Drama",
+      "2": "War",
+      "3": "Romance",
+      "4": "Thriller"
+    },
+    "lead_actors": [
+      " Brad Pitt",
+      " Marion Cotillard",
+      " Jared Harris"
+    ],
+    "supporting_actors": [
+      " Simon McBurney",
+      " Lizzy Caplan",
+      " Matthew Goode",
+      " Anton Lesser",
+      " August Diehl",
+      " Camille Cottin",
+      " Charlotte Hope",
+      " Marion Bailey"
+    ]
+  }
+}

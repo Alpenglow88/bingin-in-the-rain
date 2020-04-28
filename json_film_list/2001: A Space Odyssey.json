@@ -1,0 +1,35 @@
+{
+  "film": {
+    "title": "2001: A Space Odyssey",
+    "director": "Stanley Kubrick",
+    "release_date": "1968-04-09",
+    "film_id": 62,
+    "original_language": "English",
+    "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmmYdPa8Lxx999Af9vnVP4XQ1V6.jpg",
+    "imdbScore": "8.1",
+    "trailerLink": "https://www.youtube.com/watch?v=XHjIqQBsPjk",
+    "numberOfGenres": 3,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Science Fiction",
+      "1": "Mystery",
+      "2": "Adventure"
+    },
+    "lead_actors": [
+      " Keir Dullea",
+      " Gary Lockwood",
+      " William Sylvester"
+    ],
+    "supporting_actors": [
+      " Douglas Rain",
+      " Daniel Richter",
+      " Leonard Rossiter",
+      " Margaret Tyzack",
+      " Robert Beatty",
+      " Sean Sullivan",
+      " Frank Miller",
+      " Ed Bishop"
+    ]
+  }
+}

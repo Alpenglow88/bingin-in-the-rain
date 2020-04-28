@@ -1,14 +1,19 @@
 {
   "film": {
     "title": "1917",
-    "director": "Sam Mendes",
+    "director": "Shawn Mendes",
     "release_date": "2019-12-25",
     "film_id": 530915,
     "original_language": "English",
     "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuGiPiGMYMkSosOJ3BQjDEAiwtO.jpg",
+<<<<<<< HEAD
     "imdbScore": "8",
     "trailerLink": "https://www.youtube.com/watch?v=UcmZN0Mbl04",
+=======
+    "imdbScore": "7.9",
+    "trailerLink": "https://www.youtube.com/watch?v=",
+>>>>>>> 13fd67255bbcad3fea4dc54b59b74f9d3d6db20a
     "numberOfGenres": 4,
     "watchOn": "Apple TV",
     "genres": {

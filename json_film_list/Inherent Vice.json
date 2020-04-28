@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "Inherent Vice",
+    "director": "Paul Thomas Anderson",
+    "release_date": "2014-12-25",
+    "film_id": 171274,
+    "original_language": "English",
+    "overview": "In Los Angeles at the turn of the 1970s, drug-fueled detective Larry \"Doc\" Sportello investigates the disappearance of an ex-girlfriend.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyan5Uc0lGpPuad94DM1pLxneiP.jpg",
+    "imdbScore": "6.6",
+    "trailerLink": "https://www.youtube.com/watch?v=wZfs22E7JmI",
+    "numberOfGenres": 5,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Comedy",
+      "1": "Romance",
+      "2": "Crime",
+      "3": "Drama",
+      "4": "Mystery"
+    },
+    "lead_actors": [
+      " Joaquin Phoenix",
+      " Josh Brolin",
+      " Owen Wilson"
+    ],
+    "supporting_actors": [
+      " Katherine Waterston",
+      " Reese Witherspoon",
+      " Benicio del Toro",
+      " Jena Malone",
+      " Maya Rudolph",
+      " Martin Short",
+      " Martin Donovan",
+      " Sasha Pieterse"
+    ]
+  }
+}

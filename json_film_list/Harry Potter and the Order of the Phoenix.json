@@ -1,0 +1,35 @@
+{
+  "film": {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "director": "David Yates",
+    "release_date": "2007-06-28",
+    "film_id": 675,
+    "original_language": "English",
+    "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students – dubbed 'Dumbledore's Army' – to defend themselves against the dark arts.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6n8G0xPnBVUIKKK41sNmbZB5h4.jpg",
+    "imdbScore": "7.7",
+    "trailerLink": "https://www.youtube.com/watch?v=y6ZW7KXaXYk",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Fantasy",
+      "2": "Mystery"
+    },
+    "lead_actors": [
+      " Daniel Radcliffe",
+      " Rupert Grint",
+      " Emma Watson"
+    ],
+    "supporting_actors": [
+      " Michael Gambon",
+      " Ralph Fiennes",
+      " Tom Felton",
+      " Robbie Coltrane",
+      " Alan Rickman",
+      " Maggie Smith",
+      " Helena Bonham Carter",
+      " Brendan Gleeson"
+    ]
+  }
+}

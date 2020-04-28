@@ -1,0 +1,35 @@
+{
+  "film": {
+    "title": "Downsizing",
+    "director": "Alexander Payne",
+    "release_date": "2017-12-22",
+    "film_id": 301337,
+    "original_language": "English",
+    "overview": "A kindly occupational therapist undergoes a new procedure to be shrunken to four inches tall so that he and his wife can help save the planet and afford a nice lifestyle at the same time.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg",
+    "imdbScore": "5.2",
+    "trailerLink": "https://www.youtube.com/watch?v=UCrBICYM0yM",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Comedy",
+      "1": "Drama",
+      "2": "Science Fiction"
+    },
+    "lead_actors": [
+      " Matt Damon",
+      " Christoph Waltz",
+      " Hong Chau"
+    ],
+    "supporting_actors": [
+      " Kristen Wiig",
+      " Rolf Lassgård",
+      " Udo Kier",
+      " Ingjerd Egeberg",
+      " Jason Sudeikis",
+      " Søren Pilmark",
+      " Maribeth Monroe",
+      " Neil Patrick Harris"
+    ]
+  }
+}

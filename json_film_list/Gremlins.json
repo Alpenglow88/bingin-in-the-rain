@@ -1,0 +1,35 @@
+{
+  "film": {
+    "title": "Gremlins",
+    "director": "Joe Dante",
+    "release_date": "1984-06-07",
+    "film_id": 927,
+    "original_language": "English",
+    "overview": "When Billy Peltzer is given a strange but adorable pet named Gizmo for Christmas, he inadvertently breaks the three important rules of caring for a Mogwai, and unleashes a horde of mischievous gremlins on a small town.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/72Y1X9pMSjXQ7mKB6pBEoMhL0OQ.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=XBEVwaJEgaA",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Fantasy",
+      "1": "Horror",
+      "2": "Comedy"
+    },
+    "lead_actors": [
+      " Zach Galligan",
+      " Phoebe Cates",
+      " Hoyt Axton"
+    ],
+    "supporting_actors": [
+      " Frances Lee McCain",
+      " Corey Feldman",
+      " Keye Luke",
+      " John Louie",
+      " Dick Miller",
+      " Jackie Joseph",
+      " Polly Holliday",
+      " Judge Reinhold"
+    ]
+  }
+}

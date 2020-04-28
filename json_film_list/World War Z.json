@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "World War Z",
+    "director": "Marc Forster",
+    "release_date": "2013-06-20",
+    "film_id": 72190,
+    "original_language": "English",
+    "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLMpv8ckcDP3kiEd2fhwY7XrjHz.jpg",
+    "imdbScore": "6.7",
+    "trailerLink": "https://www.youtube.com/watch?v=slfrrjPndV4",
+    "numberOfGenres": 5,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Action",
+      "1": "Drama",
+      "2": "Horror",
+      "3": "Science Fiction",
+      "4": "Thriller"
+    },
+    "lead_actors": [
+      " Brad Pitt",
+      " Mireille Enos",
+      " Daniella Kertesz"
+    ],
+    "supporting_actors": [
+      " James Badge Dale",
+      " Ludi Boeken",
+      " Matthew Fox",
+      " Fana Mokoena",
+      " David Morse",
+      " Elyes Gabel",
+      " Peter Capaldi",
+      " Pierfrancesco Favino"
+    ]
+  }
+}

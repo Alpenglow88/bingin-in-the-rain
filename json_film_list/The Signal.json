@@ -1,0 +1,34 @@
+{
+  "film": {
+    "title": "The Signal",
+    "director": "William Eubank",
+    "release_date": "2014-03-15",
+    "film_id": 242095,
+    "original_language": "English",
+    "overview": "Three college students on a road trip across the Southwest experience a detour – the tracking of a computer genius who has already hacked into MIT and exposed security faults. When the trio find themselves drawn to an eerily isolated area, suddenly everything goes dark. When one of the students regains consciousness, he finds himself in a waking nightmare.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A92VeYebWRm5pC3ZbIPUE7Wzsoa.jpg",
+    "imdbScore": "5.9",
+    "trailerLink": "https://www.youtube.com/watch?v=oXV_CU_ryKs",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Thriller",
+      "1": "Science Fiction"
+    },
+    "lead_actors": [
+      " Brenton Thwaites",
+      " Olivia Cooke",
+      " Beau Knapp"
+    ],
+    "supporting_actors": [
+      " Laurence Fishburne",
+      " Robert Longstreet",
+      " Lin Shaye",
+      " Jeffrey Grover",
+      " Patrick Davidson",
+      " Roy Kenny",
+      " Timothy Holmes",
+      " Ricardo Campos"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "film": {
+    "title": "The Theory of Everything",
+    "director": "James Marsh",
+    "release_date": "2014-11-26",
+    "film_id": 266856,
+    "original_language": "English",
+    "overview": "The Theory of Everything is the extraordinary story of one of the world’s greatest living minds, the renowned astrophysicist Stephen Hawking, who falls deeply in love with fellow Cambridge student Jane Wilde.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJuL37NTE51zVP3eG5aGMyKAIlh.jpg",
+    "imdbScore": "7.9",
+    "trailerLink": "https://www.youtube.com/watch?v=Salz7uGp72c",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "Romance"
+    },
+    "lead_actors": [
+      " Eddie Redmayne",
+      " Felicity Jones",
+      " Charlie Cox"
+    ],
+    "supporting_actors": [
+      " Emily Watson",
+      " Simon McBurney",
+      " David Thewlis",
+      " Maxine Peake",
+      " Harry Lloyd",
+      " Tom Prior",
+      " Sophie Perry",
+      " Finlay Wright-Stephens"
+    ]
+  }
+}

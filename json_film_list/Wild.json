@@ -1,0 +1,33 @@
+{
+  "film": {
+    "title": "Wild",
+    "director": "Jean-Marc Vallée",
+    "release_date": "2014-12-05",
+    "film_id": 228970,
+    "original_language": "English",
+    "overview": "A woman with a tragic past decides to start her new life by hiking for one thousand miles on the Pacific Crest Trail.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdqFCEAwQNi2Ze5pIBGVsgKLLmy.jpg",
+    "imdbScore": "7",
+    "trailerLink": "https://www.youtube.com/watch?v=xOPl8gKdmYE",
+    "numberOfGenres": 1,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama"
+    },
+    "lead_actors": [
+      " Reese Witherspoon",
+      " Laura Dern",
+      " Thomas Sadoski"
+    ],
+    "supporting_actors": [
+      " Keene McRae",
+      " Michiel Huisman",
+      " W. Earl Brown",
+      " Gaby Hoffmann",
+      " Kevin Rankin",
+      " Brian Van Holt",
+      " Cliff DeYoung",
+      " Mo McRae"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "film": {
+    "title": "Jojo Rabbit",
+    "director": "Taika Waititi",
+    "release_date": "2019-10-18",
+    "film_id": 515001,
+    "original_language": "English",
+    "overview": "A World War II satire that follows a lonely German boy whose world view is turned upside down when he discovers his single mother is hiding a young Jewish girl in their attic. Aided only by his idiotic imaginary friend, Adolf Hitler, Jojo must confront his blind nationalism.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+    "imdbScore": "8.2",
+    "trailerLink": "https://www.youtube.com/watch?v=tL4McUzXfFI",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Comedy",
+      "1": "War",
+      "2": "Drama"
+    },
+    "lead_actors": [
+      " Roman Griffin Davis",
+      " Thomasin McKenzie",
+      " Scarlett Johansson"
+    ],
+    "supporting_actors": [
+      " Taika Waititi",
+      " Sam Rockwell",
+      " Rebel Wilson",
+      " Alfie Allen",
+      " Stephen Merchant",
+      " Archie Yates",
+      " Luke Brandon Field",
+      " Joe Weintraub"
+    ]
+  }
+}

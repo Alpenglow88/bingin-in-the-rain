@@ -1,0 +1,33 @@
+{
+  "film": {
+    "title": "Moonlight",
+    "director": "Barry Jenkins",
+    "release_date": "2016-10-21",
+    "film_id": 376867,
+    "original_language": "English",
+    "overview": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/93NN95a71MsQ4tR2zSLv8BNK2qh.jpg",
+    "imdbScore": "7.4",
+    "trailerLink": "https://www.youtube.com/watch?v=9NJj12tJzqc",
+    "numberOfGenres": 1,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama"
+    },
+    "lead_actors": [
+      " Trevante Rhodes",
+      " André Holland",
+      " Janelle Monáe"
+    ],
+    "supporting_actors": [
+      " Ashton Sanders",
+      " Jharrel Jerome",
+      " Alex Hibbert",
+      " Jaden Piner",
+      " Naomie Harris",
+      " Mahershala Ali",
+      " Shariff Earp",
+      " Duan Sanderson"
+    ]
+  }
+}

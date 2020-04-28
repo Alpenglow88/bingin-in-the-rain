@@ -1,0 +1,35 @@
+{
+  "film": {
+    "title": "A Taxi Driver",
+    "director": "Jang Hoon",
+    "release_date": "2017-08-02",
+    "film_id": 437068,
+    "original_language": "Korean",
+    "overview": "May, 1980. Man-seob is a taxi driver in Seoul who lives from hand to mouth, raising his young daughter alone. One day, he hears that there is a foreigner who will pay big money for a drive down to Gwangju city. Not knowing that he’s a German journalist with a hidden agenda, Man-seob takes the job.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXVaWbxmyPk4KZGZk5GGDGFieMX.jpg",
+    "imdbScore": "8.2",
+    "trailerLink": "https://www.youtube.com/watch?v=bB7z4Xn5oNA",
+    "numberOfGenres": 3,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Drama",
+      "1": "History",
+      "2": "Action"
+    },
+    "lead_actors": [
+      " Song Kang-ho",
+      " Thomas Kretschmann",
+      " Yoo Hae-jin"
+    ],
+    "supporting_actors": [
+      " Ryu Jun-yeol",
+      " Park Hyuk-kwon",
+      " Ko Chang-seok",
+      " Jeon Hye-jin",
+      " Choi Gwi-hwa",
+      " Um Tae-goo",
+      " Daniel Joey Albright",
+      " Lee Jung-eun"
+    ]
+  }
+}

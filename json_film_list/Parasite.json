@@ -4,15 +4,12 @@
     "director": "Bong Joon-ho",
     "release_date": "-",
     "film_id": 496243,
-<<<<<<< HEAD
-    "original_language": [
+    "original_language": "Korean",
+    "spoken_languages": [
       " English",
       " German",
       " Korean"
     ],
-=======
-    "original_language": "Korean",
->>>>>>> b7c3c85cbcbee753498b1a53fb2d164dbee91b5b
     "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
     "imdbScore": "8.5",

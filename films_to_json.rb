@@ -30,10 +30,10 @@ class String
 end
 
 # scans selected folder for file names and formats them correctly
-# File.write('./filelist1.json', Dir.entries('./test_data/home movies').drop(2))
-# File.write('./filelist2.json', Dir.entries('./test_data/second_hdd').drop(2))
-File.write('./filelist1.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
-File.write('./filelist2.json', Dir.entries('/Volumes/Watchum2/.').drop(2))
+File.write('./filelist1.json', Dir.entries('./test_data/home movies').drop(2))
+File.write('./filelist2.json', Dir.entries('./test_data/second_hdd').drop(2))
+# File.write('./filelist1.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
+# File.write('./filelist2.json', Dir.entries('/Volumes/Watchum2/.').drop(2))
 list1 = File.read('filelist1.json').tr('_', '-')
             .gsub!('.mp4', '')
             .gsub('.1.1.2', '')
@@ -336,18 +336,26 @@ films.each do |film|
     release_date = '-'
   end
 
+  begin
+    language_code = rb[film_entry]['original_language']
+    puts language_code
+    original_language = ISO_639.find(language_code).english_name
+    puts original_language
+  rescue NoMethodError, TypeError
+    language_code = rb[0]['original_language']
+    original_language = ISO_639.find(language_code).english_name
+  end
+
   spoken_language_api = "https://api.themoviedb.org/3/movie/'#{film_id}\'?api_key='#{TMDBAPIKEY}\'&language=en-US".delete "'"
   spoken_language_response = RestClient.get(spoken_language_api)
   spoken_language_rb = JSON.parse(spoken_language_response.body)['spoken_languages']
   languages_count = (spoken_language_rb.count - 1)
-  puts languages_count
 
   spoken_languages = []
   if languages_count >= 0
     (0..languages_count).each do |i|
       language_code = spoken_language_rb[i]['iso_639_1']
       original_language = ISO_639.find(language_code).english_name
-      puts original_language
       spoken_languages << (' ' + original_language)
     end
   elsif languages_count < 0
@@ -442,7 +450,8 @@ films.each do |film|
       'director' => director_name,
       'release_date' => release_date,
       'film_id' => film_id,
-      'original_language' => spoken_languages,
+      'original_language' => original_language,
+      'spoken_languages' => spoken_languages,
       'overview' => filmoverview,
       'imageUrl' => image_url,
       'imdbScore' => vote_average.to_s,

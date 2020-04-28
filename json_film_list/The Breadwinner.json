@@ -4,7 +4,10 @@
     "director": "Nora Twomey",
     "release_date": "2017-11-17",
     "film_id": 435129,
-    "original_language": "English",
+    "original_language": [
+      " English",
+      " Italian"
+    ],
     "overview": "A headstrong young girl in Afghanistan, ruled by the Taliban, disguises herself as a boy in order to provide for her family.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg",
     "imdbScore": "7.9",

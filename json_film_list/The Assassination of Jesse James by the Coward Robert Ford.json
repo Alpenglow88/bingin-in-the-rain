@@ -4,7 +4,9 @@
     "director": "Andrew Dominik",
     "release_date": "2007-09-07",
     "film_id": 4512,
-    "original_language": "English",
+    "original_language": [
+      " English"
+    ],
     "overview": "Outlaw Jesse James is rumored to be the 'fastest gun in the West'. An eager recruit into James' notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2d1S6fJS80fvseg6mJE8eq5o7Kx.jpg",
     "imdbScore": "7",

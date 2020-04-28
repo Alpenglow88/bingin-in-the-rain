@@ -4,8 +4,12 @@
     "director": "Bong Joon-ho",
     "release_date": "-",
     "film_id": 496243,
-    "original_language": "Korean",
-    "overview": "BEST GUESS OVERVIEW - All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "original_language": [
+      " English",
+      " German",
+      " Korean"
+    ],
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
     "imdbScore": "8.5",
     "trailerLink": "https://www.youtube.com/watch?v=isOGD_7hNIY",

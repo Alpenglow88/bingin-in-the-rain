@@ -5,7 +5,11 @@
     "director": "Sam Mendes",
     "release_date": "2019-12-25",
     "film_id": 530915,
-    "original_language": "English",
+    "original_language": [
+      " English",
+      " French",
+      " German"
+    ],
     "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuGiPiGMYMkSosOJ3BQjDEAiwtO.jpg",
     "imdbScore": "8",
@@ -42,7 +46,10 @@
     "director": "Luc Besson",
     "release_date": "2005-12-21",
     "film_id": 11227,
-    "original_language": "French",
+    "original_language": [
+      " French",
+      " Spanish; Castilian"
+    ],
     "overview": "A beautiful and mysterious woman helps an inept scam artist get his game together... but is their meeting purely coincidence?",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojUGHGfroGRwW7jO0727txepQbC.jpg",
     "imdbScore": "6.7",
@@ -78,7 +85,9 @@
     "director": "Mel Gibson",
     "release_date": "2006-12-07",
     "film_id": 1579,
-    "original_language": "English",
+    "original_language": [
+      "No ISO_639_1 language code in DataBase"
+    ],
     "overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbOG3FpCpuYFGhAbJWsAeZ603JF.jpg",
     "imdbScore": "7.5",
@@ -115,7 +124,9 @@
     "director": "Mahiro Maeda",
     "release_date": "2004-10-05",
     "film_id": 688142,
-    "original_language": "Japanese",
+    "original_language": [
+      " Japanese"
+    ],
     "overview": "In the year 5053, French aristocrats Viscount Albert de Morcerf and Baron Franz d'Epinay attend the festival of Carnival on the moon city of Luna. While Franz is just looking to have fun, Albert is seeking something more to fill his life—but he finds more than he bargained for in The Count of Monte Cristo, a mysterious and charming self-made nobleman who meets his gaze during an opera performance.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9PoytYkMTNbFuTKHIQYpjR0Fvd.jpg",
     "imdbScore": "0",
@@ -152,8 +163,12 @@
     "director": "Bong Joon-ho",
     "release_date": "-",
     "film_id": 496243,
-    "original_language": "Korean",
-    "overview": "BEST GUESS OVERVIEW - All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "original_language": [
+      " English",
+      " German",
+      " Korean"
+    ],
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
     "imdbScore": "8.5",
     "trailerLink": "https://www.youtube.com/watch?v=isOGD_7hNIY",
@@ -188,7 +203,9 @@
     "director": "Severin Fiala",
     "release_date": "2014-08-29",
     "film_id": 284303,
-    "original_language": "German",
+    "original_language": [
+      " German"
+    ],
     "overview": "In the heat of the summer lays a lonesome house in the countryside where nine year old twin brothers await their mother’s return.  When she comes home, bandaged after cosmetic surgery, nothing is like before and the children start to doubt whether this woman is actually who she says she is.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3G2gF7M9dmH4Vcs54PUjieOi0C.jpg",
     "imdbScore": "6.6",
@@ -223,7 +240,9 @@
     "director": "Andy Muschietti",
     "release_date": "2019-09-04",
     "film_id": 474350,
-    "original_language": "English",
+    "original_language": [
+      " English"
+    ],
     "overview": "27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
     "imdbScore": "6.8",
@@ -259,7 +278,9 @@
     "director": "Colin Trevorrow",
     "release_date": "2015-06-06",
     "film_id": 135397,
-    "original_language": "English",
+    "original_language": [
+      " English"
+    ],
     "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
     "imdbScore": "6.6",
@@ -296,7 +317,10 @@
     "director": "J. A. Bayona",
     "release_date": "2018-06-06",
     "film_id": 351286,
-    "original_language": "English",
+    "original_language": [
+      " English",
+      " Russian"
+    ],
     "overview": "Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg",
     "imdbScore": "6.5",
@@ -332,7 +356,10 @@
     "director": "Anurag Singh",
     "release_date": "2019-03-21",
     "film_id": 498448,
-    "original_language": "Hindi",
+    "original_language": [
+      " Hindi",
+      " Panjabi; Punjabi"
+    ],
     "overview": "In 1897, an army of 21 Sikhs battles 10,000 Afghans to prevent the Saragarhi Fort from being taken down.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctjT1pMNAGD9ou0kuhz806tf7kX.jpg",
     "imdbScore": "7.4",
@@ -368,7 +395,12 @@
     "director": "Ridley Scott",
     "release_date": "2005-05-03",
     "film_id": 1495,
-    "original_language": "English",
+    "original_language": [
+      " Arabic",
+      " English",
+      " Italian",
+      " Latin"
+    ],
     "overview": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fQJxq26GU9a4dCQywZ6r8vgYKS.jpg",
     "imdbScore": "6.7",
@@ -406,7 +438,9 @@
     "director": "Dan Scanlon",
     "release_date": "2020-02-29",
     "film_id": 508439,
-    "original_language": "English",
+    "original_language": [
+      " English"
+    ],
     "overview": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
     "imdbScore": "8",
@@ -444,7 +478,9 @@
     "director": "George Lucas",
     "release_date": "1977-05-25",
     "film_id": 11,
-    "original_language": "English",
+    "original_language": [
+      " English"
+    ],
     "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
     "imdbScore": "8.2",
@@ -480,7 +516,9 @@
     "director": "Nathan Frankowski",
     "release_date": "2017-10-13",
     "film_id": 403586,
-    "original_language": "English",
+    "original_language": [
+      " English"
+    ],
     "overview": "The extraordinary life of Chickasaw Nation citizen Mary Thompson Fisher is given a heartfelt tribute in this moving look at a culture in transition, and the way one woman used her voice to keep Native traditions and stories alive. Raised in Indian Territory, Fisher left home to pursue her dream of becoming an actress, only to find that her true calling was at home all along. From Chautauquas to Broadway and even the White House, Fisher traveled the world performing Native American songs and stories for heads of state, American presidents, and European royalty. Featuring Chickasaw citizens both in front of and be-hind the camera, this touching portrait starring Q’orianka Kilcher (“The New World”) and Graham Greene honors a woman whose own story was the most inspiring one she never told. -TCFF database",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b91C9YNC2GUv4VCPI4zBiKVkTZK.jpg",
     "imdbScore": "7.7",
@@ -512,7 +550,9 @@
     "director": "Andrew Dominik",
     "release_date": "2007-09-07",
     "film_id": 4512,
-    "original_language": "English",
+    "original_language": [
+      " English"
+    ],
     "overview": "Outlaw Jesse James is rumored to be the 'fastest gun in the West'. An eager recruit into James' notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2d1S6fJS80fvseg6mJE8eq5o7Kx.jpg",
     "imdbScore": "7",
@@ -548,7 +588,10 @@
     "director": "Nora Twomey",
     "release_date": "2017-11-17",
     "film_id": 435129,
-    "original_language": "English",
+    "original_language": [
+      " English",
+      " Italian"
+    ],
     "overview": "A headstrong young girl in Afghanistan, ruled by the Taliban, disguises herself as a boy in order to provide for her family.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg",
     "imdbScore": "7.9",
@@ -585,7 +628,12 @@
     "director": "Wes Anderson",
     "release_date": "2007-09-07",
     "film_id": 4538,
-    "original_language": "English",
+    "original_language": [
+      " English",
+      " Hindi",
+      " German",
+      " Tibetan"
+    ],
     "overview": "Three American brothers who have not spoken to each other in a year set off on a train voyage across India with a plan to find themselves and bond with each other -- to become brothers again like they used to be. Their \"spiritual quest\", however, veers rapidly off-course (due to events involving over-the-counter pain killers, Indian cough syrup, and pepper spray).",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
     "imdbScore": "7.2",
@@ -621,7 +669,10 @@
     "director": "Michael Gracey",
     "release_date": "2017-12-20",
     "film_id": 316029,
-    "original_language": "English",
+    "original_language": [
+      " English",
+      " French"
+    ],
     "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
     "imdbScore": "8",
@@ -655,7 +706,9 @@
     "director": "Peter Jackson",
     "release_date": "2012-11-26",
     "film_id": 49051,
-    "original_language": "English",
+    "original_language": [
+      " English"
+    ],
     "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQeVJAvx6YCRGqaaZZpPm1WxMv6.jpg",
     "imdbScore": "7.3",

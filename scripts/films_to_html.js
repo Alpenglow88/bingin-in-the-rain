@@ -28,7 +28,7 @@ if (genres[x] === "Science Fiction") {
   return genreList
 }
 
-function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle, original_language, release_date, director, watchOn, lead_actors, supporting_actors ) {
+function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle, original_language, release_date, director, watchOn, lead_actors, supporting_actors, spoken_languages ) {
   let filmHtml = `<!DOCTYPE html>
 <html>
 
@@ -93,7 +93,10 @@ function generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerL
             <div class="container" <p>${release_date}</p>
             </div>
             <h2 class="container" <p>Languages</p></h2>
+            <h3 class="container" <p>Main Spoken</p></h3>
             <div class="container" <p>${original_language}</p>
+            <h3 class="container" <p>Languages in Film</p></h3>
+            <div class="container" <p>${spoken_languages}</p>
             </div>
             <h2 class="container" <p>Director</p></h2>
             <div class="container" <p>${director}</p>
@@ -127,6 +130,7 @@ for (var i = 0; i < numberOfFilms; i++) {
   const imdbScore = films[i]['film']['imdbScore']
   const trailerLink = films[i]['film']['trailerLink']
   const original_language = films[i]['film']['original_language']
+  const spoken_languages = films[i]['film']['spoken_languages']
   const release_date = films[i]['film']['release_date']
   const director = films[i]['film']['director']
   const watchOn = films[i]['film']['watchOn']
@@ -137,7 +141,7 @@ for (var i = 0; i < numberOfFilms; i++) {
 
 const htmlTitle = filmTitle.replace(/\s/g, '')
 
-fs.writeFile(`./views/html_film_views/${htmlTitle}.ejs`, generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle, original_language, release_date, director, watchOn, lead_actors, supporting_actors), function (err) {
+fs.writeFile(`./views/html_film_views/${htmlTitle}.ejs`, generateFilmHtml(filmTitle, filmOverview, imageUrl, imdbScore, trailerLink, genreList, htmlTitle, original_language, release_date, director, watchOn, lead_actors, supporting_actors, spoken_languages), function (err) {
   if (err) throw err;
 });
 

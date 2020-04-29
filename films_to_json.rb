@@ -338,14 +338,12 @@ films.each do |film|
 
   begin
     language_code = rb[film_entry]['original_language']
-    puts language_code
     original_language = ISO_639.find(language_code).english_name
-    puts original_language
   rescue NoMethodError, TypeError
     language_code = rb[0]['original_language']
     original_language = ISO_639.find(language_code).english_name
   end
-
+  
   spoken_language_api = "https://api.themoviedb.org/3/movie/'#{film_id}\'?api_key='#{TMDBAPIKEY}\'&language=en-US".delete "'"
   spoken_language_response = RestClient.get(spoken_language_api)
   spoken_language_rb = JSON.parse(spoken_language_response.body)['spoken_languages']
@@ -355,8 +353,8 @@ films.each do |film|
   if languages_count >= 0
     (0..languages_count).each do |i|
       language_code = spoken_language_rb[i]['iso_639_1']
-      original_language = ISO_639.find(language_code).english_name
-      spoken_languages << (' ' + original_language)
+      iso_lang = ISO_639.find(language_code).english_name
+      spoken_languages << (' ' + iso_lang)
     end
   elsif languages_count < 0
     spoken_languages << 'No ISO_639_1 language code in DataBase'

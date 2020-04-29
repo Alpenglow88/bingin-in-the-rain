@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "The Man Who Would Be King",
+    "director": "John Huston",
+    "release_date": "1975-12-03",
+    "film_id": 983,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "A robust adventure about two British adventurers who take over primitive Kafiristan as \"godlike\" rulers, meeting a tragic end through their desire for a native girl. Based on a short story by Rudyard Kipling.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg",
+    "imdbScore": "7.5",
+    "trailerLink": "https://www.youtube.com/watch?v=G-JlyPknxu0",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Drama"
+    },
+    "lead_actors": [
+      " Sean Connery",
+      " Michael Caine",
+      " Christopher Plummer"
+    ],
+    "supporting_actors": [
+      " Saeed Jaffrey",
+      " Doghmi Larbi",
+      " Jack May",
+      " Karroom Ben Bouih",
+      " Mohammad Shamsi",
+      " Albert Moses",
+      " Paul Antrim",
+      " Graham Acres"
+    ]
+  }
+}

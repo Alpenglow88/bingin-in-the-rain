@@ -1,0 +1,36 @@
+{
+  "film": {
+    "title": "Fight Club",
+    "director": "David Fincher",
+    "release_date": "1999-10-15",
+    "film_id": 550,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+    "imdbScore": "8.4",
+    "trailerLink": "https://www.youtube.com/watch?v=BdJKm16Co6M",
+    "numberOfGenres": 1,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama"
+    },
+    "lead_actors": [
+      " Edward Norton",
+      " Brad Pitt",
+      " Helena Bonham Carter"
+    ],
+    "supporting_actors": [
+      " Meat Loaf",
+      " Jared Leto",
+      " Zach Grenier",
+      " Holt McCallany",
+      " Eion Bailey",
+      " Richmond Arquette",
+      " David Andrews",
+      " Christina Cabot"
+    ]
+  }
+}

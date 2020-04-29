@@ -1,0 +1,38 @@
+{
+  "film": {
+    "title": "Blue Is the Warmest Color",
+    "director": "Abdellatif Kechiche",
+    "release_date": "2013-10-09",
+    "film_id": 152584,
+    "original_language": "French",
+    "spoken_languages": [
+      " French",
+      " English"
+    ],
+    "overview": "Adèle's life is changed when she meets Emma, a young woman with blue hair, who will allow her to discover desire, to assert herself as a woman and as an adult. In front of others, Adele grows, seeks herself, loses herself, finds herself.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvpblFu3phIXdtdKsj5SafNQgFP.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=Y2OLRrocn3s",
+    "numberOfGenres": 2,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Romance",
+      "1": "Drama"
+    },
+    "lead_actors": [
+      " Adèle Exarchopoulos",
+      " Léa Seydoux",
+      " Salim Kechiouche"
+    ],
+    "supporting_actors": [
+      " Aurélien Recoing",
+      " Catherine Salée",
+      " Benjamin Siksou",
+      " Mona Walravens",
+      " Jérémie Laheurte",
+      " Alma Jodorowsky",
+      " Anne Loiret",
+      " Benoît Pilot"
+    ]
+  }
+}

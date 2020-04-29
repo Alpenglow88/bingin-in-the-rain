@@ -1,0 +1,38 @@
+{
+  "film": {
+    "title": "Passengers",
+    "director": "Morten Tyldum",
+    "release_date": "2016-12-21",
+    "film_id": 274870,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5DpXC4ZxH4dnydcz7qav9iA4U.jpg",
+    "imdbScore": "6.9",
+    "trailerLink": "https://www.youtube.com/watch?v=7BWWWQzTpNU",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "Romance",
+      "2": "Science Fiction"
+    },
+    "lead_actors": [
+      " Jennifer Lawrence",
+      " Chris Pratt",
+      " Michael Sheen"
+    ],
+    "supporting_actors": [
+      " Laurence Fishburne",
+      " Andy García",
+      " Aurora Perrineau",
+      " Julee Cerda",
+      " Kristin Brock",
+      " Vince Foster",
+      " Kara Flowers",
+      " Conor Brophy"
+    ]
+  }
+}

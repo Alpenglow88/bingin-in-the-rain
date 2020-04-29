@@ -1,0 +1,39 @@
+{
+  "film": {
+    "title": "In a Valley of Violence",
+    "director": "Ti West",
+    "release_date": "2016-10-21",
+    "film_id": 291356,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "The story of a drifter named Paul who arrives in a small town seeking revenge on the thugs who murdered his friend. Sisters Mary Anne and Ellen, who run the town's hotel, help Paul in his quest for vengeance.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/otuBE30CGhmIUznkX0AwkAQerMF.jpg",
+    "imdbScore": "5.9",
+    "trailerLink": "https://www.youtube.com/watch?v=vw6C6loqrvE",
+    "numberOfGenres": 4,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Crime",
+      "1": "Thriller",
+      "2": "Western",
+      "3": "Action"
+    },
+    "lead_actors": [
+      " Ethan Hawke",
+      " Taissa Farmiga",
+      " James Ransone"
+    ],
+    "supporting_actors": [
+      " Karen Gillan",
+      " John Travolta",
+      " Burn Gorman",
+      " Toby Huss",
+      " Larry Fessenden",
+      " K. Harrison Sweeney",
+      " James E. Lane",
+      " Tommy Nohilly"
+    ]
+  }
+}

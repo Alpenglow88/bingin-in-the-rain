@@ -1,0 +1,32 @@
+{
+  "film": {
+    "title": "Anomalisa",
+    "director": "Duke Johnson",
+    "release_date": "2015-12-30",
+    "film_id": 291270,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "An inspirational speaker becomes reinvigorated after meeting a lively woman who shakes up his mundane existence.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/97JDKtxhI7LRk8yyZZNPy79yUkC.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=WQkHA3fHk_0",
+    "numberOfGenres": 4,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Animation",
+      "1": "Comedy",
+      "2": "Drama",
+      "3": "Romance"
+    },
+    "lead_actors": [
+      " David Thewlis",
+      " Jennifer Jason Leigh",
+      " Tom Noonan"
+    ],
+    "supporting_actors": [
+
+    ]
+  }
+}

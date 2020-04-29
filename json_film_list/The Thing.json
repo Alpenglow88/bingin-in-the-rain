@@ -1,0 +1,39 @@
+{
+  "film": {
+    "title": "The Thing",
+    "director": "John Carpenter",
+    "release_date": "1982-06-25",
+    "film_id": 1091,
+    "original_language": "English",
+    "spoken_languages": [
+      " English",
+      " Norwegian"
+    ],
+    "overview": "Members of an American scientific research outpost in Antarctica find themselves battling a parasitic alien organism capable of perfectly imitating its victims. They soon discover that this task will be harder than they thought, as they don't know which members of the team have already been assimilated and their paranoia threatens to tear them apart.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+    "imdbScore": "8",
+    "trailerLink": "https://www.youtube.com/watch?v=p35JDJLa9ec",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Horror",
+      "1": "Mystery",
+      "2": "Science Fiction"
+    },
+    "lead_actors": [
+      " Kurt Russell",
+      " Wilford Brimley",
+      " T. K. Carter"
+    ],
+    "supporting_actors": [
+      " David Clennon",
+      " Keith David",
+      " Richard Dysart",
+      " Charles Hallahan",
+      " Peter Maloney",
+      " Richard Masur",
+      " Donald Moffat",
+      " Joel Polis"
+    ]
+  }
+}

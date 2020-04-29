@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "The Men Who Stare at Goats",
+    "director": "Grant Heslov",
+    "release_date": "2009-10-17",
+    "film_id": 10313,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "A reporter in Iraq might just have the story of a lifetime when he meets Lyn Cassady, a guy who claims to be a former member of the U.S. Army's New Earth Army, a unit that employs paranormal powers in their missions.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5boJKypPQmgABssbKOk2RvsCnSv.jpg",
+    "imdbScore": "6",
+    "trailerLink": "https://www.youtube.com/watch?v=wyNcf4tNLb4",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Comedy",
+      "1": "War"
+    },
+    "lead_actors": [
+      " George Clooney",
+      " Ewan McGregor",
+      " Jeff Bridges"
+    ],
+    "supporting_actors": [
+      " Kevin Spacey",
+      " Robert Patrick",
+      " Stephen Lang",
+      " Waleed Zuaiter",
+      " Stephen Root",
+      " Glenn Morshower",
+      " Nick Offerman",
+      " Tim Griffin"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "Dark Waters",
+    "director": "Todd Haynes",
+    "release_date": "2019-11-22",
+    "film_id": 552178,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "A tenacious attorney uncovers a dark secret that connects a growing number of unexplained deaths to one of the world's largest corporations. In the process, he risks everything — his future, his family, and his own life — to expose the truth.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJ6YEbrjFvToa5c7IiUqILoB6Je.jpg",
+    "imdbScore": "7.4",
+    "trailerLink": "https://www.youtube.com/watch?v=RvAOuhyunhY",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "Thriller"
+    },
+    "lead_actors": [
+      " Mark Ruffalo",
+      " Anne Hathaway",
+      " Tim Robbins"
+    ],
+    "supporting_actors": [
+      " Bill Camp",
+      " Victor Garber",
+      " Mare Winningham",
+      " Bill Pullman",
+      " William Jackson Harper",
+      " Louisa Krause",
+      " Scarlett Hicks",
+      " Caleb Dwayne Tucker"
+    ]
+  }
+}

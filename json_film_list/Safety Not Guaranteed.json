@@ -1,0 +1,39 @@
+{
+  "film": {
+    "title": "Safety Not Guaranteed",
+    "director": "Colin Trevorrow",
+    "release_date": "2012-06-08",
+    "film_id": 84332,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "Three magazine employees head out on an assignment to interview a guy who placed a classified ad seeking a companion for time travel.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgP1ikT5tYv2pAlkpAN1SjGZmsh.jpg",
+    "imdbScore": "6.9",
+    "trailerLink": "https://www.youtube.com/watch?v=73jSnAs7mq8",
+    "numberOfGenres": 4,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Comedy",
+      "1": "Romance",
+      "2": "Science Fiction",
+      "3": "Drama"
+    },
+    "lead_actors": [
+      " Aubrey Plaza",
+      " Mark Duplass",
+      " Jake Johnson"
+    ],
+    "supporting_actors": [
+      " Karan Soni",
+      " Jenica Bergere",
+      " Kristen Bell",
+      " Jeff Garlin",
+      " Mary Lynn Rajskub",
+      " William Hall Jr.",
+      " Tony Doupe",
+      " Xola Malik"
+    ]
+  }
+}

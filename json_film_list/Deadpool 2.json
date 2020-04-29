@@ -1,0 +1,38 @@
+{
+  "film": {
+    "title": "Deadpool 2",
+    "director": "David Leitch",
+    "release_date": "2018-05-10",
+    "film_id": 383498,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+    "imdbScore": "7.5",
+    "trailerLink": "https://www.youtube.com/watch?v=",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Action",
+      "1": "Comedy",
+      "2": "Adventure"
+    },
+    "lead_actors": [
+      " Ryan Reynolds",
+      " Josh Brolin",
+      " Morena Baccarin"
+    ],
+    "supporting_actors": [
+      " Julian Dennison",
+      " Zazie Beetz",
+      " T. J. Miller",
+      " Leslie Uggams",
+      " Karan Soni",
+      " Brianna Hildebrand",
+      " Jack Kesy",
+      " Eddie Marsan"
+    ]
+  }
+}

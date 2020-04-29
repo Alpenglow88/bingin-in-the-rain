@@ -1,0 +1,38 @@
+{
+  "film": {
+    "title": "Lawless",
+    "director": "John Hillcoat",
+    "release_date": "2012-08-29",
+    "film_id": 82633,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "Set in the Depression-era Franklin County, Virginia, a bootlegging gang is threatened by authorities who want a cut of their profits.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmjy8rX4lY2x1UCJIH24VvUtDXJ.jpg",
+    "imdbScore": "7",
+    "trailerLink": "https://www.youtube.com/watch?v=HK-Q3wYsOgA",
+    "numberOfGenres": 3,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Crime",
+      "1": "Drama",
+      "2": "Western"
+    },
+    "lead_actors": [
+      " Shia LaBeouf",
+      " Tom Hardy",
+      " Guy Pearce"
+    ],
+    "supporting_actors": [
+      " Jessica Chastain",
+      " Mia Wasikowska",
+      " Dane DeHaan",
+      " Noah Taylor",
+      " Jason Clarke",
+      " Lew Temple",
+      " Gary Oldman",
+      " Marcus Hester"
+    ]
+  }
+}

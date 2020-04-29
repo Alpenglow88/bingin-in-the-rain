@@ -1,0 +1,39 @@
+{
+  "film": {
+    "title": "Mandela: Long Walk to Freedom",
+    "director": "Justin Chadwick",
+    "release_date": "2013-12-06",
+    "film_id": 192136,
+    "original_language": "English",
+    "spoken_languages": [
+      " English",
+      " Afrikaans",
+      " Xhosa"
+    ],
+    "overview": "A chronicle of Nelson Mandela's life journey from his childhood in a rural village through to his inauguration as the first democratically elected president of South Africa.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PMYAliDaSznrU8lS1l5clerJzX.jpg",
+    "imdbScore": "6.9",
+    "trailerLink": "https://www.youtube.com/watch?v=0a8DQcS26Vs",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "History"
+    },
+    "lead_actors": [
+      " Idris Elba",
+      " Naomie Harris",
+      " Tony Kgoroge"
+    ],
+    "supporting_actors": [
+      " Riaad Moosa",
+      " Fana Mokoena",
+      " Robert Hobbs",
+      " Jamie Bartlett",
+      " Lindiwe Matshikiza",
+      " Terry Pheto",
+      " Deon Lotz",
+      " Thapelo Mokoena"
+    ]
+  }
+}

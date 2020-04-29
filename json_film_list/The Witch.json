@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "The Witch",
+    "director": "Robert Eggers",
+    "release_date": "2015-11-11",
+    "film_id": 310131,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "In 1630s New England, William and Katherine lead a devout Christian life with five children, homesteading on the edge of an impassable wilderness, exiled from their settlement when William defies the local church. When their newborn son vanishes and crops mysteriously fail, the family turns on one another.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o384OC1tCV8nCnozkM6y4MiSqsw.jpg",
+    "imdbScore": "6.7",
+    "trailerLink": "https://www.youtube.com/watch?v=iQXmlf3Sefg",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Mystery",
+      "1": "Horror"
+    },
+    "lead_actors": [
+      " Anya Taylor-Joy",
+      " Ralph Ineson",
+      " Kate Dickie"
+    ],
+    "supporting_actors": [
+      " Harvey Scrimshaw",
+      " Ellie Grainger",
+      " Lucas Dawson",
+      " Bathsheba Garnett ",
+      " Sarah Stephens",
+      " Julian Richings",
+      " Wahab Chaudhry",
+      " Axtun Henry Dube"
+    ]
+  }
+}

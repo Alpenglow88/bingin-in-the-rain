@@ -1,0 +1,36 @@
+{
+  "film": {
+    "title": "Still Alice",
+    "director": "Wash Westmoreland",
+    "release_date": "2014-12-05",
+    "film_id": 284293,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "Alice Howland, happily married with three grown children, is a renowned linguistics professor who starts to forget words. When she receives a devastating diagnosis, Alice and her family find their bonds tested.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcuSaQyp6G64frR0Usvbr7zDehU.jpg",
+    "imdbScore": "7.5",
+    "trailerLink": "https://www.youtube.com/watch?v=oGN9b_KJb_8",
+    "numberOfGenres": 1,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama"
+    },
+    "lead_actors": [
+      " Julianne Moore",
+      " Alec Baldwin",
+      " Kristen Stewart"
+    ],
+    "supporting_actors": [
+      " Kate Bosworth",
+      " Shane McRae",
+      " Hunter Parrish",
+      " Seth Gilliam",
+      " Stephen Kunken",
+      " Erin Darke",
+      " Daniel Gerroll",
+      " Quincy Tyler Bernstine"
+    ]
+  }
+}

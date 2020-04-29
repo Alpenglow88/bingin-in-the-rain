@@ -1,0 +1,40 @@
+{
+  "film": {
+    "title": "Casablanca",
+    "director": "Michael Curtiz",
+    "release_date": "1942-11-26",
+    "film_id": 289,
+    "original_language": "English",
+    "spoken_languages": [
+      " German",
+      " French",
+      " Italian",
+      " English"
+    ],
+    "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+    "imdbScore": "8.1",
+    "trailerLink": "https://www.youtube.com/watch?v=BkL9l7qovsE",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "Romance"
+    },
+    "lead_actors": [
+      " Humphrey Bogart",
+      " Ingrid Bergman",
+      " Paul Henreid"
+    ],
+    "supporting_actors": [
+      " Claude Rains",
+      " Conrad Veidt",
+      " Sydney Greenstreet",
+      " Peter Lorre",
+      " S.Z. Sakall",
+      " Madeleine Lebeau",
+      " Dooley Wilson",
+      " Joy Page"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "film": {
+    "title": "Song of the Sea",
+    "director": "Tomm Moore",
+    "release_date": "2014-09-06",
+    "film_id": 110416,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "The story of the last Seal Child’s journey home. After their mother’s disappearance, Ben and Saoirse are sent to live with Granny in the city. When they resolve to return to their home by the sea, their journey becomes a race against time as they are drawn into a world Ben knows only from his mother’s folktales. But this is no bedtime story; these fairy folk have been in our world far too long. It soon becomes clear to Ben that Saoirse is the key to their survival.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DBX7QOEzWPNcDhqXInk6GBEvhK.jpg",
+    "imdbScore": "8.1",
+    "trailerLink": "https://www.youtube.com/watch?v=VrhoOzW8oF8",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Family",
+      "1": "Animation",
+      "2": "Fantasy"
+    },
+    "lead_actors": [
+      " Brendan Gleeson",
+      " Fionnula Flanagan",
+      " Pat Shortt"
+    ],
+    "supporting_actors": [
+      " Jon Kenny",
+      " Lisa Hannigan",
+      " David Rawle",
+      " Lucy O'Connell",
+      " Colm Ó'Snodaigh",
+      " Liam Hourican",
+      " Kevin Swierszcz",
+      " Will Collins"
+    ]
+  }
+}

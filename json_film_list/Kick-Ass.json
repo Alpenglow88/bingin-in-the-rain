@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "Kick-Ass",
+    "director": "Matthew Vaughn",
+    "release_date": "2010-03-22",
+    "film_id": 23483,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8citjdBmjddZjlPsAHEyCKwGVvD.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=rFpWpkxsVI8",
+    "numberOfGenres": 2,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Action",
+      "1": "Crime"
+    },
+    "lead_actors": [
+      " Aaron Taylor-Johnson",
+      " Chloë Grace Moretz",
+      " Christopher Mintz-Plasse"
+    ],
+    "supporting_actors": [
+      " Nicolas Cage",
+      " Mark Strong",
+      " Omari Hardwick",
+      " Xander Berkeley",
+      " Clark Duke",
+      " Garrett M. Brown",
+      " Evan Peters",
+      " Deborah Twiss"
+    ]
+  }
+}

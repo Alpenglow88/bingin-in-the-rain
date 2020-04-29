@@ -1,0 +1,38 @@
+{
+  "film": {
+    "title": "O Brother, Where Art Thou?",
+    "director": "Joel Coen",
+    "release_date": "2000-08-30",
+    "film_id": 134,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them. On their journey they come across many comical characters and incredible situations. Based upon Homer's 'Odyssey'.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YztYilviFCYcEtDAnrOstUWGie.jpg",
+    "imdbScore": "7.3",
+    "trailerLink": "https://www.youtube.com/watch?v=G7nNDKrTrag",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Action",
+      "1": "Adventure",
+      "2": "Comedy"
+    },
+    "lead_actors": [
+      " George Clooney",
+      " John Turturro",
+      " Tim Blake Nelson"
+    ],
+    "supporting_actors": [
+      " John Goodman",
+      " Holly Hunter",
+      " Chris Thomas King",
+      " Charles Durning",
+      " Del Pentecost",
+      " Michael Badalucco",
+      " J.R. Horne",
+      " Brian Reddy"
+    ]
+  }
+}

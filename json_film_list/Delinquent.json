@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "Delinquent",
+    "director": "David I. Strasser",
+    "release_date": "2018-04-19",
+    "film_id": 548899,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "A rebellious teen is sentenced to serve time on his uncle's organic farm, only to learn that there's much more to the farm than meets the eye.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ANtdyxa9ralMe0CNg45LNFXeMW.jpg",
+    "imdbScore": "9",
+    "trailerLink": "https://www.youtube.com/watch?v=WodSZVwIO78",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Crime",
+      "1": "Drama"
+    },
+    "lead_actors": [
+      " Jessie Platt",
+      " Julian Paul",
+      " Katie Hayashida"
+    ],
+    "supporting_actors": [
+      " Moishe Teichman",
+      " Pauline Egan",
+      " Simon Bornhauser",
+      " Saul Camargo",
+      " Nina Winkler",
+      " Peter Dwerryhouse",
+      " Ross Smith",
+      " Jason Liesch"
+    ]
+  }
+}

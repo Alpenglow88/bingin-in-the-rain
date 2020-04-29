@@ -1,0 +1,38 @@
+{
+  "film": {
+    "title": "Sightseers",
+    "director": "Ben Wheatley",
+    "release_date": "2012-11-30",
+    "film_id": 117974,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "Chris wants to show girlfriend Tina his world, but events soon conspire against the couple and their dream caravan holiday takes a very wrong turn.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eL3POLwfhVeRfPOALFokh9JiUfd.jpg",
+    "imdbScore": "6.4",
+    "trailerLink": "https://www.youtube.com/watch?v=cA2tM_VzDSI",
+    "numberOfGenres": 3,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Adventure",
+      "1": "Comedy",
+      "2": "Crime"
+    },
+    "lead_actors": [
+      " Alice Lowe",
+      " Steve Oram",
+      " Eileen Davies"
+    ],
+    "supporting_actors": [
+      " Roger Michael",
+      " Tony Way",
+      " Seamus O'Neill",
+      " Monica Dolan",
+      " Jonathan Aris",
+      " Aymen Hamdouchi",
+      " Tom Meeten",
+      " Kali Peacock"
+    ]
+  }
+}

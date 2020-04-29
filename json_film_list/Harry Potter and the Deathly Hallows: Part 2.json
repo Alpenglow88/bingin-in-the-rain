@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "director": "David Yates",
+    "release_date": "2011-07-07",
+    "film_id": 12445,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+    "imdbScore": "8.1",
+    "trailerLink": "https://www.youtube.com/watch?v=mObK5XD8udk",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Fantasy",
+      "1": "Adventure"
+    },
+    "lead_actors": [
+      " Daniel Radcliffe",
+      " Rupert Grint",
+      " Emma Watson"
+    ],
+    "supporting_actors": [
+      " Alan Rickman",
+      " Ralph Fiennes",
+      " Maggie Smith",
+      " Helena Bonham Carter",
+      " Bonnie Wright",
+      " Evanna Lynch",
+      " Matthew Lewis",
+      " Tom Felton"
+    ]
+  }
+}

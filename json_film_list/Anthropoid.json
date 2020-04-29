@@ -1,0 +1,40 @@
+{
+  "film": {
+    "title": "Anthropoid",
+    "director": "Sean Ellis",
+    "release_date": "2016-08-12",
+    "film_id": 351339,
+    "original_language": "English",
+    "spoken_languages": [
+      " Czech",
+      " German",
+      " English"
+    ],
+    "overview": "In December 1941, Czech soldier Jozef Gabčík and Jan Kubiš parachute into their occupied homeland to assassinate Nazi officer Reinhard Heydrich",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hUghRVVkBYufftfNQkGevY5AmE.jpg",
+    "imdbScore": "7",
+    "trailerLink": "https://www.youtube.com/watch?v=fgR1jhEt37Y",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "History",
+      "1": "Thriller",
+      "2": "War"
+    },
+    "lead_actors": [
+      " Jamie Dornan",
+      " Cillian Murphy",
+      " Charlotte Le Bon"
+    ],
+    "supporting_actors": [
+      " Anna Geislerová",
+      " Harry Lloyd",
+      " Toby Jones",
+      " Alena Mihulová",
+      " Marcin Dorociński",
+      " Bill Milner",
+      " Sam Keeley",
+      " Jiří Šimek"
+    ]
+  }
+}

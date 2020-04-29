@@ -1,0 +1,41 @@
+{
+  "film": {
+    "title": "Jungle",
+    "director": "Greg McLean",
+    "release_date": "2017-06-27",
+    "film_id": 390062,
+    "original_language": "English",
+    "spoken_languages": [
+      " English",
+      " German",
+      " Hebrew",
+      " Spanish; Castilian"
+    ],
+    "overview": "In 1981, an enthusiastic young adventurer follows his dreams into the Bolivian Amazon jungle with two friends and a guide with a mysterious past. Their journey quickly turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wilderness lead to an all-out fight for survival.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg",
+    "imdbScore": "6.3",
+    "trailerLink": "https://www.youtube.com/watch?v=ADjYDl1RCGs",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Drama",
+      "2": "Thriller"
+    },
+    "lead_actors": [
+      " Daniel Radcliffe",
+      " Thomas Kretschmann",
+      " Alex Russell"
+    ],
+    "supporting_actors": [
+      " Joel Jackson",
+      " Yasmin Kassim",
+      " Luis Jose Lopez",
+      " Lily Sullivan",
+      " Jacek Koman",
+      " Angie Milliken",
+      " Joey Vieira",
+      " John Bluthal"
+    ]
+  }
+}

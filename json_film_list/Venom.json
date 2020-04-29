@@ -1,0 +1,39 @@
+{
+  "film": {
+    "title": "Venom",
+    "director": "Ruben Fleischer",
+    "release_date": "2018-09-28",
+    "film_id": 335983,
+    "original_language": "English",
+    "spoken_languages": [
+      " Chinese",
+      " English",
+      " Malay"
+    ],
+    "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+    "imdbScore": "6.7",
+    "trailerLink": "https://www.youtube.com/watch?v=u9Mv98Gr5pY",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Science Fiction",
+      "1": "Action"
+    },
+    "lead_actors": [
+      " Tom Hardy",
+      " Michelle Williams",
+      " Riz Ahmed"
+    ],
+    "supporting_actors": [
+      " Scott Haze",
+      " Reid Scott",
+      " Jenny Slate",
+      " Melora Walters",
+      " Woody Harrelson",
+      " Peggy Lu",
+      " Malcolm C. Murray",
+      " Sope Aluko"
+    ]
+  }
+}

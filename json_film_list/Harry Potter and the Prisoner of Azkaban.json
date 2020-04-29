@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "director": "Alfonso Cuarón",
+    "release_date": "2004-05-31",
+    "film_id": 673,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "Harry, Ron and Hermione return to Hogwarts for another magic-filled year. Harry comes face to face with danger yet again, this time in the form of escaped convict, Sirius Black—and turns to sympathetic Professor Lupin for help.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDQibffYgssdiqx7izO57wdLc6.jpg",
+    "imdbScore": "8",
+    "trailerLink": "https://www.youtube.com/watch?v=R69laoH02xg",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Fantasy"
+    },
+    "lead_actors": [
+      " Daniel Radcliffe",
+      " Rupert Grint",
+      " Emma Watson"
+    ],
+    "supporting_actors": [
+      " Gary Oldman",
+      " David Thewlis",
+      " Alan Rickman",
+      " Michael Gambon",
+      " Robbie Coltrane",
+      " Tom Felton",
+      " Emma Thompson",
+      " Maggie Smith"
+    ]
+  }
+}

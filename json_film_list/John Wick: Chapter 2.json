@@ -1,0 +1,39 @@
+{
+  "film": {
+    "title": "John Wick: Chapter 2",
+    "director": "Chad Stahelski",
+    "release_date": "2017-02-08",
+    "film_id": 324552,
+    "original_language": "English",
+    "spoken_languages": [
+      " English",
+      " Italian"
+    ],
+    "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuHPgC5VdhtEguRbIPpSqkxEKrv.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=Sx1Qm3gavRg",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Thriller",
+      "1": "Action",
+      "2": "Crime"
+    },
+    "lead_actors": [
+      " Keanu Reeves",
+      " Riccardo Scamarcio",
+      " Ian McShane"
+    ],
+    "supporting_actors": [
+      " Ruby Rose",
+      " Common",
+      " Claudia Gerini",
+      " Lance Reddick",
+      " Laurence Fishburne",
+      " Tobias Segal",
+      " John Leguizamo",
+      " Bridget Moynahan"
+    ]
+  }
+}

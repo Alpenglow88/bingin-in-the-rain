@@ -1,0 +1,38 @@
+{
+  "film": {
+    "title": "Us",
+    "director": "Will Scarbrough",
+    "release_date": "2019-03-14",
+    "film_id": 458723,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+    "imdbScore": "7",
+    "trailerLink": "https://www.youtube.com/watch?v=hNCmb-4oXJA",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Thriller",
+      "1": "Horror",
+      "2": "Mystery"
+    },
+    "lead_actors": [
+      " Lupita Nyong'o",
+      " Winston Duke",
+      " Evan Alex"
+    ],
+    "supporting_actors": [
+      " Shahadi Wright Joseph",
+      " Elisabeth Moss",
+      " Tim Heidecker",
+      " Yahya Abdul-Mateen II",
+      " Anna Diop",
+      " Cali Sheldon",
+      " Noelle Sheldon",
+      " Madison Curry"
+    ]
+  }
+}

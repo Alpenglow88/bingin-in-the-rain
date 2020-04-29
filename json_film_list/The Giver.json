@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "The Giver",
+    "director": "Phillip Noyce",
+    "release_date": "2014-08-11",
+    "film_id": 227156,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "In a seemingly perfect community, without war, pain, suffering, differences or choice, a young boy is chosen to learn from an elderly man about the true pain and pleasure of the \"real\" world.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckchcez2u40myIAgkfdVyzofX2T.jpg",
+    "imdbScore": "6.5",
+    "trailerLink": "https://www.youtube.com/watch?v=grwMv86Af1Y",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "Science Fiction"
+    },
+    "lead_actors": [
+      " Brenton Thwaites",
+      " Jeff Bridges",
+      " Odeya Rush"
+    ],
+    "supporting_actors": [
+      " Meryl Streep",
+      " Alexander Skarsgård",
+      " Katie Holmes",
+      " Taylor Swift",
+      " Cameron Monaghan",
+      " Emma Tremblay",
+      " Katharina Damm",
+      " Alexander Jillings"
+    ]
+  }
+}

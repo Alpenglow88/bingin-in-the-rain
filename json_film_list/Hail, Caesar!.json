@@ -1,0 +1,38 @@
+{
+  "film": {
+    "title": "Hail, Caesar!",
+    "director": "Ethan Coen",
+    "release_date": "2016-02-05",
+    "film_id": 270487,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "When a Hollywood star mysteriously disappears in the middle of filming, the studio sends their \"fixer\" to get him back. Set in the 1950s, the story was inspired by the career of Eddie Mannix (1891–1963).",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/txvoksUbyxqvaOvDfEbwW5nEcmX.jpg",
+    "imdbScore": "5.9",
+    "trailerLink": "https://www.youtube.com/watch?v=kMqeoW3XRa0",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Comedy",
+      "1": "Drama",
+      "2": "Mystery"
+    },
+    "lead_actors": [
+      " Josh Brolin",
+      " George Clooney",
+      " Alden Ehrenreich"
+    ],
+    "supporting_actors": [
+      " Ralph Fiennes",
+      " Scarlett Johansson",
+      " Tilda Swinton",
+      " Channing Tatum",
+      " Frances McDormand",
+      " Jonah Hill",
+      " Veronica Osorio",
+      " Heather Goldenhersh"
+    ]
+  }
+}

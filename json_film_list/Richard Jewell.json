@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "Richard Jewell",
+    "director": "Clint Eastwood",
+    "release_date": "2019-12-13",
+    "film_id": 292011,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "Richard Jewell thinks quick, works fast, and saves hundreds, perhaps thousands, of lives after a domestic terrorist plants several pipe bombs and they explode during a concert, only to be falsely suspected of the crime by sloppy FBI work and sensational media coverage.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+    "imdbScore": "7.5",
+    "trailerLink": "https://www.youtube.com/watch?v=gSMxBLlA8qY",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "Crime"
+    },
+    "lead_actors": [
+      " Paul Walter Hauser",
+      " Sam Rockwell",
+      " Kathy Bates"
+    ],
+    "supporting_actors": [
+      " Jon Hamm",
+      " Olivia Wilde",
+      " Nina Arianda",
+      " Ian Gomez",
+      " Wayne Duvall",
+      " Dylan Kussman",
+      " Mike Pniewski",
+      " Brandon Stanley"
+    ]
+  }
+}

@@ -30,10 +30,10 @@ class String
 end
 
 # scans selected folder for file names and formats them correctly
-File.write('./filelist1.json', Dir.entries('./test_data/home movies').drop(2))
-File.write('./filelist2.json', Dir.entries('./test_data/second_hdd').drop(2))
-# File.write('./filelist1.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
-# File.write('./filelist2.json', Dir.entries('/Volumes/Watchum2/.').drop(2))
+# File.write('./filelist1.json', Dir.entries('./test_data/home movies').drop(2))
+# File.write('./filelist2.json', Dir.entries('./test_data/second_hdd').drop(2))
+File.write('./filelist1.json', Dir.entries('/Volumes/WATCHUM/Home Videos/.').drop(2))
+File.write('./filelist2.json', Dir.entries('/Volumes/Watchum2/.').drop(2))
 list1 = File.read('filelist1.json').tr('_', '-')
             .gsub!('.mp4', '')
             .gsub('.1.1.2', '')
@@ -355,6 +355,8 @@ films.each do |film|
       language_code = spoken_language_rb[i]['iso_639_1']
       iso_lang = ISO_639.find(language_code).english_name
       spoken_languages << (' ' + iso_lang)
+    rescue NoMethodError
+      break
     end
   elsif languages_count < 0
     spoken_languages << 'No ISO_639_1 language code in DataBase'

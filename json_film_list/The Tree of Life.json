@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "The Tree of Life",
+    "director": "Terrence Malick",
+    "release_date": "2011-05-18",
+    "film_id": 8967,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "The impressionistic story of a Texas family in the 1950s. The film follows the life journey of the eldest son, Jack, through the innocence of childhood to his disillusioned adult years as he tries to reconcile a complicated relationship with his father. Jack finds himself a lost soul in the modern world, seeking answers to the origins and meaning of life while questioning the existence of faith.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fd2wa02NYwbDJypkt4qLjjQODAM.jpg",
+    "imdbScore": "6.7",
+    "trailerLink": "https://www.youtube.com/watch?v=RrAz1YLh8nY",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "Fantasy"
+    },
+    "lead_actors": [
+      " Brad Pitt",
+      " Sean Penn",
+      " Jessica Chastain"
+    ],
+    "supporting_actors": [
+      " Hunter McCracken",
+      " Finnegan Williams",
+      " Michael Koeth",
+      " Laramie Eppler",
+      " Tye Sheridan",
+      " Kari Matchett",
+      " Joanna Going",
+      " Michael Showers"
+    ]
+  }
+}

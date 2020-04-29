@@ -1,0 +1,39 @@
+{
+  "film": {
+    "title": "Rust and Bone",
+    "director": "Jacques Audiard",
+    "release_date": "2012-05-17",
+    "film_id": 97365,
+    "original_language": "French",
+    "spoken_languages": [
+      " English",
+      " Polish",
+      " French"
+    ],
+    "overview": "Put in charge of his young son, Ali leaves Belgium for Antibes to live with his sister and her husband as a family. Ali's bond with Stephanie, a killer whale trainer, grows deeper after Stephanie suffers a horrible accident.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFCXw49dYx5bAxbwoxqTApMBlIF.jpg",
+    "imdbScore": "7.2",
+    "trailerLink": "https://www.youtube.com/watch?v=1u74RX6o-8I",
+    "numberOfGenres": 2,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Drama",
+      "1": "Romance"
+    },
+    "lead_actors": [
+      " Marion Cotillard",
+      " Matthias Schoenaerts",
+      " Bouli Lanners"
+    ],
+    "supporting_actors": [
+      " Céline Sallette",
+      " Corinne Masiero",
+      " Mourad Frarema",
+      " Jean-Michel Correia",
+      " Armand Verdure",
+      " Yannick Choirat",
+      " Fred Menut",
+      " Duncan Versteegh"
+    ]
+  }
+}

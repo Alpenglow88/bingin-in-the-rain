@@ -1,0 +1,35 @@
+{
+  "film": {
+    "title": "I Am Not a Witch",
+    "director": "Rungano Nyoni",
+    "release_date": "2017-10-20",
+    "film_id": 449757,
+    "original_language": "English",
+    "spoken_languages": [
+      " English",
+      " Tonga (Tonga Islands)"
+    ],
+    "overview": "Convicted of witchcraft, 8-year-old Shula is brought to live in a penal colony where witches do hard labour in service of the government.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWkbuUHugbckItwcyCf8uq1utOJ.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=jOtcU_-KuaQ",
+    "numberOfGenres": 1,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama"
+    },
+    "lead_actors": [
+      " Maggie Mulubwa",
+      " Henry B.J. Phiri",
+      " Gloria Huwiler"
+    ],
+    "supporting_actors": [
+      " Nellie Munamonga",
+      " Dyna Mufuni",
+      " Nancy Murilo",
+      " Ritah Mubanga",
+      " Chileshe Kalimamukwento",
+      " Travers Merrill"
+    ]
+  }
+}

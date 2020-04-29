@@ -1,0 +1,38 @@
+{
+  "film": {
+    "title": "Alien³",
+    "director": "David Fincher",
+    "release_date": "1992-05-22",
+    "film_id": 8077,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "After escaping with Newt and Hicks from the alien planet, Ripley crash lands on Fiorina 161, a prison planet and host to a correctional facility. Unfortunately, although Newt and Hicks do not survive the crash, a more unwelcome visitor does. The prison does not allow weapons of any kind, and with aid being a long time away, the prisoners must simply survive in any way they can.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlabk6APJUeihZDaSD9N6iI0f4g.jpg",
+    "imdbScore": "6.3",
+    "trailerLink": "https://www.youtube.com/watch?v=KUTaNMJJBa8",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Science Fiction",
+      "1": "Action",
+      "2": "Horror"
+    },
+    "lead_actors": [
+      " Sigourney Weaver",
+      " Charles S. Dutton",
+      " Charles Dance"
+    ],
+    "supporting_actors": [
+      " Pete Postlethwaite",
+      " Ralph Brown",
+      " Paul McGann",
+      " Danny Webb",
+      " Lance Henriksen",
+      " Brian Glover",
+      " Deobia Oparei",
+      " Niall Buggy"
+    ]
+  }
+}

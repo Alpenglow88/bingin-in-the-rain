@@ -1,0 +1,37 @@
+{
+  "film": {
+    "title": "Zombieland",
+    "director": "Ruben Fleischer",
+    "release_date": "2009-10-07",
+    "film_id": 19908,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "Columbus has made a habit of running from what scares him. Tallahassee doesn't have fears. If he did, he'd kick their ever-living ass. In a world overrun by zombies, these two are perfectly evolved survivors. But now, they're about to stare down the most terrifying prospect of all: each other.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
+    "imdbScore": "7.2",
+    "trailerLink": "https://www.youtube.com/watch?v=8m9EVP8X7N8",
+    "numberOfGenres": 2,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Comedy",
+      "1": "Horror"
+    },
+    "lead_actors": [
+      " Jesse Eisenberg",
+      " Woody Harrelson",
+      " Emma Stone"
+    ],
+    "supporting_actors": [
+      " Abigail Breslin",
+      " Amber Heard",
+      " Bill Murray",
+      " Derek Graf",
+      " Justin Price",
+      " Mike White",
+      " Victory Van Tuyl",
+      " Michelle Sebek"
+    ]
+  }
+}

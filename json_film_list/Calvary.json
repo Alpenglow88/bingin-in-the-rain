@@ -1,0 +1,36 @@
+{
+  "film": {
+    "title": "Calvary",
+    "director": "John Michael McDonagh",
+    "release_date": "2014-04-11",
+    "film_id": 157832,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "After being threatened during a confession, a good-natured priest must battle the dark forces closing in around him.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQMjyTA3L2pPkMGzh3bhrDQbhWy.jpg",
+    "imdbScore": "7.1",
+    "trailerLink": "https://www.youtube.com/watch?v=LGM5rq_vX4U",
+    "numberOfGenres": 1,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama"
+    },
+    "lead_actors": [
+      " Brendan Gleeson",
+      " Chris O'Dowd",
+      " Kelly Reilly"
+    ],
+    "supporting_actors": [
+      " Aidan Gillen",
+      " Dylan Moran",
+      " Isaach De Bankolé",
+      " M. Emmet Walsh",
+      " Marie-Josée Croze",
+      " Domhnall Gleeson",
+      " David Wilmot",
+      " Pat Shortt"
+    ]
+  }
+}

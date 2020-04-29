@@ -1,0 +1,38 @@
+{
+  "film": {
+    "title": "Queen & Slim",
+    "director": "Melina Matsoukas",
+    "release_date": "2019-11-27",
+    "film_id": 536743,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "While on a forgettable first date together in Ohio, a black man and a black woman are pulled over for a minor traffic infraction. The situation escalates, with sudden and tragic results, when the man kills the police officer in self-defense. Terrified and in fear for their lives, the man, a retail employee, and the woman, a criminal defense lawyer, are forced to go on the run. But the incident is captured on video and goes viral, and the couple unwittingly become a symbol of trauma, terror, grief and pain for people across the country.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/coANk5hxXAAAygxIj69YRoyWMvz.jpg",
+    "imdbScore": "7.2",
+    "trailerLink": "https://www.youtube.com/watch?v=JW4RgX08xXw",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Drama",
+      "1": "Romance",
+      "2": "Crime"
+    },
+    "lead_actors": [
+      " Daniel Kaluuya",
+      " Jodie Turner-Smith",
+      " Bokeem Woodbine"
+    ],
+    "supporting_actors": [
+      " Chloë Sevigny",
+      " Flea",
+      " Sturgill Simpson",
+      " Indya Moore",
+      " Benito Martinez",
+      " Jahi Di'Allo Winston",
+      " Gralen Bryant Banks",
+      " Dickson Obahor"
+    ]
+  }
+}

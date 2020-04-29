@@ -1,0 +1,39 @@
+{
+  "film": {
+    "title": "Oldboy",
+    "director": "Park Chan-wook",
+    "release_date": "2003-11-21",
+    "film_id": 670,
+    "original_language": "Korean",
+    "spoken_languages": [
+      " Korean"
+    ],
+    "overview": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate businessman seeks revenge on his captors.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvvF42ALBMJMNFQvB5y9L9FTnI7.jpg",
+    "imdbScore": "8.2",
+    "trailerLink": "https://www.youtube.com/watch?v=I18wDlx6WzI",
+    "numberOfGenres": 4,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Drama",
+      "1": "Thriller",
+      "2": "Mystery",
+      "3": "Action"
+    },
+    "lead_actors": [
+      " Choi Min-sik",
+      " Yoo Ji-tae",
+      " Kang Hye-jung"
+    ],
+    "supporting_actors": [
+      " Kim Byung-ok",
+      " Oh Dal-su",
+      " Lee Seung-Shin",
+      " Yoon Jin-seo",
+      " Ji Dae-han",
+      " Oh Tae-kyung",
+      " Yoo Yeon-seok",
+      " Oh Gwang-rok"
+    ]
+  }
+}

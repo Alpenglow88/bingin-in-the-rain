@@ -15,7 +15,7 @@ GEM
       addressable (~> 2.7)
     mime-types (3.3.1)
       mime-types-data (~> 3.2015)
-    mime-types-data (3.2019.1009)
+    mime-types-data (3.2020.0425)
     netrc (0.11.0)
     public_suffix (4.0.4)
     rest-client (2.1.0)

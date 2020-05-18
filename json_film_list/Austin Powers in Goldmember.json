@@ -1,0 +1,41 @@
+{
+  "film": {
+    "title": "Austin Powers in Goldmember",
+    "director": "Jay Roach",
+    "release_date": "2002-07-26",
+    "film_id": 818,
+    "original_language": "English",
+    "spoken_languages": [
+      " English",
+      " Japanese",
+      " German",
+      " French"
+    ],
+    "overview": "The world's most shagadelic spy continues his fight against Dr. Evil. This time, the diabolical doctor and his clone, Mini-Me, team up with a new foe -- '70s kingpin Goldmember. While pursuing the team of villains to stop them from world domination, Austin gets help from his dad and an old girlfriend.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4Sus7BvVQM6i9M3Cr0U8Vw0L9f.jpg",
+    "imdbScore": "6",
+    "trailerLink": "https://www.youtube.com/watch?v=XROEPkzyCRg",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Comedy",
+      "1": "Crime",
+      "2": "Science Fiction"
+    },
+    "lead_actors": [
+      " Mike Myers",
+      " Beyoncé Knowles",
+      " Seth Green"
+    ],
+    "supporting_actors": [
+      " Michael York",
+      " Mindy Sterling",
+      " Verne Troyer",
+      " Michael Caine",
+      " Fred Savage",
+      " Diane Mizota",
+      " Carrie Ann Inaba",
+      " Nobu Matsuhisa"
+    ]
+  }
+}

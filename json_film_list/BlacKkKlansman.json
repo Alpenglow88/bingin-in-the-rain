@@ -12,12 +12,13 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
     "imdbScore": "7.6",
     "trailerLink": "https://www.youtube.com/watch?v=pFc6I0rgmgY",
-    "numberOfGenres": 3,
+    "numberOfGenres": 4,
     "watchOn": "Apple TV",
     "genres": {
       "0": "Crime",
       "1": "Drama",
-      "2": "History"
+      "2": "History",
+      "3": "Comedy"
     },
     "lead_actors": [
       " John David Washington",

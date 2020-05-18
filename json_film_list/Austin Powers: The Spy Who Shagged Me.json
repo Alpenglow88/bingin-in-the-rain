@@ -1,0 +1,40 @@
+{
+  "film": {
+    "title": "Austin Powers: The Spy Who Shagged Me",
+    "director": "Jay Roach",
+    "release_date": "1999-06-08",
+    "film_id": 817,
+    "original_language": "English",
+    "spoken_languages": [
+      " German",
+      " English"
+    ],
+    "overview": "When diabolical genius, Dr. Evil travels back in time to steal superspy Austin Powers's ‘mojo’, Austin must return to the swingin' '60s himself – with the help of American agent, Felicity Shagwell – to stop the dastardly plan. Once there, Austin faces off against Dr. Evil's army of minions and saves the world in his own unbelievably groovy way.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2ohIBEbc3eERyU5pgSknm8DqUj.jpg",
+    "imdbScore": "6.2",
+    "trailerLink": "https://www.youtube.com/watch?v=mYVb4OLk4NQ",
+    "numberOfGenres": 4,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Comedy",
+      "2": "Crime",
+      "3": "Science Fiction"
+    },
+    "lead_actors": [
+      " Mike Myers",
+      " Heather Graham",
+      " Michael York"
+    ],
+    "supporting_actors": [
+      " Robert Wagner",
+      " Rob Lowe",
+      " Seth Green",
+      " Mindy Sterling",
+      " Verne Troyer",
+      " Elizabeth Hurley",
+      " Gia Carides",
+      " Kristen Johnston"
+    ]
+  }
+}

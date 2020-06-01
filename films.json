@@ -12,17 +12,16 @@
       " German"
     ],
     "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuGiPiGMYMkSosOJ3BQjDEAiwtO.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
     "imdbScore": "7.9",
     "trailerLink": "https://www.youtube.com/watch?v=UcmZN0Mbl04",
-    "numberOfGenres": 5,
+    "numberOfGenres": 4,
     "watchOn": "Apple TV",
     "genres": {
       "0": "War",
       "1": "Drama",
       "2": "Action",
-      "3": "Thriller",
-      "4": "History"
+      "3": "History"
     },
     "lead_actors": [
       " George MacKay",
@@ -138,7 +137,7 @@
     ],
     "overview": "Two university students gain insight into life and love as they get to know each other during a road trip across Europe.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gUNQ8Xlk00J4W4OROgwR7xzUOz.jpg",
-    "imdbScore": "7.5",
+    "imdbScore": "7.6",
     "trailerLink": "https://www.youtube.com/watch?v=PIEBOrjSMBk",
     "numberOfGenres": 3,
     "watchOn": "Apple TV",
@@ -217,7 +216,7 @@
     ],
     "overview": "An ambitious young executive is sent to retrieve his company's CEO from an idyllic but mysterious \"wellness center\" at a remote location in the Swiss Alps but soon suspects that the spa's miraculous treatments are not what they seem.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4fXuJS3zZcAZfz2HYDtnwqtnwn.jpg",
-    "imdbScore": "6.2",
+    "imdbScore": "6.3",
     "trailerLink": "https://www.youtube.com/watch?v=4mcVodJmBlU",
     "numberOfGenres": 4,
     "watchOn": "Apple TV",
@@ -376,7 +375,7 @@
     ],
     "overview": "A group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/20djTLqppfBx5WYA67Y300S6aPD.jpg",
-    "imdbScore": "7.4",
+    "imdbScore": "7.5",
     "trailerLink": "https://www.youtube.com/watch?v=Ap0NRJD-2ts",
     "numberOfGenres": 4,
     "watchOn": "Apple TV",
@@ -522,27 +521,39 @@
 ,
 {
   "film": {
-    "title": "Aliens - Bluray Special Edition",
-    "director": "",
-    "release_date": "",
-    "film_id": 699804,
+    "title": "Aliens",
+    "director": "James Cameron",
+    "release_date": "1986-07-18",
+    "film_id": 679,
     "original_language": "English",
     "spoken_languages": [
-      "No ISO_639_1 language code in DataBase"
+      " English"
     ],
-    "overview": "Aliens - Bluray Extras",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2",
-    "imdbScore": "0",
-    "trailerLink": "https://www.youtube.com/watch?v=-",
-    "numberOfGenres": 0,
+    "overview": "When Ripley's lifepod is found by a salvage crew over 50 years later, she finds that terra-formers are on the very planet they found the alien species. When the company sends a family of colonists out to investigate her story—all contact is lost with the planet and colonists. They enlist Ripley and the colonial marines to return and search for answers.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwdPTZyyBa4U3V2N0EmozTCeEAY.jpg",
+    "imdbScore": "7.9",
+    "trailerLink": "https://www.youtube.com/watch?v=zBvTd9iFqG8",
+    "numberOfGenres": 3,
     "watchOn": "Apple TV",
     "genres": {
+      "0": "Action",
+      "1": "Thriller",
+      "2": "Science Fiction"
     },
     "lead_actors": [
-
+      " Sigourney Weaver",
+      " Michael Biehn",
+      " Paul Reiser"
     ],
     "supporting_actors": [
-
+      " Lance Henriksen",
+      " Carrie Henn",
+      " Bill Paxton",
+      " William Hope",
+      " Jenette Goldstein",
+      " Al Matthews",
+      " Mark Rolston",
+      " Ricco Ross"
     ]
   }
 }
@@ -641,7 +652,7 @@
       " English"
     ],
     "overview": "Despite her sheltered upbringing, Jenny is a teen with a bright future; she's smart, pretty, and has aspirations of attending Oxford University. When David, a charming but much older suitor, motors into her life in a shiny automobile, Jenny gets a taste of adult life that she won't soon forget.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/29kSosB0jW2ThaJmX6ZY1UQ1pHA.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hFz8pgcveenSp7gmRtscUbKR5R.jpg",
     "imdbScore": "6.9",
     "trailerLink": "https://www.youtube.com/watch?v=Ni6_91UhEc4",
     "numberOfGenres": 2,
@@ -681,7 +692,7 @@
     ],
     "overview": "A beautiful and mysterious woman helps an inept scam artist get his game together... but is their meeting purely coincidence?",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojUGHGfroGRwW7jO0727txepQbC.jpg",
-    "imdbScore": "6.7",
+    "imdbScore": "6.8",
     "trailerLink": "https://www.youtube.com/watch?v=IaoYTgbUmdc",
     "numberOfGenres": 4,
     "watchOn": "Mac Mini",
@@ -1009,45 +1020,6 @@
 ,
 {
   "film": {
-    "title": "Austin Powers: International Man of Mystery",
-    "director": "Jay Roach",
-    "release_date": "1997-05-02",
-    "film_id": 816,
-    "original_language": "English",
-    "spoken_languages": [
-      " English"
-    ],
-    "overview": "As a swingin' fashion photographer by day and a groovy British superagent by night, Austin Powers is the '60s' most shagadelic spy, baby! But can he stop megalomaniac Dr. Evil after the bald villain freezes himself and unthaws in the '90s? With the help of sexy sidekick Vanessa Kensington, he just might.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg",
-    "imdbScore": "6.5",
-    "trailerLink": "https://www.youtube.com/watch?v=JCSMpRHcNuM",
-    "numberOfGenres": 3,
-    "watchOn": "Apple TV",
-    "genres": {
-      "0": "Science Fiction",
-      "1": "Comedy",
-      "2": "Crime"
-    },
-    "lead_actors": [
-      " Mike Myers",
-      " Elizabeth Hurley",
-      " Michael York"
-    ],
-    "supporting_actors": [
-      " Mimi Rogers",
-      " Robert Wagner",
-      " Seth Green",
-      " Fabiana Udenio",
-      " Mindy Sterling",
-      " Paul Dillon",
-      " Charles Napier",
-      " Elya Baskin"
-    ]
-  }
-}
-,
-{
-  "film": {
     "title": "Austin Powers: The Spy Who Shagged Me",
     "director": "Jay Roach",
     "release_date": "1999-06-08",
@@ -1090,7 +1062,7 @@
 {
   "film": {
     "title": "Barton Fink",
-    "director": "Joel Coen",
+    "director": "Ethan Coen",
     "release_date": "1991-08-01",
     "film_id": 290,
     "original_language": "English",
@@ -1174,7 +1146,8 @@
     "film_id": 495764,
     "original_language": "English",
     "spoken_languages": [
-      " English"
+      " English",
+      " French"
     ],
     "overview": "Harley Quinn joins forces with a singer, an assassin and a police detective to help a young girl who had a hit placed on her after she stole a rare diamond from a crime lord.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
@@ -1493,7 +1466,7 @@
       " English"
     ],
     "overview": "During a shootout in a saloon, Sheriff Hunt injures a suspicious stranger. One of the villagers takes care of him in prison. One day they both disappear – only the spear of a cannibal tribe is found. Hunt and a few of his men go in search of the prisoner and his nurse.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEvYuXA10XrpUwnzbkjb5IByTQM.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MmTHpn2Y8emqvBgvOjufImUmKZ.jpg",
     "imdbScore": "6.8",
     "trailerLink": "https://www.youtube.com/watch?v=0ZbwtHi-KSE",
     "numberOfGenres": 2,
@@ -1726,7 +1699,7 @@
       " English"
     ],
     "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/50CF3t3mc1ShNEIA6N6xtJ7iYu2.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
     "imdbScore": "8.1",
     "trailerLink": "https://www.youtube.com/watch?v=BkL9l7qovsE",
     "numberOfGenres": 2,
@@ -2034,7 +2007,7 @@
       " Italian"
     ],
     "overview": "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QwIIAZzPgYcninV2tiy0cabbhI.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyIfbnRhzlBKNRUXZu17XT9uT9T.jpg",
     "imdbScore": "6.9",
     "trailerLink": "https://www.youtube.com/watch?v=DV8mJcuYVaA",
     "numberOfGenres": 4,
@@ -3093,7 +3066,7 @@
       " Esperanto"
     ],
     "overview": "In a future society in the era of indefinite eugenics, humans are set on a life course depending on their DNA. Young Vincent Freeman is born with a condition that would prevent him from space travel, yet is determined to infiltrate the GATTACA space program.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuHbFy7d25NUgU9ane25nXeKeVK.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jzm9QpoV7XrsNDf8YQEYxOy2AT.jpg",
     "imdbScore": "7.5",
     "trailerLink": "https://www.youtube.com/watch?v=",
     "numberOfGenres": 4,
@@ -3151,7 +3124,7 @@
     "supporting_actors": [
       " Catherine Keener",
       " Caleb Landry Jones",
-      " LilRel Howery",
+      " Lil Rel Howery",
       " Marcus Henderson",
       " Betty Gabriel",
       " Lakeith Stanfield",
@@ -3371,7 +3344,7 @@
     ],
     "overview": "In the heat of the summer lays a lonesome house in the countryside where nine year old twin brothers await their mother’s return.  When she comes home, bandaged after cosmetic surgery, nothing is like before and the children start to doubt whether this woman is actually who she says she is.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3G2gF7M9dmH4Vcs54PUjieOi0C.jpg",
-    "imdbScore": "6.6",
+    "imdbScore": "6.7",
     "trailerLink": "https://www.youtube.com/watch?v=HCjApb9EDcg",
     "numberOfGenres": 4,
     "watchOn": "Mac Mini",
@@ -3759,7 +3732,7 @@
       " English"
     ],
     "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students – dubbed 'Dumbledore's Army' – to defend themselves against the dark arts.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6n8G0xPnBVUIKKK41sNmbZB5h4.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
     "imdbScore": "7.7",
     "trailerLink": "https://www.youtube.com/watch?v=y6ZW7KXaXYk",
     "numberOfGenres": 3,
@@ -3913,7 +3886,7 @@
     ],
     "overview": "On vacation at a remote lake house, a mother and her two young daughters must fight for survival after falling into a terrifying and bizarre nightmare conceived by a psychopath.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/790BUqG80oOyMRmTjDINW7lepTG.jpg",
-    "imdbScore": "5.7",
+    "imdbScore": "5.6",
     "trailerLink": "https://www.youtube.com/watch?v=-",
     "numberOfGenres": 2,
     "watchOn": "Apple TV",
@@ -3947,7 +3920,7 @@
     ],
     "overview": "After she and her husband move into a haunted house, a woman gives birth to a demonic infant that wreaks havoc.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/biUZJgjsojTdVyyXPQSjIGp1qNL.jpg",
-    "imdbScore": "5.1",
+    "imdbScore": "5",
     "trailerLink": "https://www.youtube.com/watch?v=EOAQuBtfNlc",
     "numberOfGenres": 2,
     "watchOn": "Mac Mini",
@@ -4258,7 +4231,7 @@
     ],
     "overview": "Two teenage couples traveling across the backwoods of Texas searching for urban legends of serial killers end up as prisoners of a bizarre and sadistic backwater family of serial killers.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvwcILsa0arryQlORuYk5GcUKF5.jpg",
-    "imdbScore": "6.2",
+    "imdbScore": "6.1",
     "trailerLink": "https://www.youtube.com/watch?v=xbRRD-cD7h4",
     "numberOfGenres": 1,
     "watchOn": "Apple TV",
@@ -4416,7 +4389,7 @@
     ],
     "overview": "Fifteen-year old John Cleaver is dangerous, and he knows it. He’s obsessed with serial killers, but really doesn’t want to become one. Terrible impulses constantly tempt him, so for his own sake, and the safety of those around, he lives by rigid rules to keep himself “good” and “normal”. However, when a real monster shows up in his town he has to let his dark side out in order to stop it – but without his rules to keep him in check, he might be more dangerous than the monster he’s trying to kill.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yol1r7W15bqBAWis9NlWsSknOVe.jpg",
-    "imdbScore": "6.2",
+    "imdbScore": "6.1",
     "trailerLink": "https://www.youtube.com/watch?v=DNjQoD_o6X8",
     "numberOfGenres": 2,
     "watchOn": "Apple TV",
@@ -4455,7 +4428,7 @@
     ],
     "overview": "Convicted of witchcraft, 8-year-old Shula is brought to live in a penal colony where witches do hard labour in service of the government.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWkbuUHugbckItwcyCf8uq1utOJ.jpg",
-    "imdbScore": "7.1",
+    "imdbScore": "7",
     "trailerLink": "https://www.youtube.com/watch?v=jOtcU_-KuaQ",
     "numberOfGenres": 1,
     "watchOn": "Apple TV",
@@ -4556,27 +4529,37 @@
 {
   "film": {
     "title": "I'm Not There",
-    "director": "Ajita Banerjie",
-    "release_date": "2018-07-18",
-    "film_id": 606075,
+    "director": "Todd Haynes",
+    "release_date": "2007-10-01",
+    "film_id": 3902,
     "original_language": "English",
     "spoken_languages": [
-      "No ISO_639_1 language code in DataBase"
+      " English"
     ],
-    "overview": "Two non-binary activists tell their stories of fighting for trans rights in Bangalore.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRF1QSZVqNN9viZRt2JxDINllFI.jpg",
-    "imdbScore": "0",
-    "trailerLink": "https://www.youtube.com/watch?v=-",
-    "numberOfGenres": 1,
+    "overview": "Six actors portray six personas of music legend Bob Dylan in scenes depicting various stages of his life, chronicling his rise from unknown folksinger to international icon and revealing how Dylan constantly reinvented himself.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhUWSLP1FvoZSDOvVN8veIWtX6h.jpg",
+    "imdbScore": "6.7",
+    "trailerLink": "https://www.youtube.com/watch?v=MFUEofAr9GA",
+    "numberOfGenres": 2,
     "watchOn": "Apple TV",
     "genres": {
-      "0": "Documentary"
+      "0": "Drama",
+      "1": "Music"
     },
     "lead_actors": [
-
+      " Cate Blanchett",
+      " Heath Ledger",
+      " Julianne Moore"
     ],
     "supporting_actors": [
-
+      " Ben Whishaw",
+      " Charlotte Gainsbourg",
+      " Michelle Williams",
+      " Christian Bale",
+      " Marcus Carl Franklin",
+      " Richard Gere",
+      " David Cross",
+      " Kris Kristofferson"
     ]
   }
 }
@@ -4602,7 +4585,7 @@
       "1": "Romance"
     },
     "lead_actors": [
-      " Kiki Layne",
+      " KiKi Layne",
       " Stephan James",
       " Regina King"
     ],
@@ -5224,7 +5207,7 @@
     ],
     "overview": "A World War II satire that follows a lonely German boy whose world view is turned upside down when he discovers his single mother is hiding a young Jewish girl in their attic. Aided only by his idiotic imaginary friend, Adolf Hitler, Jojo must confront his blind nationalism.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
-    "imdbScore": "8.2",
+    "imdbScore": "8.1",
     "trailerLink": "https://www.youtube.com/watch?v=tL4McUzXfFI",
     "numberOfGenres": 3,
     "watchOn": "Apple TV",
@@ -5423,7 +5406,7 @@
       " Spanish; Castilian"
     ],
     "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9i3plLl89DHMz7mahksDaAo7HIS.jpg",
     "imdbScore": "7.9",
     "trailerLink": "https://www.youtube.com/watch?v=QWBKEmWWL38",
     "numberOfGenres": 2,
@@ -5662,7 +5645,7 @@
     ],
     "overview": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fQJxq26GU9a4dCQywZ6r8vgYKS.jpg",
-    "imdbScore": "6.7",
+    "imdbScore": "6.8",
     "trailerLink": "https://www.youtube.com/watch?v=-oO6pCRe3pM",
     "numberOfGenres": 5,
     "watchOn": "Apple TV",
@@ -5703,7 +5686,7 @@
     ],
     "overview": "Based on the groundbreaking, cult classic anime, KITE tells the story of Sawa, a young woman living in a corrupt society where crime and gangs terrorize the streets. When Sawa's mother and policeman father are found victims of a grisly double homicide, she begins a ruthless pursuit for the man who murdered them. With the help of her father's ex-partner, Karl Aker, and a mysterious friend from her past, she becomes a merciless teen assassin, blasting her way through the dark world of human trafficking only to uncover a devastating truth",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aar9wWPkmMCYrKpXzNyo5pDZPAT.jpg",
-    "imdbScore": "4.3",
+    "imdbScore": "4.2",
     "trailerLink": "https://www.youtube.com/watch?v=l0l7uphJ-Wg",
     "numberOfGenres": 2,
     "watchOn": "Apple TV",
@@ -5864,11 +5847,10 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iySFtKLrWvVzXzlFj7x1zalxi5G.jpg",
     "imdbScore": "7.3",
     "trailerLink": "https://www.youtube.com/watch?v=cNi_HC839Wo",
-    "numberOfGenres": 2,
+    "numberOfGenres": 1,
     "watchOn": "Apple TV",
     "genres": {
-      "0": "Comedy",
-      "1": "Drama"
+      "0": "Drama"
     },
     "lead_actors": [
       " Saoirse Ronan",
@@ -5954,14 +5936,14 @@
       " Rufus"
     ],
     "supporting_actors": [
+      " Lorella Cravotta",
+      " Serge Merlin",
       " Jamel Debbouze",
+      " Clotilde Mollet",
       " Claire Maurier",
       " Isabelle Nanty",
       " Dominique Pinon",
-      " Artus de Penguern",
-      " Yolande Moreau",
-      " Lorella Cravotta",
-      " Serge Merlin"
+      " Artus de Penguern"
     ]
   }
 }
@@ -5978,7 +5960,7 @@
     ],
     "overview": "Charley Thompson, a teenager living with his single father, gets a summer job working for horse trainer Del Montgomery. Bonding with an aging racehorse named Lean on Pete, Charley is horrified to learn he is bound for slaughter, and so he steals the horse, and the duo embark on an odyssey across the new American frontier.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SuPHSo9Uw8GACkP2oPst512Qhl.jpg",
-    "imdbScore": "6.9",
+    "imdbScore": "6.8",
     "trailerLink": "https://www.youtube.com/watch?v=nzlazAyylw8",
     "numberOfGenres": 2,
     "watchOn": "Apple TV",
@@ -6092,7 +6074,7 @@
       " English"
     ],
     "overview": "Lilya lives in poverty and dreams of a better life. Her mother moves to the United States and abandons her to her aunt, who neglects her. Lilya hangs out with her friends, Natasha and Volodya, who is suicidal. Desperate for money, she starts working as a prostitute, and later meets Andrei. He offers her a good job in Sweden, but when Lilya arrives her life quickly enters a downward spiral.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uqtBLEXFO6qxofV9Hm1SigE3WH.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtCcAL1tqoLe0oXAlgDGbQRS3AP.jpg",
     "imdbScore": "7.8",
     "trailerLink": "https://www.youtube.com/watch?v=zqrQBJNDMgo",
     "numberOfGenres": 2,
@@ -6108,7 +6090,13 @@
     ],
     "supporting_actors": [
       " Liliya Shinkaryova",
-      " Elina Benenson"
+      " Elina Benenson",
+      " Pavel Ponomaryov",
+      " Tomasz Neuman",
+      " Anastasiya Bedredinova",
+      " Tõnu Kark",
+      " Nikolai Bentsler",
+      " Aleksander Dorosjkevitch"
     ]
   }
 }
@@ -6301,7 +6289,7 @@
   "film": {
     "title": "Making Waves: The Art of Cinematic Sound",
     "director": "Midge Costin",
-    "release_date": "2019-11-01",
+    "release_date": "2019-10-25",
     "film_id": 595841,
     "original_language": "English",
     "spoken_languages": [
@@ -6309,7 +6297,7 @@
     ],
     "overview": "An exploration of the history, artistry and emotional power of cinema sound, as revealed by legendary sound designers and visionary directors, via interviews, clips from movies, and a look at their actual process of creation and discovery.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ9K2ElWpFcfvwUK4DoDVPteK2z.jpg",
-    "imdbScore": "6.2",
+    "imdbScore": "6",
     "trailerLink": "https://www.youtube.com/watch?v=WsIE4x3xU0Y",
     "numberOfGenres": 1,
     "watchOn": "Apple TV",
@@ -6419,8 +6407,8 @@
     "film_id": 508003,
     "original_language": "English",
     "spoken_languages": [
-      " English",
-      " French"
+      " French",
+      " English"
     ],
     "overview": "Alexander McQueen's rags-to-riches story is a modern-day fairy tale, laced with the gothic. Mirroring the savage beauty, boldness and vivacity of his design, this documentary is an intimate revelation of McQueen's own world, both tortured and inspired, which celebrates a radical and mesmerizing genius of profound influence.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bc5kAqhNfLitH7zMlLvLRbxV0xD.jpg",
@@ -6539,11 +6527,10 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HkP9ale8G43vqOF3F6wt5h86RN.jpg",
     "imdbScore": "7.4",
     "trailerLink": "https://www.youtube.com/watch?v=w9Rx6-GaSIE",
-    "numberOfGenres": 2,
+    "numberOfGenres": 1,
     "watchOn": "Apple TV",
     "genres": {
-      "0": "Comedy",
-      "1": "Drama"
+      "0": "Drama"
     },
     "lead_actors": [
       " Sunny Suljic",
@@ -6614,7 +6601,7 @@
       " English"
     ],
     "overview": "On a faraway mountaintop, eight kids with guns watch over a hostage and a conscripted milk cow.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ao76bFKVNboOUQorUiLJBKQTrxq.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxxIOWDP6beG37VG3jMxE77pRwC.jpg",
     "imdbScore": "7.1",
     "trailerLink": "https://www.youtube.com/watch?v=eSpuQB2E7NQ",
     "numberOfGenres": 2,
@@ -6653,7 +6640,7 @@
       " English"
     ],
     "overview": "With only three weeks left in his three year contract, Sam Bell is getting anxious to finally return to Earth. He is the only occupant of a Moon-based manufacturing facility along with his computer and assistant, GERTY. When he has an accident however, he wakens to find that he is not alone.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3j0jrGkoJM2CEVedlFK1MmYmKC.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MgjEszEYY6tW4aNsFMo7zYjytR.jpg",
     "imdbScore": "7.6",
     "trailerLink": "https://www.youtube.com/watch?v=twuScTcDP_Q",
     "numberOfGenres": 2,
@@ -6921,7 +6908,7 @@
     ],
     "overview": "An aging, booze-addled father takes a trip from Montana to Nebraska with his estranged son in order to claim what he believes to be a million-dollar sweepstakes prize.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WdcebeFY1ProN3MxKuaT78CK8w.jpg",
-    "imdbScore": "7.4",
+    "imdbScore": "7.5",
     "trailerLink": "https://www.youtube.com/watch?v=YvW_DmfKfSk",
     "numberOfGenres": 2,
     "watchOn": "Apple TV",
@@ -7025,7 +7012,7 @@
 {
   "film": {
     "title": "O Brother, Where Art Thou?",
-    "director": "Joel Coen",
+    "director": "Ethan Coen",
     "release_date": "2000-08-30",
     "film_id": 134,
     "original_language": "English",
@@ -7109,7 +7096,7 @@
       " Korean"
     ],
     "overview": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate businessman seeks revenge on his captors.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKMuZ5hOXSbesbM1Ba1hGugJEro.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9eyqhS9MKBQqQJdGmWjKLH396gJ.jpg",
     "imdbScore": "8.2",
     "trailerLink": "https://www.youtube.com/watch?v=I18wDlx6WzI",
     "numberOfGenres": 4,
@@ -7225,8 +7212,8 @@
       " English"
     ],
     "overview": "Documents the writing, recording and performing of Nick Cave & the Bad Seeds’ sixteenth studio album, Skeleton Tree.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pc41HLSmSrs9t3XcvNzfZGpXaa.jpg",
-    "imdbScore": "8.4",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMgNUGSYqMdBnHwB010vqpTcCG9.jpg",
+    "imdbScore": "8.5",
     "trailerLink": "https://www.youtube.com/watch?v=Hdl5sox2G6g",
     "numberOfGenres": 2,
     "watchOn": "Apple TV",
@@ -7655,7 +7642,7 @@
       " English"
     ],
     "overview": "While on a forgettable first date together in Ohio, a black man and a black woman are pulled over for a minor traffic infraction. The situation escalates, with sudden and tragic results, when the man kills the police officer in self-defense. Terrified and in fear for their lives, the man, a retail employee, and the woman, a criminal defense lawyer, are forced to go on the run. But the incident is captured on video and goes viral, and the couple unwittingly become a symbol of trauma, terror, grief and pain for people across the country.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/coANk5hxXAAAygxIj69YRoyWMvz.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksHdHK17wRKMLkpMH4UslMT1V0p.jpg",
     "imdbScore": "7.2",
     "trailerLink": "https://www.youtube.com/watch?v=JW4RgX08xXw",
     "numberOfGenres": 3,
@@ -7886,7 +7873,7 @@
     ],
     "overview": "Ride with the Devil follows four people who are fighting for truth and justice amidst the turmoil of the American Civil War. Director Ang Lee takes us to a no man's land on the Missouri/Kansas border where a staunch loyalist, an immigrant's son, a freed slave, and a young widow form an unlikely friendship as they learn how to survive in an uncertain time. In a place without rules and redefine the meaning of bravery and honor.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pH3J5IUzho4ZVaRuTuErzqHHovb.jpg",
-    "imdbScore": "6.4",
+    "imdbScore": "6.5",
     "trailerLink": "https://www.youtube.com/watch?v=F8Vwm6dBQI8",
     "numberOfGenres": 4,
     "watchOn": "Apple TV",
@@ -7961,11 +7948,11 @@
     "original_language": "French",
     "spoken_languages": [
       " English",
-      " Polish",
-      " French"
+      " French",
+      " Polish"
     ],
     "overview": "Put in charge of his young son, Ali leaves Belgium for Antibes to live with his sister and her husband as a family. Ali's bond with Stephanie, a killer whale trainer, grows deeper after Stephanie suffers a horrible accident.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFCXw49dYx5bAxbwoxqTApMBlIF.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2qoKskf8SkGwEtJVT4G0CzqcJ7.jpg",
     "imdbScore": "7.2",
     "trailerLink": "https://www.youtube.com/watch?v=1u74RX6o-8I",
     "numberOfGenres": 2,
@@ -8221,7 +8208,7 @@
     ],
     "overview": "After one of their shoplifting sessions, Osamu and his son come across a little girl in the freezing cold. At first reluctant to shelter the girl, Osamu’s wife agrees to take care of her after learning of the hardships she faces. Although the family is poor, barely making enough money to survive through petty crime, they seem to live happily together until an unforeseen incident reveals hidden secrets, testing the bonds that unite them.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg",
-    "imdbScore": "8",
+    "imdbScore": "7.9",
     "trailerLink": "https://www.youtube.com/watch?v=9382rwoMiRc",
     "numberOfGenres": 2,
     "watchOn": "Apple TV",
@@ -8774,7 +8761,7 @@
       " English"
     ],
     "overview": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7X1Tjt5N1eFCfNq3wUQSoTorobB.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzMQEGJjmzCG3pbv3YMeTjRj8QE.jpg",
     "imdbScore": "5.9",
     "trailerLink": "https://www.youtube.com/watch?v=PLLQK9la6Go",
     "numberOfGenres": 5,
@@ -8926,7 +8913,7 @@
     ],
     "overview": "When Aurangzeb recruits his trusted soldier Udaybhan to control the Kondhana fort, Shivaji's military leader Tanhaji Malusare and his army of Maratha warriors set out to recapture the fortress.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vO0gmWUmLAnVUtVbuWEScIWEAy.jpg",
-    "imdbScore": "6.3",
+    "imdbScore": "6.5",
     "trailerLink": "https://www.youtube.com/watch?v=-",
     "numberOfGenres": 3,
     "watchOn": "Mac Mini",
@@ -9586,7 +9573,7 @@
       " English"
     ],
     "overview": "The sequel to House of 1000 Corpses – the Firefly family are ambushed at their isolated home by Sheriff Wydell and a squad of armed men guns blazing – yet only Otis and his sister, Baby, manage to escape the barrage of bullets unharmed. Hiding out in a backwater motel, the wanted siblings wait to rendezvous with their errant father, Captain Spaulding, killing whoever happens to stand in their way.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAmK6Ev2IeI8VqNbagpF3yxPOSD.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jh7DntVbhrNS4JkeEQW6QxcPWim.jpg",
     "imdbScore": "6.7",
     "trailerLink": "https://www.youtube.com/watch?v=poxddLZq2k0",
     "numberOfGenres": 3,
@@ -9760,7 +9747,10 @@
       " Terry Norton",
       " Dominika Jablonska",
       " Rob Gough",
-      " Morné Visser"
+      " Morné Visser",
+      " Thandi Makhubele",
+      " Osbert Solomons",
+      " Warrick Grier"
     ]
   }
 }
@@ -9970,7 +9960,7 @@
       " French"
     ],
     "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjjM1uE5wFHEdN046baDSwTXemb.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1TwIEJ3RBKmXdCMYkeqORTHZcP.jpg",
     "imdbScore": "8",
     "trailerLink": "https://www.youtube.com/watch?v=1Fg5iWmQjwk",
     "numberOfGenres": 2,
@@ -10162,7 +10152,7 @@
       " English"
     ],
     "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQeVJAvx6YCRGqaaZZpPm1WxMv6.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
     "imdbScore": "7.3",
     "trailerLink": "https://www.youtube.com/watch?v=9PSXjr1gbjc",
     "numberOfGenres": 3,
@@ -10201,7 +10191,7 @@
       " English"
     ],
     "overview": "Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4fUzktMexHnTfR3Qn44o3r0XAq.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
     "imdbScore": "7.3",
     "trailerLink": "https://www.youtube.com/watch?v=Y6Fv5StfAxA",
     "numberOfGenres": 3,
@@ -10240,7 +10230,7 @@
       " English"
     ],
     "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/beqHE5BZY5LczMxJezL4FdY7mBp.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckAJAtGcIrXy90wUuIdCmLCzkPW.jpg",
     "imdbScore": "7.6",
     "trailerLink": "https://www.youtube.com/watch?v=Os1G8RtqY2c",
     "numberOfGenres": 3,
@@ -10761,7 +10751,7 @@
       " English"
     ],
     "overview": "The City of Salem, Massachusetts is visited by a coven of ancient witches.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqZ6CGGZpQWt139YioekSYHvvkU.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayVAnvBvyNpG5MU8MO1PRBJNH56.jpg",
     "imdbScore": "5.3",
     "trailerLink": "https://www.youtube.com/watch?v=Y606RoSur8o",
     "numberOfGenres": 2,
@@ -11235,7 +11225,7 @@
     ],
     "overview": "A group of Israelis and Palestinians come together in Oslo for an unsanctioned peace talks during the 1990s in order to bring peace to the Middle East.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/finfdvPVHwuOXtKI0VnGYgOidh.jpg",
-    "imdbScore": "8.3",
+    "imdbScore": "8.2",
     "trailerLink": "https://www.youtube.com/watch?v=291903962",
     "numberOfGenres": 1,
     "watchOn": "Apple TV",
@@ -11455,7 +11445,7 @@
       " English"
     ],
     "overview": "Three college students on a road trip across the Southwest experience a detour – the tracking of a computer genius who has already hacked into MIT and exposed security faults. When the trio find themselves drawn to an eerily isolated area, suddenly everything goes dark. When one of the students regains consciousness, he finds himself in a waking nightmare.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A92VeYebWRm5pC3ZbIPUE7Wzsoa.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/opZNdMgVBl3kKpKlW58PXnLZKFV.jpg",
     "imdbScore": "5.9",
     "trailerLink": "https://www.youtube.com/watch?v=oXV_CU_ryKs",
     "numberOfGenres": 2,
@@ -12156,7 +12146,7 @@
       " English"
     ],
     "overview": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as “V” conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxekpqZUpO5W65QT12goucFvyx9.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ySXWBckQboalTZjhaLWRqc3gCN.jpg",
     "imdbScore": "7.9",
     "trailerLink": "https://www.youtube.com/watch?v=ZR5xUl2Suew",
     "numberOfGenres": 3,
@@ -12346,7 +12336,7 @@
       " Russian"
     ],
     "overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x53Q4m614dvPp3eV0lIwMeIubo9.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j65XLrHEAqXk10pk5BcISCim3L7.jpg",
     "imdbScore": "7.5",
     "trailerLink": "https://www.youtube.com/watch?v=pbQ22zWPYbw",
     "numberOfGenres": 3,
@@ -12488,7 +12478,7 @@
   "film": {
     "title": "Wild",
     "director": "Jean-Marc Vallée",
-    "release_date": "2014-12-05",
+    "release_date": "2014-01-16",
     "film_id": 228970,
     "original_language": "English",
     "spoken_languages": [
@@ -12612,7 +12602,7 @@
     ],
     "overview": "Middle-aged and divorced, Wilson finds himself lonely, smug and obsessed with his past.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m63h5MxevYrKn3720hVgKZAx86S.jpg",
-    "imdbScore": "5.8",
+    "imdbScore": "5.7",
     "trailerLink": "https://www.youtube.com/watch?v=jjPxlzjuLww",
     "numberOfGenres": 1,
     "watchOn": "Apple TV",
@@ -12688,7 +12678,7 @@
       " English"
     ],
     "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLMpv8ckcDP3kiEd2fhwY7XrjHz.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
     "imdbScore": "6.7",
     "trailerLink": "https://www.youtube.com/watch?v=slfrrjPndV4",
     "numberOfGenres": 5,
@@ -12770,7 +12760,7 @@
     ],
     "overview": "Jamaica, 1973. When a young boy witnesses his brother’s assassination, a powerful Don gives him a home. But 10 years later, when he’s sent to London, his past catches up to him.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1c8aVdTwIMLR3LjypS6fRmvVCZ0.jpg",
-    "imdbScore": "5.9",
+    "imdbScore": "5.8",
     "trailerLink": "https://www.youtube.com/watch?v=ee24QB3o16o",
     "numberOfGenres": 1,
     "watchOn": "Apple TV",

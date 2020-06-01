@@ -1,27 +1,37 @@
 {
   "film": {
     "title": "I'm Not There",
-    "director": "Ajita Banerjie",
-    "release_date": "2018-07-18",
-    "film_id": 606075,
+    "director": "Todd Haynes",
+    "release_date": "2007-10-01",
+    "film_id": 3902,
     "original_language": "English",
     "spoken_languages": [
-      "No ISO_639_1 language code in DataBase"
+      " English"
     ],
-    "overview": "Two non-binary activists tell their stories of fighting for trans rights in Bangalore.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRF1QSZVqNN9viZRt2JxDINllFI.jpg",
-    "imdbScore": "0",
-    "trailerLink": "https://www.youtube.com/watch?v=-",
-    "numberOfGenres": 1,
+    "overview": "Six actors portray six personas of music legend Bob Dylan in scenes depicting various stages of his life, chronicling his rise from unknown folksinger to international icon and revealing how Dylan constantly reinvented himself.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhUWSLP1FvoZSDOvVN8veIWtX6h.jpg",
+    "imdbScore": "6.7",
+    "trailerLink": "https://www.youtube.com/watch?v=MFUEofAr9GA",
+    "numberOfGenres": 2,
     "watchOn": "Apple TV",
     "genres": {
-      "0": "Documentary"
+      "0": "Drama",
+      "1": "Music"
     },
     "lead_actors": [
-
+      " Cate Blanchett",
+      " Heath Ledger",
+      " Julianne Moore"
     ],
     "supporting_actors": [
-
+      " Ben Whishaw",
+      " Charlotte Gainsbourg",
+      " Michelle Williams",
+      " Christian Bale",
+      " Marcus Carl Franklin",
+      " Richard Gere",
+      " David Cross",
+      " Kris Kristofferson"
     ]
   }
 }

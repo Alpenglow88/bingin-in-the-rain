@@ -12,11 +12,10 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HkP9ale8G43vqOF3F6wt5h86RN.jpg",
     "imdbScore": "7.4",
     "trailerLink": "https://www.youtube.com/watch?v=w9Rx6-GaSIE",
-    "numberOfGenres": 2,
+    "numberOfGenres": 1,
     "watchOn": "Apple TV",
     "genres": {
-      "0": "Comedy",
-      "1": "Drama"
+      "0": "Drama"
     },
     "lead_actors": [
       " Sunny Suljic",

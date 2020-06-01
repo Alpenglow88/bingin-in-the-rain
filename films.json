@@ -604,45 +604,6 @@
 ,
 {
   "film": {
-    "title": "Along with the Gods: The Two Worlds",
-    "director": "Kim Yong-hwa",
-    "release_date": "2017-12-14",
-    "film_id": 397567,
-    "original_language": "Korean",
-    "spoken_languages": [
-      " Korean"
-    ],
-    "overview": "Having died unexpectedly, firefighter Ja-hong is taken to the afterlife by 3 afterlife guardians. Only when he passes 7 trials over 49 days and proves he was innocent in human life, he’s able to reincarnate, and his 3 afterlife guardians are by his side to defend him in trial.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJSvIsI6oQfFim0PGyuuiCYfqKs.jpg",
-    "imdbScore": "7.6",
-    "trailerLink": "https://www.youtube.com/watch?v=dyh_OY1DgqU",
-    "numberOfGenres": 3,
-    "watchOn": "Mac Mini",
-    "genres": {
-      "0": "Drama",
-      "1": "Fantasy",
-      "2": "Action"
-    },
-    "lead_actors": [
-      " Ha Jung-woo",
-      " Cha Tae-Hyun",
-      " Ju Ji-hoon"
-    ],
-    "supporting_actors": [
-      " Kim Hyang-gi",
-      " Kim Dong-wook",
-      " Doh Kyung-soo",
-      " Lee Jung-jae",
-      " Oh Dal-su",
-      " Im Won-hee",
-      " Lee Jun-hyuk",
-      " Ye Soo-jung"
-    ]
-  }
-}
-,
-{
-  "film": {
     "title": "An Education",
     "director": "Lone Scherfig",
     "release_date": "2009-10-29",
@@ -11942,44 +11903,6 @@
 ,
 {
   "film": {
-    "title": "Tucker and Dale vs. Evil",
-    "director": "Eli Craig",
-    "release_date": "2010-01-22",
-    "film_id": 46838,
-    "original_language": "English",
-    "spoken_languages": [
-      " English"
-    ],
-    "overview": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
-    "imdbScore": "7.3",
-    "trailerLink": "https://www.youtube.com/watch?v=NdNpFoWrBDQ",
-    "numberOfGenres": 2,
-    "watchOn": "Mac Mini",
-    "genres": {
-      "0": "Comedy",
-      "1": "Horror"
-    },
-    "lead_actors": [
-      " Alan Tudyk",
-      " Tyler Labine",
-      " Katrina Bowden"
-    ],
-    "supporting_actors": [
-      " Jesse Moss",
-      " Philip Granger",
-      " Brandon Jay McLaren",
-      " Christie Laing",
-      " Chelan Simmons",
-      " Travis Nelson",
-      " Alex Arsenault",
-      " Adam Beauchesne"
-    ]
-  }
-}
-,
-{
-  "film": {
     "title": "Turn Me On, Dammit!",
     "director": "Jannicke Systad Jacobsen",
     "release_date": "2011-08-19",
@@ -12431,6 +12354,47 @@
       " Josiah Santiago",
       " Isaiah Kristian",
       " Giovanni Pacciarelli"
+    ]
+  }
+}
+,
+{
+  "film": {
+    "title": "Weathering with You",
+    "director": "Makoto Shinkai",
+    "release_date": "2019-07-19",
+    "film_id": 568160,
+    "original_language": "Japanese",
+    "spoken_languages": [
+      " Japanese"
+    ],
+    "overview": "Tokyo is currently experiencing rain showers that seem to disrupt the usual pace of everyone living there to no end. Amidst this seemingly eternal downpour arrives the runaway high school student Hodaka Morishima, who struggles to financially support himself—ending up with a job at a small-time publisher. At the same time, the orphaned Hina Amano also strives to find work to sustain herself and her younger brother.\r Both fates intertwine when Hodaka attempts to rescue Hina from shady men, deciding to run away together. Subsequently, Hodaka discovers that Hina has a strange yet astounding power: the ability to call out the sun whenever she prays for it. With Tokyo's unusual weather in mind, Hodaka sees the potential of this ability. He suggests that Hina should become a \"sunshine girl\"—someone who will clear the sky for people when they need it the most.\r Things begin looking up for them at first. However, it is common knowledge that power always comes with a hefty price...",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg",
+    "imdbScore": "7.9",
+    "trailerLink": "https://www.youtube.com/watch?v=Q6iK6DjV_iE",
+    "numberOfGenres": 5,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "Animation",
+      "1": "Romance",
+      "2": "Fantasy",
+      "3": "Drama",
+      "4": "Adventure"
+    },
+    "lead_actors": [
+      " Kotaro Daigo",
+      " Nana Mori",
+      " Tsubasa Honda"
+    ],
+    "supporting_actors": [
+      " Sakura Kiryu",
+      " Sei Hiraizumi",
+      " Yuki Kaji",
+      " Chieko Baisho",
+      " Shun Oguri",
+      " Sumi Shimamoto",
+      " Ryohei Kimura",
+      " Kana Hanazawa"
     ]
   }
 }

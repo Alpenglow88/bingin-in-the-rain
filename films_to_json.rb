@@ -18,6 +18,9 @@ Dir.mkdir('./json_film_list')
 FileUtils.rm_rf('./views/alphabetical_views')
 Dir.mkdir('./views/alphabetical_views')
 
+FileUtils.rm_rf('./views/html_film_views')
+Dir.mkdir('./views/html_film_views')
+
 FileUtils.rm_rf('./views/genre_views')
 Dir.mkdir('./views/genre_views')
 

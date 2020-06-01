@@ -246,8 +246,8 @@ app.get("/ACureforWellness", function (req, res) {res.render("html_film_views/AC
 app.get("/AHistoryofViolence", function (req, res) {res.render("html_film_views/AHistoryofViolence", { version: version })})
 
 
-
 app.get("/AQuietPlace", function (req, res) {res.render("html_film_views/AQuietPlace", { version: version })})
+
 
 app.get("/ATaxiDriver", function (req, res) {res.render("html_film_views/ATaxiDriver", { version: version })})
 
@@ -272,8 +272,8 @@ app.get("/Allied", function (req, res) {res.render("html_film_views/Allied", { v
 
 app.get("/AlongwiththeGods:TheTwoWorlds", function (req, res) {res.render("html_film_views/AlongwiththeGods:TheTwoWorlds", { version: version })})
 
-app.get("/AnEducation", function (req, res) {res.render("html_film_views/AnEducation", { version: version })})
 
+app.get("/AnEducation", function (req, res) {res.render("html_film_views/AnEducation", { version: version })})
 
 
 app.get("/Angel-A", function (req, res) {res.render("html_film_views/Angel-A", { version: version })})
@@ -315,14 +315,14 @@ app.get("/BigHero6", function (req, res) {res.render("html_film_views/BigHero6",
 app.get("/BirdsofPrey(andtheFantabulousEmancipationofOneHarleyQuinn)", function (req, res) {res.render("html_film_views/BirdsofPrey(andtheFantabulousEmancipationofOneHarleyQuinn)", { version: version })})
 
 
-app.get("/BlacKkKlansman", function (req, res) {res.render("html_film_views/BlacKkKlansman", { version: version })})
 
 
 app.get("/BlackHawkDown", function (req, res) {res.render("html_film_views/BlackHawkDown", { version: version })})
 
+app.get("/BlacKkKlansman", function (req, res) {res.render("html_film_views/BlacKkKlansman", { version: version })})
+
 
 app.get("/BlackSwan", function (req, res) {res.render("html_film_views/BlackSwan", { version: version })})
-
 
 app.get("/BladeRunner", function (req, res) {res.render("html_film_views/BladeRunner", { version: version })})
 
@@ -384,8 +384,8 @@ app.get("/DawnoftheDead", function (req, res) {res.render("html_film_views/Dawno
 app.get("/DayoftheDead", function (req, res) {res.render("html_film_views/DayoftheDead", { version: version })})
 
 
-app.get("/DeadMan'sShoes", function (req, res) {res.render("html_film_views/DeadMan'sShoes", { version: version })})
 
+app.get("/DeadMan'sShoes", function (req, res) {res.render("html_film_views/DeadMan'sShoes", { version: version })})
 
 app.get("/Deadpool", function (req, res) {res.render("html_film_views/Deadpool", { version: version })})
 
@@ -393,8 +393,8 @@ app.get("/Deadpool", function (req, res) {res.render("html_film_views/Deadpool",
 app.get("/Deadpool2", function (req, res) {res.render("html_film_views/Deadpool2", { version: version })})
 
 
-
 app.get("/Deadwood:TheMovie", function (req, res) {res.render("html_film_views/Deadwood:TheMovie", { version: version })})
+
 
 app.get("/Delinquent", function (req, res) {res.render("html_film_views/Delinquent", { version: version })})
 
@@ -416,8 +416,8 @@ app.get("/EasternPromises", function (req, res) {res.render("html_film_views/Eas
 
 app.get("/EscapeFromPretoria", function (req, res) {res.render("html_film_views/EscapeFromPretoria", { version: version })})
 
-
 app.get("/Everest", function (req, res) {res.render("html_film_views/Everest", { version: version })})
+
 
 
 app.get("/EvilDeadII", function (req, res) {res.render("html_film_views/EvilDeadII", { version: version })})
@@ -572,8 +572,8 @@ app.get("/I,DanielBlake", function (req, res) {res.render("html_film_views/I,Dan
 
 app.get("/IKillGiants", function (req, res) {res.render("html_film_views/IKillGiants", { version: version })})
 
-
 app.get("/I'mNotThere", function (req, res) {res.render("html_film_views/I'mNotThere", { version: version })})
+
 
 
 app.get("/IfBealeStreetCouldTalk", function (req, res) {res.render("html_film_views/IfBealeStreetCouldTalk", { version: version })})
@@ -729,8 +729,8 @@ app.get("/Melancholia", function (req, res) {res.render("html_film_views/Melanch
 app.get("/mid90s", function (req, res) {res.render("html_film_views/mid90s", { version: version })})
 
 
-
 app.get("/MidnightSpecial", function (req, res) {res.render("html_film_views/MidnightSpecial", { version: version })})
+
 
 app.get("/Monos", function (req, res) {res.render("html_film_views/Monos", { version: version })})
 
@@ -789,8 +789,8 @@ app.get("/Onward", function (req, res) {res.render("html_film_views/Onward", { v
 app.get("/Passengers", function (req, res) {res.render("html_film_views/Passengers", { version: version })})
 
 
-
 app.get("/Paterson", function (req, res) {res.render("html_film_views/Paterson", { version: version })})
+
 
 app.get("/PenguinsofMadagascar", function (req, res) {res.render("html_film_views/PenguinsofMadagascar", { version: version })})
 
@@ -812,6 +812,7 @@ app.get("/Prometheus", function (req, res) {res.render("html_film_views/Promethe
 
 app.get("/Psycho", function (req, res) {res.render("html_film_views/Psycho", { version: version })})
 
+
 app.get("/Queen&Slim", function (req, res) {res.render("html_film_views/Queen&Slim", { version: version })})
 
 
@@ -819,7 +820,6 @@ app.get("/QueenofKatwe", function (req, res) {res.render("html_film_views/Queeno
 
 
 app.get("/Rabbit-ProofFence", function (req, res) {res.render("html_film_views/Rabbit-ProofFence", { version: version })})
-
 
 
 app.get("/ReadyPlayerOne", function (req, res) {res.render("html_film_views/ReadyPlayerOne", { version: version })})
@@ -854,6 +854,7 @@ app.get("/SherlockHolmes", function (req, res) {res.render("html_film_views/Sher
 
 app.get("/SherlockHolmes:AGameofShadows", function (req, res) {res.render("html_film_views/SherlockHolmes:AGameofShadows", { version: version })})
 
+
 app.get("/Sherpa", function (req, res) {res.render("html_film_views/Sherpa", { version: version })})
 
 
@@ -874,6 +875,7 @@ app.get("/Skyfall", function (req, res) {res.render("html_film_views/Skyfall", {
 
 app.get("/SlowWest", function (req, res) {res.render("html_film_views/SlowWest", { version: version })})
 
+
 app.get("/Snowpiercer", function (req, res) {res.render("html_film_views/Snowpiercer", { version: version })})
 
 
@@ -887,7 +889,6 @@ app.get("/SorryWeMissedYou", function (req, res) {res.render("html_film_views/So
 
 
 app.get("/Spider-Man:FarfromHome", function (req, res) {res.render("html_film_views/Spider-Man:FarfromHome", { version: version })})
-
 
 
 app.get("/Spider-Man:IntotheSpider-Verse", function (req, res) {res.render("html_film_views/Spider-Man:IntotheSpider-Verse", { version: version })})
@@ -914,13 +915,14 @@ app.get("/SympathyforMr.Vengeance", function (req, res) {res.render("html_film_v
 app.get("/Tanhaji:TheUnsungWarrior", function (req, res) {res.render("html_film_views/Tanhaji:TheUnsungWarrior", { version: version })})
 
 
-
-
 app.get("/TeAta", function (req, res) {res.render("html_film_views/TeAta", { version: version })})
+
+
 app.get("/ThankYouforSmoking", function (req, res) {res.render("html_film_views/ThankYouforSmoking", { version: version })})
 
 
 app.get("/The13thWarrior", function (req, res) {res.render("html_film_views/The13thWarrior", { version: version })})
+
 
 app.get("/TheAngels'Share", function (req, res) {res.render("html_film_views/TheAngels'Share", { version: version })})
 
@@ -935,7 +937,6 @@ app.get("/TheBoyintheStripedPyjamas", function (req, res) {res.render("html_film
 
 
 app.get("/TheBreadwinner", function (req, res) {res.render("html_film_views/TheBreadwinner", { version: version })})
-
 
 
 app.get("/TheCabinintheWoods", function (req, res) {res.render("html_film_views/TheCabinintheWoods", { version: version })})
@@ -969,7 +970,6 @@ app.get("/TheEvilDead", function (req, res) {res.render("html_film_views/TheEvil
 
 
 app.get("/TheFall", function (req, res) {res.render("html_film_views/TheFall", { version: version })})
-
 
 
 app.get("/TheFloridaProject", function (req, res) {res.render("html_film_views/TheFloridaProject", { version: version })})
@@ -1061,8 +1061,8 @@ app.get("/TheLostCityofZ", function (req, res) {res.render("html_film_views/TheL
 
 app.get("/TheMagnificentSeven", function (req, res) {res.render("html_film_views/TheMagnificentSeven", { version: version })})
 
-
 app.get("/TheManWhoKilledHitlerandThentheBigfoot", function (req, res) {res.render("html_film_views/TheManWhoKilledHitlerandThentheBigfoot", { version: version })})
+
 
 
 app.get("/TheManWhoWouldBeKing", function (req, res) {res.render("html_film_views/TheManWhoWouldBeKing", { version: version })})
@@ -1080,8 +1080,8 @@ app.get("/TheMatrixReloaded", function (req, res) {res.render("html_film_views/T
 app.get("/TheMatrixRevolutions", function (req, res) {res.render("html_film_views/TheMatrixRevolutions", { version: version })})
 
 
-app.get("/TheMenWhoStareatGoats", function (req, res) {res.render("html_film_views/TheMenWhoStareatGoats", { version: version })})
 
+app.get("/TheMenWhoStareatGoats", function (req, res) {res.render("html_film_views/TheMenWhoStareatGoats", { version: version })})
 
 app.get("/TheNeonDemon", function (req, res) {res.render("html_film_views/TheNeonDemon", { version: version })})
 
@@ -1125,8 +1125,8 @@ app.get("/TheThing", function (req, res) {res.render("html_film_views/TheThing",
 app.get("/TheTreeofLife", function (req, res) {res.render("html_film_views/TheTreeofLife", { version: version })})
 
 
-app.get("/TheUsualSuspects", function (req, res) {res.render("html_film_views/TheUsualSuspects", { version: version })})
 
+app.get("/TheUsualSuspects", function (req, res) {res.render("html_film_views/TheUsualSuspects", { version: version })})
 
 app.get("/TheVoices", function (req, res) {res.render("html_film_views/TheVoices", { version: version })})
 
@@ -1173,8 +1173,8 @@ app.get("/Venom", function (req, res) {res.render("html_film_views/Venom", { ver
 app.get("/Victoria", function (req, res) {res.render("html_film_views/Victoria", { version: version })})
 
 
-app.get("/ViewfromaBlueMoon", function (req, res) {res.render("html_film_views/ViewfromaBlueMoon", { version: version })})
 
+app.get("/ViewfromaBlueMoon", function (req, res) {res.render("html_film_views/ViewfromaBlueMoon", { version: version })})
 
 app.get("/WalktheLine", function (req, res) {res.render("html_film_views/WalktheLine", { version: version })})
 

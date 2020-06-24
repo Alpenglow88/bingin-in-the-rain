@@ -15,9 +15,9 @@
     "numberOfGenres": 3,
     "watchOn": "Apple TV",
     "genres": {
-      "0": "Action",
-      "1": "Adventure",
-      "2": "Comedy"
+      "0": "Adventure",
+      "1": "Comedy",
+      "2": "Crime"
     },
     "lead_actors": [
       " George Clooney",

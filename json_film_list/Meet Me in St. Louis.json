@@ -10,13 +10,14 @@
     ],
     "overview": "In the year before the 1904 St Louis World's Fair, the four Smith daughters learn lessons of life and love, even as they prepare for a reluctant move to New York.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPGcAYwFGNdfkHQnuLnxNBY9AiS.jpg",
-    "imdbScore": "7.1",
+    "imdbScore": "7",
     "trailerLink": "https://www.youtube.com/watch?v=hSKvNcC6eo8",
-    "numberOfGenres": 2,
+    "numberOfGenres": 3,
     "watchOn": "Apple TV",
     "genres": {
       "0": "Comedy",
-      "1": "Romance"
+      "1": "Romance",
+      "2": "Music"
     },
     "lead_actors": [
       " Judy Garland",

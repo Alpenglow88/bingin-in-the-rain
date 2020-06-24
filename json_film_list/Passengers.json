@@ -1,38 +1,39 @@
 {
   "film": {
     "title": "Passengers",
-    "director": "Morten Tyldum",
-    "release_date": "2016-12-21",
-    "film_id": 274870,
+    "director": "Rodrigo García",
+    "release_date": "2008-09-26",
+    "film_id": 13944,
     "original_language": "English",
     "spoken_languages": [
       " English"
     ],
-    "overview": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5DpXC4ZxH4dnydcz7qav9iA4U.jpg",
-    "imdbScore": "6.9",
-    "trailerLink": "https://www.youtube.com/watch?v=7BWWWQzTpNU",
-    "numberOfGenres": 3,
+    "overview": "After a plane crash, a young therapist, Claire, is assigned by her mentor to counsel the flight's five survivors. When they share their recollections of the incident -- which some say include an explosion that the airline claims never happened -- Claire is intrigued by Eric, the most secretive of the passengers",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sD0fX1NwZqeNxseIOzcSt2PHldX.jpg",
+    "imdbScore": "5.9",
+    "trailerLink": "https://www.youtube.com/watch?v=KG7t3xvrqEs",
+    "numberOfGenres": 4,
     "watchOn": "Apple TV",
     "genres": {
       "0": "Drama",
-      "1": "Romance",
-      "2": "Science Fiction"
+      "1": "Mystery",
+      "2": "Thriller",
+      "3": "Romance"
     },
     "lead_actors": [
-      " Jennifer Lawrence",
-      " Chris Pratt",
-      " Michael Sheen"
+      " Anne Hathaway",
+      " Patrick Wilson",
+      " Andre Braugher"
     ],
     "supporting_actors": [
-      " Laurence Fishburne",
-      " Andy García",
-      " Aurora Perrineau",
-      " Julee Cerda",
-      " Kristin Brock",
-      " Vince Foster",
-      " Kara Flowers",
-      " Conor Brophy"
+      " Dianne Wiest",
+      " David Morse",
+      " William B. Davis",
+      " Ryan Robbins",
+      " Clea DuVall",
+      " Don Thompson",
+      " Andrew Wheeler",
+      " Chelah Horsdal"
     ]
   }
 }

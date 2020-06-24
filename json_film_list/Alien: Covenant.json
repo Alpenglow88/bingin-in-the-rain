@@ -12,12 +12,11 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
     "imdbScore": "5.9",
     "trailerLink": "https://www.youtube.com/watch?v=svnAD0TApb8",
-    "numberOfGenres": 3,
+    "numberOfGenres": 2,
     "watchOn": "Apple TV",
     "genres": {
       "0": "Horror",
-      "1": "Science Fiction",
-      "2": "Thriller"
+      "1": "Science Fiction"
     },
     "lead_actors": [
       " Michael Fassbender",

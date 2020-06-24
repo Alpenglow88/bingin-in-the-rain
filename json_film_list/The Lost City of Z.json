@@ -15,13 +15,12 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FZqw7fP6r5BkPqo6LHzP4jwnHj.jpg",
     "imdbScore": "6.2",
     "trailerLink": "https://www.youtube.com/watch?v=Yixiv6A0BbU",
-    "numberOfGenres": 4,
+    "numberOfGenres": 3,
     "watchOn": "Apple TV",
     "genres": {
       "0": "Adventure",
       "1": "Drama",
-      "2": "History",
-      "3": "Action"
+      "2": "History"
     },
     "lead_actors": [
       " Charlie Hunnam",

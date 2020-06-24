@@ -12,11 +12,12 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o384OC1tCV8nCnozkM6y4MiSqsw.jpg",
     "imdbScore": "6.7",
     "trailerLink": "https://www.youtube.com/watch?v=iQXmlf3Sefg",
-    "numberOfGenres": 2,
+    "numberOfGenres": 3,
     "watchOn": "Apple TV",
     "genres": {
       "0": "Mystery",
-      "1": "Horror"
+      "1": "Horror",
+      "2": "Drama"
     },
     "lead_actors": [
       " Anya Taylor-Joy",

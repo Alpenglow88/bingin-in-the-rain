@@ -12,11 +12,10 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdxZZ04HFh98ZZBiTZNWHMexsGZ.jpg",
     "imdbScore": "6.5",
     "trailerLink": "https://www.youtube.com/watch?v=9tyMi1Hn32I",
-    "numberOfGenres": 2,
+    "numberOfGenres": 1,
     "watchOn": "Apple TV",
     "genres": {
-      "0": "Horror",
-      "1": "Thriller"
+      "0": "Horror"
     },
     "lead_actors": [
       " Maika Monroe",

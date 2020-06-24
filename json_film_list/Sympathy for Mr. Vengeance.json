@@ -1,29 +1,38 @@
 {
   "film": {
     "title": "Sympathy for Mr. Vengeance",
-    "director": "Hany Abu-Assad",
-    "release_date": "",
-    "film_id": 417956,
-    "original_language": "English",
+    "director": "Park Chan-wook",
+    "release_date": "2002-03-29",
+    "film_id": 4689,
+    "original_language": "Korean",
     "spoken_languages": [
-      "No ISO_639_1 language code in DataBase"
+      " Korean"
     ],
-    "overview": "A recently laid off factory worker kidnaps his former boss' daughter, hoping to use the ransom money to pay for his sister's kidney transplant.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2",
-    "imdbScore": "0",
-    "trailerLink": "https://www.youtube.com/watch?v=-",
+    "overview": "This is the story of Ryu, a deaf man, and his sister, who requires a kidney transplant. Ryu's boss, Park, has just laid him off, and in order to afford the transplant, Ryu and his girlfriend develop a plan to kidnap Park's daughter. Things go horribly wrong, and the situation spirals rapidly into a cycle of violence and revenge.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtB1B1KcmggRfuhZELQ08aIGBV1.jpg",
+    "imdbScore": "7.4",
+    "trailerLink": "https://www.youtube.com/watch?v=6D0cjs2NW9w",
     "numberOfGenres": 3,
     "watchOn": "Mac Mini",
     "genres": {
-      "0": "Crime",
+      "0": "Action",
       "1": "Drama",
       "2": "Thriller"
     },
     "lead_actors": [
-
+      " Song Kang-ho",
+      " Shin Ha-kyun",
+      " Bae Doo-na"
     ],
     "supporting_actors": [
-
+      " Im Ji-eun",
+      " Han Bo-bae",
+      " Lee Dae-yeon",
+      " Kim Se-dong",
+      " Ki Joo-bong",
+      " Jung Jae-young",
+      " Ryoo Seung-wan",
+      " Ryoo Seung-bum"
     ]
   }
 }

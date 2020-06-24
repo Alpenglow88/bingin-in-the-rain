@@ -1,0 +1,40 @@
+{
+  "film": {
+    "title": "Mongol: The Rise of Genghis Khan",
+    "director": "Sergei Bodrov",
+    "release_date": "2007-09-20",
+    "film_id": 12246,
+    "original_language": "Russian",
+    "spoken_languages": [
+      " Chinese",
+      " Mongolian"
+    ],
+    "overview": "The story recounts the early life of Genghis Khan, a slave who went on to conquer half the world in the 11th century.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RWKWOqcovBWZNpCXJ8Bx9cMcNF.jpg",
+    "imdbScore": "6.8",
+    "trailerLink": "https://www.youtube.com/watch?v=Hr_PNoCZXg4",
+    "numberOfGenres": 4,
+    "watchOn": "Mac Mini",
+    "genres": {
+      "0": "History",
+      "1": "Adventure",
+      "2": "War",
+      "3": "Action"
+    },
+    "lead_actors": [
+      " Tadanobu Asano",
+      " Sun Honglei",
+      " Khulan Chuluun"
+    ],
+    "supporting_actors": [
+      " Aliya",
+      " Ba Sen",
+      " Amadu Mamadakov",
+      " He Qi",
+      " Ben Hon Sun",
+      " Ji Ri Mu Tu",
+      " You Er",
+      " Huntun Batu"
+    ]
+  }
+}

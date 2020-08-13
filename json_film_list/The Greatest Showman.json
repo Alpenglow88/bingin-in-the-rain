@@ -6,8 +6,8 @@
     "film_id": 316029,
     "original_language": "English",
     "spoken_languages": [
-      " French",
-      " English"
+      " English",
+      " French"
     ],
     "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
@@ -20,18 +20,18 @@
     },
     "lead_actors": [
       " Hugh Jackman",
-      " Michelle Williams",
-      " Zac Efron"
+      " Zendaya",
+      " Carly Adams"
     ],
     "supporting_actors": [
-      " Zendaya",
       " Rebecca Ferguson",
+      " Michelle Williams",
+      " Zac Efron",
       " Keala Settle",
       " Yahya Abdul-Mateen II",
       " Paul Sparks",
       " Sam Humphrey",
-      " Austyn Johnson",
-      " Cameron Seely"
+      " Austyn Johnson"
     ]
   }
 }

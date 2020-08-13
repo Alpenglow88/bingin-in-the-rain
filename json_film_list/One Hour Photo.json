@@ -12,11 +12,10 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuSIN3Nq6dmaA8LZSkASpQueFO1.jpg",
     "imdbScore": "6.6",
     "trailerLink": "https://www.youtube.com/watch?v=1kF3SCjGtI0",
-    "numberOfGenres": 2,
+    "numberOfGenres": 1,
     "watchOn": "Apple TV",
     "genres": {
-      "0": "Horror",
-      "1": "Thriller"
+      "0": "Thriller"
     },
     "lead_actors": [
       " Robin Williams",

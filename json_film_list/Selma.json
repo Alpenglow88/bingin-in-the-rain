@@ -2,14 +2,14 @@
   "film": {
     "title": "Selma",
     "director": "Ava DuVernay",
-    "release_date": "2014-02-06",
+    "release_date": "2014-12-25",
     "film_id": 273895,
     "original_language": "English",
     "spoken_languages": [
       " English"
     ],
-    "overview": "\"Selma,\" as in Alabama, the place where segregation in the South was at its worst, leading to a march that ended in violence, forcing a famous statement by President Lyndon B. Johnson that ultimately led to the signing of the Civil Rights Act.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCZaJNKTxu5VGbJu4fwu2yIBQAz.jpg",
+    "overview": "\"Selma,\" as in Alabama, the place where segregation in the South was at its worst, leading to a march that ended in violence, forcing a famous statement by President Lyndon B. Johnson that ultimately led to the signing of the Voting Rights Act.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iA5h4P1VIumIiqJaZy9i4BCN6xd.jpg",
     "imdbScore": "7.5",
     "trailerLink": "https://www.youtube.com/watch?v=x6t7vVTxaic",
     "numberOfGenres": 2,

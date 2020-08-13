@@ -1,7 +1,7 @@
 {
   "film": {
     "title": "O Brother, Where Art Thou?",
-    "director": "Ethan Coen",
+    "director": "Joel Coen",
     "release_date": "2000-08-30",
     "film_id": 134,
     "original_language": "English",
@@ -27,12 +27,12 @@
     "supporting_actors": [
       " John Goodman",
       " Holly Hunter",
-      " Chris Thomas King",
+      " Musetta Vander",
       " Charles Durning",
       " Del Pentecost",
       " Michael Badalucco",
-      " J.R. Horne",
-      " Brian Reddy"
+      " Chris Thomas King",
+      " J.R. Horne"
     ]
   }
 }

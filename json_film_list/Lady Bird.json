@@ -12,10 +12,11 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iySFtKLrWvVzXzlFj7x1zalxi5G.jpg",
     "imdbScore": "7.3",
     "trailerLink": "https://www.youtube.com/watch?v=cNi_HC839Wo",
-    "numberOfGenres": 1,
+    "numberOfGenres": 2,
     "watchOn": "Apple TV",
     "genres": {
-      "0": "Drama"
+      "0": "Drama",
+      "1": "Comedy"
     },
     "lead_actors": [
       " Saoirse Ronan",

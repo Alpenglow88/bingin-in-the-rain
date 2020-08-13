@@ -1,36 +1,38 @@
 {
   "film": {
     "title": "Day of the Dead",
-    "director": "Steve Miner",
-    "release_date": "2008-04-08",
-    "film_id": 13613,
+    "director": "George A. Romero",
+    "release_date": "1985-07-19",
+    "film_id": 8408,
     "original_language": "English",
     "spoken_languages": [
+      " Spanish; Castilian",
       " English"
     ],
-    "overview": "When a small Colorado town is overrun by the flesh hungry dead, a small group of survivors try to escape in a last ditch effort to stay alive.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2Elh5NNGDR5kmKWQ2CQF7Ufvzs.jpg",
-    "imdbScore": "4.9",
-    "trailerLink": "https://www.youtube.com/watch?v=LrI2xITvWts",
-    "numberOfGenres": 1,
+    "overview": "Trapped in a missile silo, a small team of scientists, civilians and trigger-happy soldiers battle desperately to ensure the survival of the human race. However, the tension inside the base is reaching a breaking point, and the zombies are gathering outside.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ2emwXWwQc6VHW3fO4GZr0hXBt.jpg",
+    "imdbScore": "7",
+    "trailerLink": "https://www.youtube.com/watch?v=oATJVC5R0FA",
+    "numberOfGenres": 2,
     "watchOn": "Apple TV",
     "genres": {
-      "0": "Horror"
+      "0": "Horror",
+      "1": "Science Fiction"
     },
     "lead_actors": [
-      " Mena Suvari",
-      " Nick Cannon",
-      " Michael Welch"
+      " Lori Cardille",
+      " Anthony Dileo Jr.",
+      " Terry Alexander"
     ],
     "supporting_actors": [
-      " AnnaLynne McCord",
-      " Stark Sands",
-      " Matt Rippy",
-      " Pat Kilbane",
-      " Taylor Hoover",
-      " Christa Campbell",
-      " Ian McNeice",
-      " Ving Rhames"
+      " Joseph Pilato",
+      " Jarlath Conroy",
+      " Richard Liberty",
+      " Sherman Howard",
+      " Gary Klar",
+      " Ralph Marrero",
+      " John Amplas",
+      " Phillip G. Kellams"
     ]
   }
 }

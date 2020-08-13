@@ -12,11 +12,12 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAKqG5SpsHU7vI6Fh4UYxFrDDZZ.jpg",
     "imdbScore": "7",
     "trailerLink": "https://www.youtube.com/watch?v=ukJ5dMYx2no",
-    "numberOfGenres": 2,
+    "numberOfGenres": 3,
     "watchOn": "Apple TV",
     "genres": {
       "0": "Comedy",
-      "1": "History"
+      "1": "History",
+      "2": "Drama"
     },
     "lead_actors": [
       " Steve Buscemi",

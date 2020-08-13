@@ -12,12 +12,11 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikN5RPNIt26YEMDbsm0rnmNODio.jpg",
     "imdbScore": "6.5",
     "trailerLink": "https://www.youtube.com/watch?v=NsIilFNNmkY",
-    "numberOfGenres": 3,
+    "numberOfGenres": 2,
     "watchOn": "Mac Mini",
     "genres": {
       "0": "Horror",
-      "1": "Comedy",
-      "2": "Thriller"
+      "1": "Comedy"
     },
     "lead_actors": [
       " Kristen Connolly",
@@ -26,13 +25,13 @@
     ],
     "supporting_actors": [
       " Anna Hutchison",
+      " Greg Zach",
+      " Sigourney Weaver",
       " Richard Jenkins",
       " Bradley Whitford",
       " Jesse Williams",
       " Brian J. White",
-      " Amy Acker",
-      " Tim DeZarn",
-      " Tom Lenk"
+      " Amy Acker"
     ]
   }
 }

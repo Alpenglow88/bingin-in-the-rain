@@ -6,20 +6,17 @@
     "film_id": 924,
     "original_language": "English",
     "spoken_languages": [
-      " English",
-      " Italian"
+      " English"
     ],
     "overview": "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyIfbnRhzlBKNRUXZu17XT9uT9T.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7eC95IWm8BhMMsbxPgnkD0BI0J.jpg",
     "imdbScore": "7",
     "trailerLink": "https://www.youtube.com/watch?v=DV8mJcuYVaA",
-    "numberOfGenres": 4,
+    "numberOfGenres": 2,
     "watchOn": "Apple TV",
     "genres": {
-      "0": "Fantasy",
-      "1": "Horror",
-      "2": "Action",
-      "3": "Drama"
+      "0": "Action",
+      "1": "Horror"
     },
     "lead_actors": [
       " Sarah Polley",

@@ -12,16 +12,14 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
     "imdbScore": "6.7",
     "trailerLink": "https://www.youtube.com/watch?v=XvHSlHhh1gk",
-    "numberOfGenres": 7,
+    "numberOfGenres": 5,
     "watchOn": "Apple TV",
     "genres": {
       "0": "Action",
       "1": "Adventure",
       "2": "Animation",
       "3": "Comedy",
-      "4": "Family",
-      "5": "Science Fiction",
-      "6": "Fantasy"
+      "4": "Family"
     },
     "lead_actors": [
       " Chris Pratt",
@@ -35,8 +33,8 @@
       " Alison Brie",
       " Nick Offerman",
       " Maya Rudolph",
-      " Jadon Sand",
-      " Graham Miller"
+      " Will Ferrell",
+      " Jadon Sand"
     ]
   }
 }

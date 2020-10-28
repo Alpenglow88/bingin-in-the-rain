@@ -10,12 +10,13 @@
     ],
     "overview": "The story of Elwood P. Dowd who makes friends with a spirit taking the form of a human-sized rabbit named Harvey that only he sees (and a few privileged others on occasion also.) After his sister tries to commit him to a mental institution, a comedy of errors ensues. Elwood and Harvey become the catalysts for a family mending its wounds and for romance blossoming in unexpected places.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgd82hYmpiXDM1G867HqNaWe8wj.jpg",
-    "imdbScore": "7.8",
+    "imdbScore": "7.7",
     "trailerLink": "https://www.youtube.com/watch?v=VvfXvW2wsuQ",
-    "numberOfGenres": 1,
+    "numberOfGenres": 2,
     "watchOn": "Apple TV",
     "genres": {
-      "0": "Comedy"
+      "0": "Comedy",
+      "1": "Fantasy"
     },
     "lead_actors": [
       " James Stewart",

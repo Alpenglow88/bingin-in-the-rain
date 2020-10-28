@@ -13,14 +13,13 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg",
     "imdbScore": "6.4",
     "trailerLink": "https://www.youtube.com/watch?v=-CKPj4O5_9s",
-    "numberOfGenres": 5,
+    "numberOfGenres": 4,
     "watchOn": "Apple TV",
     "genres": {
       "0": "Crime",
       "1": "Drama",
       "2": "Mystery",
-      "3": "Romance",
-      "4": "Thriller"
+      "3": "Thriller"
     },
     "lead_actors": [
       " Emily Blunt",

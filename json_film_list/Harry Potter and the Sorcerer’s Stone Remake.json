@@ -1,0 +1,27 @@
+{
+  "film": {
+    "title": "Harry Potter and the Sorcerer’s Stone Remake",
+    "director": "Ryden Lewis",
+    "release_date": "2020-10-24",
+    "film_id": 754590,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "After 10 years, Ryden Lewis and Jack Scholtz have finally returned to the roles of Harry and Ron primarily, along with plenty of other of your favorite characters to recreate the magic. Join them as they rediscover the wonders of Hogwarts and uncover the evils that lie beneath.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EMkzJ2ljGrJ2r40bdvWoPR0mKK.jpg",
+    "imdbScore": "0",
+    "trailerLink": "https://www.youtube.com/watch?v=-",
+    "numberOfGenres": 0,
+    "watchOn": "Apple TV",
+    "genres": {
+    },
+    "lead_actors": [
+      " Jack Scholtz",
+      " Ryden Lewis"
+    ],
+    "supporting_actors": [
+
+    ]
+  }
+}

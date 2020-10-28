@@ -12,11 +12,12 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MmTHpn2Y8emqvBgvOjufImUmKZ.jpg",
     "imdbScore": "6.8",
     "trailerLink": "https://www.youtube.com/watch?v=4KNWbfRDEv8",
-    "numberOfGenres": 2,
+    "numberOfGenres": 3,
     "watchOn": "Apple TV",
     "genres": {
       "0": "Horror",
-      "1": "Western"
+      "1": "Western",
+      "2": "History"
     },
     "lead_actors": [
       " Kurt Russell",

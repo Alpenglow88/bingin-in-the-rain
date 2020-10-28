@@ -12,21 +12,20 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6NYfVUyM6CDURtZSnBpz647Ldd.jpg",
     "imdbScore": "7.4",
     "trailerLink": "https://www.youtube.com/watch?v=YdgQj7xcDJo",
-    "numberOfGenres": 3,
+    "numberOfGenres": 2,
     "watchOn": "Apple TV",
     "genres": {
       "0": "Adventure",
-      "1": "Family",
-      "2": "Fantasy"
+      "1": "Fantasy"
     },
     "lead_actors": [
-      " Colin Farrell",
       " Eddie Redmayne",
-      " Katherine Waterston"
+      " Katherine Waterston",
+      " Dan Fogler"
     ],
     "supporting_actors": [
-      " Dan Fogler",
       " Alison Sudol",
+      " Colin Farrell",
       " Jon Voight",
       " Ron Perlman",
       " Johnny Depp",

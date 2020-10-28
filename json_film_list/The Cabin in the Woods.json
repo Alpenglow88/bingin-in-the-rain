@@ -9,14 +9,16 @@
       " English"
     ],
     "overview": "Five college friends spend the weekend at a remote cabin in the woods, where they get more than they bargained for. Together, they must discover the truth behind the cabin in the woods.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikN5RPNIt26YEMDbsm0rnmNODio.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaf5WGNnP5rHZnOPRI3D6DodXh8.jpg",
     "imdbScore": "6.5",
     "trailerLink": "https://www.youtube.com/watch?v=NsIilFNNmkY",
-    "numberOfGenres": 2,
+    "numberOfGenres": 4,
     "watchOn": "Mac Mini",
     "genres": {
       "0": "Horror",
-      "1": "Comedy"
+      "1": "Comedy",
+      "2": "Fantasy",
+      "3": "Thriller"
     },
     "lead_actors": [
       " Kristen Connolly",
@@ -25,9 +27,9 @@
     ],
     "supporting_actors": [
       " Anna Hutchison",
-      " Greg Zach",
       " Sigourney Weaver",
       " Richard Jenkins",
+      " Greg Zach",
       " Bradley Whitford",
       " Jesse Williams",
       " Brian J. White",

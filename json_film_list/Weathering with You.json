@@ -12,14 +12,13 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg",
     "imdbScore": "8.1",
     "trailerLink": "https://www.youtube.com/watch?v=Q6iK6DjV_iE",
-    "numberOfGenres": 5,
+    "numberOfGenres": 4,
     "watchOn": "Mac Mini",
     "genres": {
       "0": "Animation",
       "1": "Romance",
       "2": "Fantasy",
-      "3": "Drama",
-      "4": "Adventure"
+      "3": "Drama"
     },
     "lead_actors": [
       " Kotaro Daigo",
@@ -29,7 +28,7 @@
     "supporting_actors": [
       " Sakura Kiryu",
       " Sei Hiraizumi",
-      " Yūki Kaji",
+      " Yūki Kaji",
       " Chieko Baisho",
       " Shun Oguri",
       " Sumi Shimamoto",

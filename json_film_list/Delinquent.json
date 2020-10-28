@@ -1,33 +1,37 @@
 {
   "film": {
     "title": "Delinquent",
-    "director": "Kieran Valla",
-    "release_date": "2016-07-05",
-    "film_id": 410311,
+    "director": "David I. Strasser",
+    "release_date": "2018-04-19",
+    "film_id": 548899,
     "original_language": "English",
     "spoken_languages": [
       " English"
     ],
-    "overview": "Delinquent is the thrilling and dramatic exploration of a teenager's struggle to manage the fall-out of a robbery gone wrong.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uk0eBODPwbRhVPHMXZuyrPXToJ.jpg",
-    "imdbScore": "6.1",
-    "trailerLink": "https://www.youtube.com/watch?v=-",
-    "numberOfGenres": 3,
+    "overview": "A rebellious teen is sentenced to serve time on his uncle's organic farm, only to learn that there's much more to the farm than meets the eye.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ANtdyxa9ralMe0CNg45LNFXeMW.jpg",
+    "imdbScore": "9",
+    "trailerLink": "https://www.youtube.com/watch?v=WodSZVwIO78",
+    "numberOfGenres": 2,
     "watchOn": "Apple TV",
     "genres": {
-      "0": "Drama",
-      "1": "Family",
-      "2": "Crime"
+      "0": "Crime",
+      "1": "Drama"
     },
     "lead_actors": [
-      " Kim Director",
-      " Erin Darke",
-      " Bill Sage"
+      " Jessie Platt",
+      " Julian Paul",
+      " Katie Hayashida"
     ],
     "supporting_actors": [
-      " Alex Shaffer",
-      " Austin Zajur",
-      " Kevin Bigley"
+      " Moishe Teichman",
+      " Pauline Egan",
+      " Simon Bornhauser",
+      " Saul Camargo",
+      " Nina Winkler",
+      " Peter Dwerryhouse",
+      " Ross Smith",
+      " Jason Liesch"
     ]
   }
 }

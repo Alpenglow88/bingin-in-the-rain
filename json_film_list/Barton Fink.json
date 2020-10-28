@@ -12,12 +12,11 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/846d8FclibtOIoUW7PxpT0nCG4C.jpg",
     "imdbScore": "7.5",
     "trailerLink": "https://www.youtube.com/watch?v=WK0WjWlVO9w",
-    "numberOfGenres": 3,
+    "numberOfGenres": 2,
     "watchOn": "Apple TV",
     "genres": {
       "0": "Comedy",
-      "1": "Drama",
-      "2": "Horror"
+      "1": "Drama"
     },
     "lead_actors": [
       " John Turturro",

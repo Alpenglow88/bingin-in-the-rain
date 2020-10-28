@@ -1,37 +1,34 @@
 {
   "film": {
     "title": "The Voices",
-    "director": "Marjane Satrapi",
-    "release_date": "2014-01-19",
-    "film_id": 244458,
+    "director": "Wesley Alley",
+    "release_date": "2020-07-03",
+    "film_id": 639250,
     "original_language": "English",
     "spoken_languages": [
       " English"
     ],
-    "overview": "A mentally unhinged factory worker must decide whether to listen to his talking cat and become a killer, or follow his dog's advice to keep striving for normalcy.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgaUxeI43IxERR6AVbwFmr4bUKl.jpg",
-    "imdbScore": "6.2",
-    "trailerLink": "https://www.youtube.com/watch?v=3hQpV9Q0A7E",
+    "overview": "Angry and upset after a sudden breakup with her fiancé, Grace Crawford seeks sanctuary at the remote home of her sister, Catherine. It becomes clear that Catherine is suffering from paranoid schizophrenia, much like their late mother, who had taken her own life. While coming to terms with this heavy realization, Grace also uncovers another terrible little secret that has her struggling to maintain her own sanity and ultimately scurrying to save herself and her family from further harm.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFV4GnGheaTRpe5FHHbxyWsOpsp.jpg",
+    "imdbScore": "6.3",
+    "trailerLink": "https://www.youtube.com/watch?v=jofvuyP4RxA",
     "numberOfGenres": 2,
     "watchOn": "Apple TV",
     "genres": {
-      "0": "Comedy",
-      "1": "Crime"
+      "0": "Horror",
+      "1": "Thriller"
     },
     "lead_actors": [
-      " Ryan Reynolds",
-      " Gemma Arterton",
-      " Anna Kendrick"
+      " Amanda Markowitz",
+      " Victoria Matlock",
+      " Brendan Sexton III"
     ],
     "supporting_actors": [
-      " Jacki Weaver",
-      " Ella Smith",
-      " Paul Chahidi",
-      " Stanley Townsend",
-      " Adi Shankar",
-      " Sam Spruell",
-      " Valerie Koch",
-      " Gulliver McGrath"
+      " Lin Shaye",
+      " Juliana Sada",
+      " Jessica Sonneborn",
+      " Bradley Fowler",
+      " Sharon Roggio"
     ]
   }
 }

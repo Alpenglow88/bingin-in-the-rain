@@ -12,12 +12,11 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rBo2AfWSlvsPmYFdJsNUMfkNIo.jpg",
     "imdbScore": "6.5",
     "trailerLink": "https://www.youtube.com/watch?v=YqFhKdRFPvA",
-    "numberOfGenres": 3,
+    "numberOfGenres": 2,
     "watchOn": "Apple TV",
     "genres": {
       "0": "Thriller",
-      "1": "Horror",
-      "2": "Mystery"
+      "1": "Horror"
     },
     "lead_actors": [
       " Elle Fanning",

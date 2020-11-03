@@ -1,36 +1,37 @@
 {
   "film": {
     "title": "Wild Bill",
-    "director": "Dexter Fletcher",
-    "release_date": "2011-10-21",
-    "film_id": 86593,
+    "director": "Walter Hill",
+    "release_date": "1995-12-01",
+    "film_id": 65796,
     "original_language": "English",
     "spoken_languages": [
-      " English"
+
     ],
-    "overview": "Out on parole after 8 years inside Bill Hayward returns home to find his now 11 and 15 year old sons abandoned by their mother and fending for themselves. Unwilling to play Dad, an uncaring Bill is determined to move on.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KKZ8NNVVXfURBeXXw2BrZhHjb4.jpg",
-    "imdbScore": "6.8",
-    "trailerLink": "https://www.youtube.com/watch?v=RHJXLYYLOfM",
-    "numberOfGenres": 1,
+    "overview": "Biopic about famous gunslinger Wild Bill Hickock. The early career of legendary lawman is telescoped and culminates in his relocation in Deadwood and a reunion with Calamity Jane.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5sQTDwc4BcvRCBAhnujhBPIEO1.jpg",
+    "imdbScore": "5.8",
+    "trailerLink": "https://www.youtube.com/watch?v=chceChQAVjI",
+    "numberOfGenres": 2,
     "watchOn": "Mac Mini",
     "genres": {
-      "0": "Drama"
+      "0": "Action",
+      "1": "Western"
     },
     "lead_actors": [
-      " Charlie Creed-Miles",
-      " Will Poulter",
-      " Sammy Williams"
+      " Jeff Bridges",
+      " Ellen Barkin",
+      " John Hurt"
     ],
     "supporting_actors": [
-      " Leo Gregory",
-      " Andy Serkis",
-      " Jason Flemyng",
-      " Jaime Winstone",
-      " Liz White",
-      " Sean Pertwee",
-      " Olivia Williams",
-      " Marc Warren"
+      " Diane Lane",
+      " Keith Carradine",
+      " David Arquette",
+      " Christina Applegate",
+      " Bruce Dern",
+      " James Gammon",
+      " Marjoe Gortner",
+      " James Remar"
     ]
   }
 }

@@ -1053,6 +1053,48 @@
 ,
 {
   "film": {
+    "title": "Bill & Ted's Excellent Adventure",
+    "director": "Stephen Herek",
+    "release_date": "1989-02-17",
+    "film_id": 1648,
+    "original_language": "English",
+    "spoken_languages": [
+      " English",
+      " French",
+      " German",
+      " Greek, Modern (1453-)"
+    ],
+    "overview": "Bill and Ted are high school buddies starting a band. They are also about to fail their history class—which means Ted would be sent to military school—but receive help from Rufus, a traveller from a future where their band is the foundation for a perfect society. With the use of Rufus' time machine, Bill and Ted travel to various points in history, returning with important figures to help them complete their final history presentation.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcLGk8CkZW4rHK1kqD9Jdst5vd8.jpg",
+    "imdbScore": "6.9",
+    "trailerLink": "https://www.youtube.com/watch?v=sFy17auuK08",
+    "numberOfGenres": 3,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Adventure",
+      "1": "Comedy",
+      "2": "Science Fiction"
+    },
+    "lead_actors": [
+      " Keanu Reeves",
+      " Alex Winter",
+      " George Carlin"
+    ],
+    "supporting_actors": [
+      " Terry Camilleri",
+      " Dan Shor",
+      " Tony Steedman",
+      " Rod Loomis",
+      " Al Leong",
+      " Jane Wiedlin",
+      " Robert V. Barron",
+      " Clifford David"
+    ]
+  }
+}
+,
+{
+  "film": {
     "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
     "director": "Cathy Yan",
     "release_date": "2020-02-05",
@@ -2431,7 +2473,7 @@
     ],
     "overview": "South Africa, 1978. Tim Jenkin and Stephen Lee, two white political activists from the African National Congress imprisoned by the apartheid regime, put a plan in motion to escape from the infamous Pretoria Prison.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GGS0jkFFCnmdStvZED6NL6V7gd.jpg",
-    "imdbScore": "7.3",
+    "imdbScore": "7.4",
     "trailerLink": "https://www.youtube.com/watch?v=ao1A4SyfVhg",
     "numberOfGenres": 3,
     "watchOn": "Apple TV",
@@ -2777,7 +2819,7 @@
       " English"
     ],
     "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dlcOgehxDK4QaC2QDfqwQFbk5C.jpg",
     "imdbScore": "8.4",
     "trailerLink": "https://www.youtube.com/watch?v=BdJKm16Co6M",
     "numberOfGenres": 1,
@@ -3715,7 +3757,7 @@
     ],
     "overview": "After 10 years, Ryden Lewis and Jack Scholtz have finally returned to the roles of Harry and Ron primarily, along with plenty of other of your favorite characters to recreate the magic. Join them as they rediscover the wonders of Hogwarts and uncover the evils that lie beneath.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EMkzJ2ljGrJ2r40bdvWoPR0mKK.jpg",
-    "imdbScore": "0",
+    "imdbScore": "4.5",
     "trailerLink": "https://www.youtube.com/watch?v=-",
     "numberOfGenres": 0,
     "watchOn": "Apple TV",
@@ -4216,19 +4258,19 @@
       "5": "Family"
     },
     "lead_actors": [
-      " Randy Thom",
       " Jay Baruchel",
-      " Gideon Emery"
+      " Cate Blanchett",
+      " Gerard Butler"
     ],
     "supporting_actors": [
-      " Cate Blanchett",
-      " Gerard Butler",
-      " Simon Kassianides",
       " Craig Ferguson",
       " America Ferrera",
       " Jonah Hill",
       " Christopher Mintz-Plasse",
-      " T. J. Miller"
+      " T. J. Miller",
+      " Kristen Wiig",
+      " Djimon Hounsou",
+      " Kit Harington"
     ]
   }
 }
@@ -4765,7 +4807,7 @@
       " Marguerite Wheatley",
       " Leleti Khumalo",
       " Patrick Lyster",
-      " Scott Eastwood"
+      " Penny Downie"
     ]
   }
 }
@@ -5851,7 +5893,7 @@
       " Swedish"
     ],
     "overview": "Set in 1982 in the suburb of Blackeberg, Stockholm, twelve-year-old Oskar is a lonely outsider, bullied at school by his classmates; at home, Oskar dreams of revenge against a trio of bullies. He befriends his twelve-year-old, next-door neighbor Eli, who only appears at night in the snow-covered playground outside their building.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hezTKTuZMp0l2ufihKwPgLmfLg.jpg",
     "imdbScore": "7.5",
     "trailerLink": "https://www.youtube.com/watch?v=ICp4g9p_rgo",
     "numberOfGenres": 2,
@@ -6114,7 +6156,7 @@
     ],
     "overview": "An exploration of the history, artistry and emotional power of cinema sound, as revealed by legendary sound designers and visionary directors, via interviews, clips from movies, and a look at their actual process of creation and discovery.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ9K2ElWpFcfvwUK4DoDVPteK2z.jpg",
-    "imdbScore": "6.5",
+    "imdbScore": "6.6",
     "trailerLink": "https://www.youtube.com/watch?v=WsIE4x3xU0Y",
     "numberOfGenres": 1,
     "watchOn": "Apple TV",
@@ -6919,7 +6961,7 @@
       " English"
     ],
     "overview": "Three office workers strike back at their evil employers by hatching a hapless attempt to embezzle money.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gA49wTJMIr3TUM6fEDkjeGxkYgZ.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fiB7DY9mATGFOCTd4cgK6k2Wzr9.jpg",
     "imdbScore": "7.4",
     "trailerLink": "https://www.youtube.com/watch?v=G_wiXgRWrIU",
     "numberOfGenres": 1,
@@ -7303,7 +7345,7 @@
       " English"
     ],
     "overview": "The debut film from Darren Aronofsky in which a mathematical genius Maximilian Cohen discovers a link in the connection between numbers and reality and thus believes he can predict the future.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnZEukSpVPCGrwsysqfQpLgFraF.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DrYeQZcnJieyrQz9Doho3srPir.jpg",
     "imdbScore": "7.1",
     "trailerLink": "https://www.youtube.com/watch?v=jo18VIoR2xU",
     "numberOfGenres": 3,
@@ -8143,14 +8185,15 @@
     ],
     "overview": "Chris wants to show girlfriend Tina his world, but events soon conspire against the couple and their dream caravan holiday takes a very wrong turn.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eL3POLwfhVeRfPOALFokh9JiUfd.jpg",
-    "imdbScore": "6.4",
+    "imdbScore": "6.3",
     "trailerLink": "https://www.youtube.com/watch?v=OM4IFqV6RYA",
-    "numberOfGenres": 3,
+    "numberOfGenres": 4,
     "watchOn": "Mac Mini",
     "genres": {
       "0": "Adventure",
       "1": "Comedy",
-      "2": "Crime"
+      "2": "Crime",
+      "3": "Horror"
     },
     "lead_actors": [
       " Alice Lowe",
@@ -8205,6 +8248,47 @@
       " Nana Komatsu",
       " Yoshi Oida",
       " Ciarán Hinds"
+    ]
+  }
+}
+,
+{
+  "film": {
+    "title": "Sing",
+    "director": "Garth Jennings",
+    "release_date": "2016-11-23",
+    "film_id": 335797,
+    "original_language": "English",
+    "spoken_languages": [
+      " English"
+    ],
+    "overview": "A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW0kUtXTOVlHTVhDO2VzNBACAHX.jpg",
+    "imdbScore": "7",
+    "trailerLink": "https://www.youtube.com/watch?v=Zvjmt4pwtdg",
+    "numberOfGenres": 5,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Animation",
+      "1": "Comedy",
+      "2": "Drama",
+      "3": "Family",
+      "4": "Music"
+    },
+    "lead_actors": [
+      " Matthew McConaughey",
+      " Reese Witherspoon",
+      " Seth MacFarlane"
+    ],
+    "supporting_actors": [
+      " Scarlett Johansson",
+      " John C. Reilly",
+      " Taron Egerton",
+      " Tori Kelly",
+      " Rhea Perlman",
+      " Nick Kroll",
+      " Nick Offerman",
+      " Garth Jennings"
     ]
   }
 }
@@ -8368,6 +8452,49 @@
       " Liam Hourican",
       " Kevin Swierszcz",
       " Will Collins"
+    ]
+  }
+}
+,
+{
+  "film": {
+    "title": "Sonic the Hedgehog",
+    "director": "Jeff Fowler",
+    "release_date": "2020-02-12",
+    "film_id": 454626,
+    "original_language": "English",
+    "spoken_languages": [
+      " Hindi",
+      " English",
+      " Italian",
+      " Japanese"
+    ],
+    "overview": "Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+    "imdbScore": "7.5",
+    "trailerLink": "https://www.youtube.com/watch?v=szby7ZHLnkA",
+    "numberOfGenres": 4,
+    "watchOn": "Apple TV",
+    "genres": {
+      "0": "Action",
+      "1": "Science Fiction",
+      "2": "Comedy",
+      "3": "Family"
+    },
+    "lead_actors": [
+      " Ben Schwartz",
+      " James Marsden",
+      " Jim Carrey"
+    ],
+    "supporting_actors": [
+      " Tika Sumpter",
+      " Natasha Rothwell",
+      " Adam Pally",
+      " Lee Majdoub",
+      " Neal McDonough",
+      " Tom Butler",
+      " Frank C. Turner",
+      " Melody Nosipho Niemann"
     ]
   }
 }
@@ -9143,12 +9270,12 @@
       " Chris Hemsworth"
     ],
     "supporting_actors": [
+      " Jesse Williams",
       " Anna Hutchison",
       " Sigourney Weaver",
       " Richard Jenkins",
       " Greg Zach",
       " Bradley Whitford",
-      " Jesse Williams",
       " Brian J. White",
       " Amy Acker"
     ]
@@ -9440,7 +9567,7 @@
       " English"
     ],
     "overview": "The sequel to House of 1000 Corpses – the Firefly family are ambushed at their isolated home by Sheriff Wydell and a squad of armed men guns blazing – yet only Otis and his sister, Baby, manage to escape the barrage of bullets unharmed. Hiding out in a backwater motel, the wanted siblings wait to rendezvous with their errant father, Captain Spaulding, killing whoever happens to stand in their way.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jh7DntVbhrNS4JkeEQW6QxcPWim.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAmK6Ev2IeI8VqNbagpF3yxPOSD.jpg",
     "imdbScore": "6.7",
     "trailerLink": "https://www.youtube.com/watch?v=poxddLZq2k0",
     "numberOfGenres": 3,
@@ -9826,7 +9953,7 @@
       " French"
     ],
     "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WicOAzPkpBWajjvcFazPLIuu0A.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
     "imdbScore": "8",
     "trailerLink": "https://www.youtube.com/watch?v=1Fg5iWmQjwk",
     "numberOfGenres": 2,
@@ -9864,7 +9991,7 @@
       " English"
     ],
     "overview": "An adaptation of F. Scott Fitzgerald's Long Island-set novel, where Midwesterner Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, however, Carraway will see through the cracks of Gatsby's nouveau riche existence, where obsession, madness, and tragedy await.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/630k3gRpPZlUHhCSNoMGlJDRTEN.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nimh1rrDDLhgpG8XAYoUZXHYwb6.jpg",
     "imdbScore": "7.4",
     "trailerLink": "https://www.youtube.com/watch?v=4w8lohkQtbY",
     "numberOfGenres": 2,
@@ -10174,7 +10301,7 @@
     "spoken_languages": [
       " English"
     ],
-    "overview": "In 1994 a 13-year-old boy disappeared without a trace from his home in San Antonio, Texas. Three and a half years later he is found alive thousands of miles away in a village in southern Spain with a horrifying story of kidnap and torture. His family is overjoyed to bring him home. But all is not quite as it seems.",
+    "overview": "In 1994 a 13-year-old boy disappeared without a trace from his home in San Antonio, Texas. Three-and-a-half years later he is found alive thousands of miles away in a village in southern Spain with a horrifying story of kidnap and torture. His family is overjoyed to bring him home. But all is not quite as it seems.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aISYgZUBjNLRbIxb10UHTHHPHIe.jpg",
     "imdbScore": "7.4",
     "trailerLink": "https://www.youtube.com/watch?v=vVOAJt0VVBY",
@@ -11037,31 +11164,38 @@
 ,
 {
   "film": {
-    "title": "The one I love",
-    "director": "Élie Chouraqui",
-    "release_date": "2009-04-22",
-    "film_id": 17407,
+    "title": "The One I Love",
+    "director": "Charlie McDowell",
+    "release_date": "2014-08-08",
+    "film_id": 242090,
     "original_language": "English",
     "spoken_languages": [
-      " French"
+      " English"
     ],
-    "overview": "Isabelle est une trentenaire célibataire (depuis qu'elle est divorcée). Elle est belle, sexy, drôle, émouvante, intelligente... Irrésistible ! Elle est numéro 2 d'un journal qu'elle a créé avec Brice son partenaire et qu'elle dirige d'une main de fer même pas recouverte d'un gant de velours ! Tous les hommes sont fous d'elle. Tous ! Trois en particuliers ! Son fils, Achille, 10 ans, qui depuis le",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUAdUJ1hYlkmYQ3zbniZa1E8mHd.jpg",
-    "imdbScore": "4.5",
-    "trailerLink": "https://www.youtube.com/watch?v=-",
-    "numberOfGenres": 1,
+    "overview": "On the brink of separation, Ethan and Sophie escape to a beautiful vacation house for a weekend getaway in an attempt to save their marriage. What begins as a romantic and fun retreat soon becomes surreal, when an unexpected discovery forces the two to examine themselves, their relationship, and their future.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOvd8tpltq8LzkjyDwSzG0Phah4.jpg",
+    "imdbScore": "6.9",
+    "trailerLink": "https://www.youtube.com/watch?v=jCOvhojlZzQ",
+    "numberOfGenres": 3,
     "watchOn": "Apple TV",
     "genres": {
-      "0": "Comedy"
+      "0": "Romance",
+      "1": "Comedy",
+      "2": "Drama"
     },
     "lead_actors": [
-      " Barbara Schulz",
-      " Gérard Darmon",
-      " Anton Balekdjian"
+      " Mark Duplass",
+      " Elisabeth Moss",
+      " Ted Danson"
     ],
     "supporting_actors": [
-      " Marc Lavoine",
-      " Liina Brunelle"
+      " Kiana Cason",
+      " Kaitlyn Dodson",
+      " Lori Farrar",
+      " Marlee Matlin",
+      " Tim Peddicord",
+      " Ryan Pederson",
+      " Mary Steenburgen"
     ]
   }
 }
@@ -11297,8 +11431,8 @@
     "film_id": 1913,
     "original_language": "Spanish; Castilian",
     "spoken_languages": [
-      " Galician",
-      " Spanish; Castilian"
+      " Spanish; Castilian",
+      " Galician"
     ],
     "overview": "The Sea Inside is about Spaniard Ramón Sampedro, who fought a 30-year campaign to win the right to end his life with dignity. It is the story of Ramón’s relationships with two women: Julia a lawyer who supports his cause, and Rosa, a local woman who wants to convince him that life is worth living.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQW1JJKCUg02cmWBzr9JFu9vM1V.jpg",
@@ -11845,7 +11979,7 @@
     ],
     "overview": "In Skoddeheimen, Norway, 15-year-old Alma is consumed by her hormones and fantasies that range from sweetly romantic images of Artur, the boyfriend she yearns for, to daydreams about practically everybody she lays eyes on.",
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4E9L07VKcYThzajtupjJoi4SUsY.jpg",
-    "imdbScore": "6.3",
+    "imdbScore": "6.4",
     "trailerLink": "https://www.youtube.com/watch?v=Y9EcnqMzNNk",
     "numberOfGenres": 2,
     "watchOn": "Mac Mini",
@@ -11902,10 +12036,10 @@
       " Scott Dymond",
       " Jeremy McWilliams",
       " Lynsey Taylor Mackay",
+      " Antonia Campbell-Hughes",
       " Dougie McConnell",
       " Kevin McAlinden",
-      " D. Meade",
-      " Andrew Gorman"
+      " D. Meade"
     ]
   }
 }
@@ -12445,36 +12579,37 @@
 {
   "film": {
     "title": "Wild Bill",
-    "director": "Dexter Fletcher",
-    "release_date": "2011-10-21",
-    "film_id": 86593,
+    "director": "Walter Hill",
+    "release_date": "1995-12-01",
+    "film_id": 65796,
     "original_language": "English",
     "spoken_languages": [
-      " English"
+
     ],
-    "overview": "Out on parole after 8 years inside Bill Hayward returns home to find his now 11 and 15 year old sons abandoned by their mother and fending for themselves. Unwilling to play Dad, an uncaring Bill is determined to move on.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KKZ8NNVVXfURBeXXw2BrZhHjb4.jpg",
-    "imdbScore": "6.8",
-    "trailerLink": "https://www.youtube.com/watch?v=RHJXLYYLOfM",
-    "numberOfGenres": 1,
+    "overview": "Biopic about famous gunslinger Wild Bill Hickock. The early career of legendary lawman is telescoped and culminates in his relocation in Deadwood and a reunion with Calamity Jane.",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5sQTDwc4BcvRCBAhnujhBPIEO1.jpg",
+    "imdbScore": "5.8",
+    "trailerLink": "https://www.youtube.com/watch?v=chceChQAVjI",
+    "numberOfGenres": 2,
     "watchOn": "Mac Mini",
     "genres": {
-      "0": "Drama"
+      "0": "Action",
+      "1": "Western"
     },
     "lead_actors": [
-      " Charlie Creed-Miles",
-      " Will Poulter",
-      " Sammy Williams"
+      " Jeff Bridges",
+      " Ellen Barkin",
+      " John Hurt"
     ],
     "supporting_actors": [
-      " Leo Gregory",
-      " Andy Serkis",
-      " Jason Flemyng",
-      " Jaime Winstone",
-      " Liz White",
-      " Sean Pertwee",
-      " Olivia Williams",
-      " Marc Warren"
+      " Diane Lane",
+      " Keith Carradine",
+      " David Arquette",
+      " Christina Applegate",
+      " Bruce Dern",
+      " James Gammon",
+      " Marjoe Gortner",
+      " James Remar"
     ]
   }
 }
@@ -12609,7 +12744,7 @@
       " English"
     ],
     "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLMpv8ckcDP3kiEd2fhwY7XrjHz.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg",
     "imdbScore": "6.8",
     "trailerLink": "https://www.youtube.com/watch?v=slfrrjPndV4",
     "numberOfGenres": 5,

@@ -1,6 +1,6 @@
 {
   "name": "bingin-in-the-rain",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "A movie screening availability app for a local server",
   "main": "app.js",
   "scripts": {
